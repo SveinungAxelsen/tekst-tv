@@ -277,11 +277,7 @@ private struct TeletextLineView: View {
             if !line.bodyRows.isEmpty {
                 VStack(alignment: .leading, spacing: 2) {
                     ForEach(line.bodyRows) { row in
-                        Text(row.text)
-                            .font(.system(size: 29, weight: .semibold))
-                            .foregroundStyle(row.color)
-                            .lineLimit(1)
-                            .minimumScaleFactor(0.75)
+                        BodyRowView(row: row)
                     }
                 }
             }
@@ -305,6 +301,34 @@ private struct TeletextLineView: View {
             return text.range(of: #"^\d{1,2}\.\d{2}|\d+\.\s|^[A-ZÆØÅ][\p{L}\s.'/-]{1,28}\s{2,}"#, options: .regularExpression) != nil
         }
         return listLikeRows.count >= max(3, rows.count / 2)
+    }
+}
+
+private struct BodyRowView: View {
+    let row: TeletextBodyRow
+
+    var body: some View {
+        if let label = row.label, let detail = row.detail {
+            HStack(alignment: .firstTextBaseline, spacing: 8) {
+                Text(label)
+                    .font(.system(size: 29, weight: .black))
+                    .foregroundStyle(row.color)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.75)
+
+                Text(detail)
+                    .font(.system(size: 29, weight: .semibold))
+                    .foregroundStyle(.white.opacity(0.92))
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.75)
+            }
+        } else {
+            Text(row.text)
+                .font(.system(size: 29, weight: .semibold))
+                .foregroundStyle(row.color)
+                .lineLimit(1)
+                .minimumScaleFactor(0.75)
+        }
     }
 }
 

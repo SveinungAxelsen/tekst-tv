@@ -85,6 +85,8 @@ struct TeletextLine: Decodable, Identifiable {
 struct TeletextBodyRow: Decodable, Identifiable {
     let id: String
     let text: String
+    let label: String?
+    let detail: String?
     let colorName: TeletextColor
 
     var color: Color {

@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 22.05 kl. 18:11",
+  "updated": "Oppdatert 22.05 kl. 19:20",
   "sections": [
     {
       "id": "front",
@@ -23,7 +23,7 @@
               "headline": "Siste nytt",
               "colorName": "cyan",
               "isImportant": false,
-              "body": "110 Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig\n130 Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig\n120 Hva er USAs neste trekk?"
+              "body": "110 Tromsø-væring aktuell for Sveriges landslag\n130 Tromsø-væring aktuell for Sveriges landslag\n120 Hva er USAs neste trekk?"
             },
             {
               "id": "neste-kamp",
@@ -37,7 +37,7 @@
               "headline": "Været",
               "colorName": "yellow",
               "isImportant": false,
-              "body": "Alta: Klart, 14 grader, vind 3 m/s\nBørselv: Klart, 16 grader, vind 2 m/s\nCahppiljohka: Klart, 15 grader, vind 3 m/s"
+              "body": "Alta: Delvis skyet, 14 grader, vind 2 m/s\nBørselv: Klart, 15 grader, vind 2 m/s\nCahppiljohka: Klart, 15 grader, vind 1 m/s"
             }
           ]
         }
@@ -56,12 +56,12 @@
           "lines": [
             {
               "id": "110-1",
-              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
+              "headline": "Tromsø-væring aktuell for Sveriges landslag",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
-              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
-              "source": "NRK Norge, publisert 22.05 kl. 16:10"
+              "ingress": "Suksess i Hammarby kan gi landslagsspill for Sverige for Elin Åhgren Sørum.",
+              "body": "Elin Åhgren Sørum opplever suksess i Hammarby. Nå er den tidligere Fløya-\nspilleren aktuell for det svenske A-landslaget. NRK prøver å få i gang en\nvideosamtale med Sørum, som bor i sentrum av Stockholm. – Det er litt\nvanskelig, jeg har en Ipad, skjønner du, sier hun når NRK ber henne justere\nbilledutsnittet. Men i sin første sesong med Stockholms-klubben Hammarby, har\ndet gått lekende lett for Elin Åhgren Sørum fra Tromsø. Midtbanespilleren har\nlevert tre mål og fire målgivende på fem kamper i Damallsvenskan.",
+              "source": "NRK Norge, publisert 22.05 kl. 17:09"
             }
           ]
         },
@@ -72,12 +72,12 @@
           "lines": [
             {
               "id": "111-1",
-              "headline": "Eig tre eigedommar politiet meiner er cannabisplantasjar: – For meg er dette ei overrasking",
+              "headline": "Kommunen raser: – Vi kan ikke akseptere et slikt tap",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mannen frå Litauen hevdar han ikkje visste kva som gjekk føre seg på\neigedommane.",
-              "body": "AKSJON: Politiet gjekk onsdag til aksjon mot fleire stadar der dei meiner det\nhar blitt dyrka cannabis. – Han har ingen kjennskap til kven som bur i\neigedommane og kva dei blir brukt til, argumenterer Erik Fjeld. Han er\nforsvarar for ein av dei litauiske mennene som onsdag blei pågripne da\npolitiet slo til mot fleire adresser i Trøndelag og utanfor Bergen. Mannen eig\ntre eigedommar som politiet meiner har blitt brukt som cannabisplantasjar. –\nEg erkjenner ikkje skuld.",
-              "source": "NRK Norge, publisert 22.05 kl. 15:05"
+              "ingress": "Tydal kommune kan tape opptil 20 millioner kroner i året etter en endring i\nkonsesjonskraftordninga.",
+              "body": "Tydal kommune blir nå straffet som kraftkommune fordi de både produserer strøm\nog har et datasenter i kommunen. – Energidepartementet gjør en stor tabbe,\nfordi de ikke skjønner resultatet, sier Gunnbjørn Berggård. Han er\nArbeiderpartirepresentant i Tydal kommunestyre og har lang erfaring med\nkonsesjonskraftordninga. Grunnen til at han er så kritisk, er at\nEnergidepartementet publiserte en pressemelding 6. mai, der de tok datasentre\nut av definisjonen av alminnelig forsyning i konsesjonskraftordninga.",
+              "source": "NRK Norge, publisert 22.05 kl. 16:38"
             }
           ]
         },
@@ -88,12 +88,12 @@
           "lines": [
             {
               "id": "112-1",
-              "headline": "Nå skal folk slippe å dra på «fyllinga»: Vil kjøre rundt med stoff-poser",
+              "headline": "Spionfrykt stenger milliondo i Andøy: – Høres ganske paranoid ut",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Snart kan innbyggere i flere kommuner kvitte seg med ødelagte klær uten å\nforlate hjemmet.",
-              "body": "ØDELAGT TEKSTIL: På Solgård avfallsplass i Moss ser rådgiver Ann Christin\nSkjelvand i MOVAR på det som er kastet i konteinerne for ødelagte tekstiler.\nHva skal du gjøre med den brukte genseren du ikke vil ha lenger? Eller med de\nhullete sokkene som har gjort nytta si? – Dessverre så er det veldig mange som\nsynes det er litt forvirrende, sier rådgiver Ann Christin Skjelvand i MOVAR er\net interkommunalt selskap som blant annet håndterer avfall. \" data-\nterm=\"MOVAR\">Movar i Moss. Slik ser de grønne posene folk skal kunne bestille\nhjem ut.",
-              "source": "NRK Norge, publisert 22.05 kl. 13:55"
+              "ingress": "For to uker siden pågrep PST en kinesisk kvinne på Andøya og siktet for\nspionasje.",
+              "body": "NORGES BESTE UTSIKT? Med enveisspeil har veifarende som har brukt toalettet\nved Bukkekjerka en fantastisk utsikt nordover mot Måtind og utover havet. Nå\ner det slutt når myndighetene har stengt bygget på ubestemt tid. – Dette er\nurimelig. Vi ikke kan akseptere at bygget stenges uten en ordentlig forklaring\n, sier en overrasket ordfører Kjell- Are Johansen (Ap) i Andøy kommune til\nNRK. Fredag ettermiddag ble den spektakulære toalettbygningen ved Navnet\nBukkekjerka stammer fra det samiske ordet «bohki» som betyr kløft og «giergie»\nsom betyr stein.",
+              "source": "NRK Norge, publisert 22.05 kl. 16:23"
             }
           ]
         },
@@ -104,12 +104,12 @@
           "lines": [
             {
               "id": "113-1",
-              "headline": "SV vil ha beredskapskai til Rauma – håper å få gjennomslag i budsjettforhandlingane",
+              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "SV håper at dragkampen om kronene i revidert statsbudsjett skal føre til at\nplanane om ei ny storkai i Rauma blir redda.",
-              "body": "Kaia på Åndalsnes i Rauma har sett betre dagar. No håper SV å få pengar til ny\nkai. Rauma- ordførar Yvonne Wold har ein finger med i spelet når SV no går til\nforhandlingsbordet med planane om ei ny kai i romsdalskommunen Rauma. Dei\nneste dagane forhandlar partia om korleis statsbudsjettet skal sjå ut, etter\nat forslaget blei lagt på bordet sist veke. Sosialistisk Venstreparti meiner\nei ny Roll-on-roll-off er ein laste- og lossemetode der godset blir køyrt om\nbord og frå borde på til dømes lastebilar og trailarar.",
-              "source": "NRK Norge, publisert 22.05 kl. 13:23"
+              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
+              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
+              "source": "NRK Norge, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -120,12 +120,12 @@
           "lines": [
             {
               "id": "114-1",
-              "headline": "Politikere sår tvil om svindeldømt forskers bidrag i høyesterettsdom",
+              "headline": "Eig tre eigedommar politiet meiner er cannabisplantasjar: – For meg er dette ei overrasking",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Christian Nellemann sin reinforskning er en del av grunnlaget for Fosen-\ndommen.",
-              "body": "TVILER PÅ HØYESTERETTSDOM: Bjørn Blix i NKF mener at Høyesterettsdommen i\nFosen-saken er avsagt på sviktende faktagrunnlag. – Det er et overgrep om\nFosen-dommen blir stående. Det reinfaglige grunnlaget for Fosen-dommen er\nskrevet av en mann som senere er dømt for grovt bedrageri, sier Bjørn Blix i\nNordkalottfolket (NKF) til NRK. Christian Nellemann ble 29. april dømt i\nlagmannsretten til 5 års fengsel for grovt bedrageri for å ha misbrukt rundt\n42 millioner kroner i statlige bistandsmidler. Nellemanns reinforskning inngår\nikke i dommen.",
-              "source": "NRK Norge, publisert 22.05 kl. 11:50"
+              "ingress": "Mannen frå Litauen hevdar han ikkje visste kva som gjekk føre seg på\neigedommane.",
+              "body": "AKSJON: Politiet gjekk onsdag til aksjon mot fleire stadar der dei meiner det\nhar blitt dyrka cannabis. – Han har ingen kjennskap til kven som bur i\neigedommane og kva dei blir brukt til, argumenterer Erik Fjeld. Han er\nforsvarar for ein av dei litauiske mennene som onsdag blei pågripne da\npolitiet slo til mot fleire adresser i Trøndelag og utanfor Bergen. Mannen eig\ntre eigedommar som politiet meiner har blitt brukt som cannabisplantasjar. –\nEg erkjenner ikkje skuld.",
+              "source": "NRK Norge, publisert 22.05 kl. 15:05"
             }
           ]
         },
@@ -136,12 +136,12 @@
           "lines": [
             {
               "id": "115-1",
-              "headline": "Fant flere ulovlige lasere på beslaglagt buss",
+              "headline": "Nå skal folk slippe å dra på «fyllinga»: Vil kjøre rundt med stoff-poser",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Bildet har ingenting med denne saken å gjøre.",
-              "body": "Det viser en fest under et russefeiringen i 2025. Det er fortsatt ikke klart\nhvilken laser som forårsaket ulykken natt til 17. mai, men det er undersøkt\nlasere i forbindelse med en beslaglagt buss. – De foreløpige undersøkelsene\nviser at laserne ikke er merket på forskriftsmessig måte, slik lasere som\nselges i Norge skal være, og de er sånn sett ulovlige, sier politiadvokat\nHanna Hurv Nilsen. Hun forteller til NRK at laserne verken var merket med\nbølgelengde eller farge slik de skal være når de selges i Norge.",
-              "source": "NRK Norge, publisert 22.05 kl. 12:52"
+              "ingress": "Snart kan innbyggere i flere kommuner kvitte seg med ødelagte klær uten å\nforlate hjemmet.",
+              "body": "ØDELAGT TEKSTIL: På Solgård avfallsplass i Moss ser rådgiver Ann Christin\nSkjelvand i MOVAR på det som er kastet i konteinerne for ødelagte tekstiler.\nHva skal du gjøre med den brukte genseren du ikke vil ha lenger? Eller med de\nhullete sokkene som har gjort nytta si? – Dessverre så er det veldig mange som\nsynes det er litt forvirrende, sier rådgiver Ann Christin Skjelvand i MOVAR er\net interkommunalt selskap som blant annet håndterer avfall. \" data-\nterm=\"MOVAR\">Movar i Moss. Slik ser de grønne posene folk skal kunne bestille\nhjem ut.",
+              "source": "NRK Norge, publisert 22.05 kl. 13:55"
             }
           ]
         },
@@ -152,44 +152,12 @@
           "lines": [
             {
               "id": "116-1",
-              "headline": "Knausgård blei æresdoktor: – Underleg og ganske fantastisk",
+              "headline": "SV vil ha beredskapskai til Rauma – håper å få gjennomslag i budsjettforhandlingane",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det synest han det er litt vanskeleg å forhalda seg til.",
-              "body": "DOKTOR KNAUSGÅRD: No kan Karl Ove Knausgård smykka seg med ein heilt ny tittel\nsom han har fått av Margareth Hagen og UiB. – Eg gjekk og trakka her i mange\når på 90-talet. Det var eigentleg ganske mislukka alt saman. Eg ville vel\naldri i min villaste fantasi tenkt at eg skulle koma tilbake hit og bli\næresdoktor, seier Knausgård. Det er ikkje hans akademiske prestasjonar som er\ngrunnen til utnemninga, men forfattarskapen hans. – Det kjennest underleg og\nganske fantastisk. Det er veldig gøy, og ærerikt, så klart.",
-              "source": "NRK Norge, publisert 21.05 kl. 19:24"
-            }
-          ]
-        },
-        {
-          "id": "117",
-          "number": "117",
-          "title": "Innland",
-          "lines": [
-            {
-              "id": "117-1",
-              "headline": "Sammenstøt mellom syklist og bil",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "En bil og en syklist har vært i et sammenstøt i Tromsdalen.",
-              "body": "Både politi og ambulanse dro til en trafikkulykke mellom en syklist og en bil.\nSyklisten blir ivaretatt av ambulansepersonell på stedet.",
-              "source": "NRK Norge, publisert 22.05 kl. 12:39"
-            }
-          ]
-        },
-        {
-          "id": "118",
-          "number": "118",
-          "title": "Innland",
-          "lines": [
-            {
-              "id": "118-1",
-              "headline": "Melder Jon Helgheim til politiet etter deling av usladda valdsbilde",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "DELTE: Jon Helgheim delte eit usensurert bilde av ei valdshending i Bergen.",
-              "body": "17. mai blei ein russ angripen av fire mindreårige gutar i Bergen sentrum.\nVideoen der russen får fleire slag og spark før han går i bakken, har blitt\ndelt i sosiale medium. I går delte leiar av justiskomiteen på Stortinget Jon\nHelgheim (Frp) eit usladda bilete på Facebook, der det var mogleg å\nidentifisere dei involverte. – Det er eit typisk mønster. Gjengar med\ninnvandrarbakgrunn, spesielt frå deler av Afrika, Asia og Midtøsten, angrip,\nranar og banker opp einslege norske gutar, skreiv han på Facebook-sida si.",
-              "source": "NRK Norge, publisert 22.05 kl. 12:10"
+              "ingress": "SV håper at dragkampen om kronene i revidert statsbudsjett skal føre til at\nplanane om ei ny storkai i Rauma blir redda.",
+              "body": "Kaia på Åndalsnes i Rauma har sett betre dagar. No håper SV å få pengar til ny\nkai. Rauma- ordførar Yvonne Wold har ein finger med i spelet når SV no går til\nforhandlingsbordet med planane om ei ny kai i romsdalskommunen Rauma. Dei\nneste dagane forhandlar partia om korleis statsbudsjettet skal sjå ut, etter\nat forslaget blei lagt på bordet sist veke. Sosialistisk Venstreparti meiner\nei ny Roll-on-roll-off er ein laste- og lossemetode der godset blir køyrt om\nbord og frå borde på til dømes lastebilar og trailarar.",
+              "source": "NRK Norge, publisert 22.05 kl. 13:23"
             }
           ]
         }
@@ -208,12 +176,12 @@
           "lines": [
             {
               "id": "130-1",
-              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
+              "headline": "Tromsø-væring aktuell for Sveriges landslag",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
-              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 16:10"
+              "ingress": "Suksess i Hammarby kan gi landslagsspill for Sverige for Elin Åhgren Sørum.",
+              "body": "Elin Åhgren Sørum opplever suksess i Hammarby. Nå er den tidligere Fløya-\nspilleren aktuell for det svenske A-landslaget. NRK prøver å få i gang en\nvideosamtale med Sørum, som bor i sentrum av Stockholm. – Det er litt\nvanskelig, jeg har en Ipad, skjønner du, sier hun når NRK ber henne justere\nbilledutsnittet. Men i sin første sesong med Stockholms-klubben Hammarby, har\ndet gått lekende lett for Elin Åhgren Sørum fra Tromsø. Midtbanespilleren har\nlevert tre mål og fire målgivende på fem kamper i Damallsvenskan.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 17:09"
             }
           ]
         },
@@ -224,12 +192,12 @@
           "lines": [
             {
               "id": "131-1",
-              "headline": "Sammenstøt mellom syklist og bil",
+              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "En bil og en syklist har vært i et sammenstøt i Tromsdalen.",
-              "body": "Både politi og ambulanse dro til en trafikkulykke mellom en syklist og en bil.\nSyklisten blir ivaretatt av ambulansepersonell på stedet.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 12:39"
+              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
+              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -240,12 +208,12 @@
           "lines": [
             {
               "id": "132-1",
-              "headline": "Politikere sår tvil om svindeldømt forskers bidrag i høyesterettsdom",
+              "headline": "Sammenstøt mellom syklist og bil",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Christian Nellemann sin reinforskning er en del av grunnlaget for Fosen-\ndommen.",
-              "body": "TVILER PÅ HØYESTERETTSDOM: Bjørn Blix i NKF mener at Høyesterettsdommen i\nFosen-saken er avsagt på sviktende faktagrunnlag. – Det er et overgrep om\nFosen-dommen blir stående. Det reinfaglige grunnlaget for Fosen-dommen er\nskrevet av en mann som senere er dømt for grovt bedrageri, sier Bjørn Blix i\nNordkalottfolket (NKF) til NRK. Christian Nellemann ble 29. april dømt i\nlagmannsretten til 5 års fengsel for grovt bedrageri for å ha misbrukt rundt\n42 millioner kroner i statlige bistandsmidler. Nellemanns reinforskning inngår\nikke i dommen.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:50"
+              "ingress": "En bil og en syklist har vært i et sammenstøt i Tromsdalen.",
+              "body": "Både politi og ambulanse dro til en trafikkulykke mellom en syklist og en bil.\nSyklisten blir ivaretatt av ambulansepersonell på stedet.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 12:39"
             }
           ]
         },
@@ -256,12 +224,12 @@
           "lines": [
             {
               "id": "133-1",
-              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
+              "headline": "Politikere sår tvil om svindeldømt forskers bidrag i høyesterettsdom",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
-              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:25"
+              "ingress": "Christian Nellemann sin reinforskning er en del av grunnlaget for Fosen-\ndommen.",
+              "body": "TVILER PÅ HØYESTERETTSDOM: Bjørn Blix i NKF mener at Høyesterettsdommen i\nFosen-saken er avsagt på sviktende faktagrunnlag. – Det er et overgrep om\nFosen-dommen blir stående. Det reinfaglige grunnlaget for Fosen-dommen er\nskrevet av en mann som senere er dømt for grovt bedrageri, sier Bjørn Blix i\nNordkalottfolket (NKF) til NRK. Christian Nellemann ble 29. april dømt i\nlagmannsretten til 5 års fengsel for grovt bedrageri for å ha misbrukt rundt\n42 millioner kroner i statlige bistandsmidler. Nellemanns reinforskning inngår\nikke i dommen.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:50"
             }
           ]
         },
@@ -272,6 +240,22 @@
           "lines": [
             {
               "id": "134-1",
+              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
+              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:25"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "number": "135",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "135-1",
               "headline": "Gruveselskap truer med Kina om ikke Støre blar opp penger",
               "colorName": "yellow",
               "isImportant": false,
@@ -416,12 +400,12 @@
           "lines": [
             {
               "id": "200-1",
-              "headline": "Real Madrid-profil ferdig etter fem år",
+              "headline": "Superstjerne med hard Ullevaal-kritikk – hylles av Klaveness",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
-              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
-              "source": "NRK Sport, publisert 22.05 kl. 16:10"
+              "ingress": "Aitana Bonmatí mener Ullevaal stadion er for liten til å huse kvinnenes\nmesterligafinale.",
+              "body": "Fotballpresident Lise Klaveness har full forståelse for synspunktet.",
+              "source": "NRK Sport, publisert 22.05 kl. 17:15"
             }
           ]
         },
@@ -432,12 +416,12 @@
           "lines": [
             {
               "id": "201-1",
-              "headline": "Fikk VM-billett – skademelding dagen etter",
+              "headline": "Real Madrid-profil ferdig etter fem år",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
-              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
-              "source": "NRK Sport, publisert 22.05 kl. 15:39"
+              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
+              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
+              "source": "NRK Sport, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -448,12 +432,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
+              "headline": "Fikk VM-billett – skademelding dagen etter",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
-              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:53"
+              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
+              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
+              "source": "NRK Sport, publisert 22.05 kl. 15:39"
             }
           ]
         },
@@ -464,12 +448,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
+              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
-              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:44"
+              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
+              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:53"
             }
           ]
         },
@@ -480,12 +464,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Landslagsprofil avslører forlovelse",
+              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
-              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:13"
+              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
+              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:44"
             }
           ]
         },
@@ -496,12 +480,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Casper Ruud-smell i Genève – tapte semifinalen mot argentiner",
+              "headline": "Landslagsprofil avslører forlovelse",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Casper Ruud tapte i jakten på sin fjerde finale i ATP-turneringen i Genève.",
-              "body": "Argentinske Mariano Navone vant semifinalekampen i to strake sett. Ruud tapte\nmed settsifrene 5-7, 2-6 på grusen i Sveits. Nordmannen vant turneringen i\nGenève både i 2021, 2022 og 2024.",
-              "source": "NRK Sport, publisert 22.05 kl. 13:54"
+              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
+              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:13"
             }
           ]
         },
@@ -512,12 +496,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "23 år etter er Caroline klar for det som var utenkelig: – Drømmen som aldri var min",
+              "headline": "Casper Ruud-smell i Genève – tapte semifinalen mot argentiner",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Da den åtte år gamle jenta med nummer åtte på ryggen marsjerte ut på Ullevaal\nsom maskot for Lyns herrelag, gikk det ikke an å drømme om det hun nå skal\noppleve.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "NRK Sport, publisert 22.05 kl. 13:23"
+              "ingress": "Casper Ruud tapte i jakten på sin fjerde finale i ATP-turneringen i Genève.",
+              "body": "Argentinske Mariano Navone vant semifinalekampen i to strake sett. Ruud tapte\nmed settsifrene 5-7, 2-6 på grusen i Sveits. Nordmannen vant turneringen i\nGenève både i 2021, 2022 og 2024.",
+              "source": "NRK Sport, publisert 22.05 kl. 13:54"
             }
           ]
         },
@@ -528,12 +512,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "Bodø/Glimts kamp mot Rosenborg flyttes ikke",
+              "headline": "23 år etter er Caroline klar for det som var utenkelig: – Drømmen som aldri var min",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Bodø/Glimt kunne også kreve å få utsatt sin kamp i Eliteseriens siste runde\nfør VM-pausen.",
-              "body": "Grunnen er antall landslagsspillere som er kalt inn til VM. Torsdag ble Jens Petter Hauge,\nPatrick Berg og Fredrik Bjørkan tatt ut i den norske VM-troppen. Fredag i neste uke skal\nBodø/Glimt møte Rosenborg på Lerkendal. Glimt bekrefter at den kampen går som planlagt.\nLandslagstrioen Hauge, Berg og Bjørkan mister dermed oppgjøret mot RBK. (NTB)",
-              "source": "NRK Sport, publisert 22.05 kl. 13:02"
+              "ingress": "Da den åtte år gamle jenta med nummer åtte på ryggen marsjerte ut på Ullevaal\nsom maskot for Lyns herrelag, gikk det ikke an å drømme om det hun nå skal\noppleve.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "NRK Sport, publisert 22.05 kl. 13:23"
             }
           ]
         },
@@ -544,12 +528,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Ønsket av «alle» storklubber i Europa",
+              "headline": "Salah: – Jeg vil alltid elske denne klubben",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Samuel Martinez er et ukjent navn for mange supportere, men 17-åringen stod\nhøyt på ønskelisten hos blant annet Barcelona.",
+              "ingress": "Kort nyhetsmelding fra kilden.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 17:00"
+              "source": "Liverpool.no, publisert 22.05 kl. 18:10"
             }
           ]
         },
@@ -560,12 +544,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Troverdige kilder melder om enighet med om stortalentet!",
+              "headline": "Ønsket av «alle» storklubber i Europa",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Liverpool skal ha slått flere storklubber i jakten på Samuel Martinez.",
+              "ingress": "Samuel Martinez er et ukjent navn for mange supportere, men 17-åringen stod\nhøyt på ønskelisten hos blant annet Barcelona.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:55"
+              "source": "Liverpool.no, publisert 22.05 kl. 17:00"
             }
           ]
         },
@@ -576,12 +560,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Lijnders forlater Manchester City etter én sesong",
+              "headline": "Troverdige kilder melder om enighet med om stortalentet!",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pep Lijnders takker nei til ny kontrakt og blir ikke en del av Enzo Marescas\nstøtteapparat ved Etihad.",
+              "ingress": "Liverpool skal ha slått flere storklubber i jakten på Samuel Martinez.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:51"
+              "source": "Liverpool.no, publisert 22.05 kl. 15:55"
             }
           ]
         },
@@ -592,12 +576,12 @@
           "lines": [
             {
               "id": "233-1",
-              "headline": "Salah kåres til Liverpools spiller i april – for siste gang",
+              "headline": "Lijnders forlater Manchester City etter én sesong",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mohamed Salah mottar Standard Chartered Player of the Month-prisen for april,\nden 29.",
-              "body": "og siste gangen i sin ni år lange Liverpool-karriere.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:19"
+              "ingress": "Pep Lijnders takker nei til ny kontrakt og blir ikke en del av Enzo Marescas\nstøtteapparat ved Etihad.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 22.05 kl. 15:51"
             }
           ]
         },
@@ -608,12 +592,12 @@
           "lines": [
             {
               "id": "234-1",
-              "headline": "Skal ha slått Barcelona og Dortmund i kamp om colombiansk stjerneskudd",
+              "headline": "Salah kåres til Liverpools spiller i april – for siste gang",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det rapporteres at Liverpool har kommet til enighet om kjøp av 17-åring.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:11"
+              "ingress": "Mohamed Salah mottar Standard Chartered Player of the Month-prisen for april,\nden 29.",
+              "body": "og siste gangen i sin ni år lange Liverpool-karriere.",
+              "source": "Liverpool.no, publisert 22.05 kl. 15:19"
             }
           ]
         }
@@ -1120,15 +1104,15 @@
         {
           "id": "300",
           "number": "300",
-          "title": "Vær Norge",
+          "title": "Vær utvalgte",
           "lines": [
             {
-              "id": "v-r-norge",
-              "headline": "Vær Norge",
+              "id": "v-r-utvalgte-steder",
+              "headline": "Vær utvalgte steder",
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Alta            Klart, 14 grader, vind 3 m/s\nBørselv         Klart, 16 grader, vind 2 m/s\nČáhppiljohka    Klart, 15 grader, vind 3 m/s\nHeimdal         Skyet, 18 grader, vind 2 m/s\nBø              Delvis skyet, 24 grader, vind 4 m/s\nKristiansand    Pent vær, 22 grader, vind 5 m/s\nOslo            Delvis skyet, 22 grader, vind 4 m/s\nSvalbard        Lett regn, 3 grader, vind 3 m/s\nOs              Skyet, 14 grader, vind 1 m/s\nFinnsnes        Delvis skyet, 15 grader, vind 6 m/s",
+              "body": "Alta            Delvis skyet, 14 grader, vind 2 m/s\nBørselv         Klart, 15 grader, vind 2 m/s\nČáhppiljohka    Klart, 15 grader, vind 1 m/s\nHeimdal         Skyet, 16 grader, vind 2 m/s\nBø              Delvis skyet, 23 grader, vind 3 m/s\nKristiansand    Klart, 20 grader, vind 5 m/s\nOslo            Pent vær, 21 grader, vind 4 m/s\nSvalbard        Lett regn, 3 grader, vind 2 m/s\nOs              Skyet, 14 grader, vind 1 m/s\nFinnsnes        Skyet, 13 grader, vind 4 m/s\nTorrevieja      Klart, 22 grader, vind 5 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1144,7 +1128,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Torrevieja      Klart, 24 grader, vind 5 m/s\nLondon          Klart, 26 grader, vind 4 m/s\nParis           Pent vær, 26 grader, vind 2 m/s\nBerlin          Delvis skyet, 23 grader, vind 3 m/s\nRoma            Klart, 28 grader, vind 5 m/s",
+              "body": "Torrevieja      Klart, 22 grader, vind 5 m/s\nLondon          Klart, 26 grader, vind 4 m/s\nParis           Delvis skyet, 26 grader, vind 2 m/s\nBerlin          Delvis skyet, 23 grader, vind 2 m/s\nRoma            Klart, 27 grader, vind 5 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1159,9 +1143,59 @@
               "headline": "Alta",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 14 grader, vind 3 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 9 til 14 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-12 grader, 0.0 mm nedbør. Søndag 24.05: skyet, 6-10 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 5-11 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 6-12 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 5-11 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Delvis skyet, 14 grader, vind 2 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "alta-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "alta-weather-1",
+                  "text": "Neste døgn: 9 til 14 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "9 til 14 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "alta-weather-3",
+                  "text": "Lørdag 23.05: skyet, 8-12 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 8-12 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "alta-weather-4",
+                  "text": "Søndag 24.05: skyet, 6-10 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "skyet, 6-10 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "alta-weather-5",
+                  "text": "Mandag 25.05: skyet, 6-11 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "skyet, 6-11 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "alta-weather-6",
+                  "text": "Tirsdag 26.05: skyet, 6-12 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "skyet, 6-12 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "alta-weather-7",
+                  "text": "Onsdag 27.05: skyet, 5-11 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "skyet, 5-11 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1175,9 +1209,59 @@
               "headline": "Børselv",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 16 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 10 til 16 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 8-14 grader, 0.0 mm nedbør. Søndag 24.05: delvis skyet, 4-8 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 3-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 3-9 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 2-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Klart, 15 grader, vind 2 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "b-rselv-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "b-rselv-weather-1",
+                  "text": "Neste døgn: 9 til 14 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "9 til 14 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-rselv-weather-3",
+                  "text": "Lørdag 23.05: delvis skyet, 8-14 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "delvis skyet, 8-14 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-rselv-weather-4",
+                  "text": "Søndag 24.05: delvis skyet, 4-8 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "delvis skyet, 4-8 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-rselv-weather-5",
+                  "text": "Mandag 25.05: skyet, 3-10 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "skyet, 3-10 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-rselv-weather-6",
+                  "text": "Tirsdag 26.05: skyet, 3-9 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "skyet, 3-9 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-rselv-weather-7",
+                  "text": "Onsdag 27.05: skyet, 2-9 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "skyet, 2-9 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1191,9 +1275,59 @@
               "headline": "Čáhppiljohka",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 15 grader, vind 3 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 10 til 15 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: pent vær, 7-13 grader, 0.0 mm nedbør. Søndag 24.05: skyet, 5-7 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 4-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 5-10 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 4-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Klart, 15 grader, vind 1 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "hppiljohka-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "hppiljohka-weather-1",
+                  "text": "Neste døgn: 9 til 15 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "9 til 15 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "hppiljohka-weather-3",
+                  "text": "Lørdag 23.05: pent vær, 7-12 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "pent vær, 7-12 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "hppiljohka-weather-4",
+                  "text": "Søndag 24.05: skyet, 5-7 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "skyet, 5-7 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "hppiljohka-weather-5",
+                  "text": "Mandag 25.05: skyet, 4-10 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "skyet, 4-10 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "hppiljohka-weather-6",
+                  "text": "Tirsdag 26.05: skyet, 5-10 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "skyet, 5-10 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "hppiljohka-weather-7",
+                  "text": "Onsdag 27.05: skyet, 4-9 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "skyet, 4-9 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1207,9 +1341,59 @@
               "headline": "Heimdal",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 18 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 13 til 17 grader, omtrent 0.5 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 10-18 grader, 66.2 mm nedbør. Søndag 24.05: skyet, 8-13 grader, 9.0 mm nedbør. Mandag 25.05: delvis skyet, 8-13 grader, 6.4 mm nedbør. Tirsdag 26.05: skyet, 9-10 grader, 13.6 mm nedbør. Onsdag 27.05: regn, 7-10 grader, 7.5 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Skyet, 16 grader, vind 2 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "heimdal-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "heimdal-weather-1",
+                  "text": "Neste døgn: 13 til 15 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "13 til 15 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "heimdal-weather-3",
+                  "text": "Lørdag 23.05: skyet, 10-18 grader, 66.2 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 10-18 grader, 66.2 mm nedbør."
+                },
+                {
+                  "id": "heimdal-weather-4",
+                  "text": "Søndag 24.05: skyet, 8-13 grader, 9.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "skyet, 8-13 grader, 9.0 mm nedbør."
+                },
+                {
+                  "id": "heimdal-weather-5",
+                  "text": "Mandag 25.05: delvis skyet, 8-13 grader, 6.4 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "delvis skyet, 8-13 grader, 6.4 mm nedbør."
+                },
+                {
+                  "id": "heimdal-weather-6",
+                  "text": "Tirsdag 26.05: skyet, 9-10 grader, 13.6 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "skyet, 9-10 grader, 13.6 mm nedbør."
+                },
+                {
+                  "id": "heimdal-weather-7",
+                  "text": "Onsdag 27.05: regn, 7-10 grader, 7.5 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "regn, 7-10 grader, 7.5 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1223,9 +1407,59 @@
               "headline": "Bø",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 24 grader, vind 4 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 24 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 10-21 grader, 18.7 mm nedbør. Søndag 24.05: delvis skyet, 8-20 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 11-22 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 10-19 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 9-19 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Delvis skyet, 23 grader, vind 3 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "b-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "b-weather-1",
+                  "text": "Neste døgn: 12 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "12 til 22 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-weather-3",
+                  "text": "Lørdag 23.05: skyet, 10-21 grader, 18.7 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 10-21 grader, 18.7 mm nedbør."
+                },
+                {
+                  "id": "b-weather-4",
+                  "text": "Søndag 24.05: delvis skyet, 8-20 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "delvis skyet, 8-20 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-weather-5",
+                  "text": "Mandag 25.05: delvis skyet, 11-22 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "delvis skyet, 11-22 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-weather-6",
+                  "text": "Tirsdag 26.05: klart, 10-19 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "klart, 10-19 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "b-weather-7",
+                  "text": "Onsdag 27.05: klart, 9-19 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 9-19 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1239,9 +1473,59 @@
               "headline": "Kristiansand",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 22 grader, vind 5 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 21 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 12-21 grader, 11.6 mm nedbør. Søndag 24.05: klart, 12-21 grader, 0.0 mm nedbør. Mandag 25.05: pent vær, 14-19 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 12-18 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 11-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Klart, 20 grader, vind 5 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "kristiansand-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "kristiansand-weather-1",
+                  "text": "Neste døgn: 13 til 19 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "13 til 19 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "kristiansand-weather-3",
+                  "text": "Lørdag 23.05: skyet, 12-20 grader, 11.6 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 12-20 grader, 11.6 mm nedbør."
+                },
+                {
+                  "id": "kristiansand-weather-4",
+                  "text": "Søndag 24.05: klart, 12-21 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "klart, 12-21 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "kristiansand-weather-5",
+                  "text": "Mandag 25.05: pent vær, 14-19 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "pent vær, 14-19 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "kristiansand-weather-6",
+                  "text": "Tirsdag 26.05: pent vær, 12-18 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "pent vær, 12-18 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "kristiansand-weather-7",
+                  "text": "Onsdag 27.05: klart, 11-18 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 11-18 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1255,9 +1539,59 @@
               "headline": "Oslo",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 22 grader, vind 4 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 15 til 22 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: pent vær, 14-21 grader, 20.2 mm nedbør. Søndag 24.05: delvis skyet, 12-23 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 15-21 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 14-20 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 12-19 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Pent vær, 21 grader, vind 4 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "oslo-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "oslo-weather-1",
+                  "text": "Neste døgn: 14 til 20 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "14 til 20 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "oslo-weather-3",
+                  "text": "Lørdag 23.05: pent vær, 14-20 grader, 20.2 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "pent vær, 14-20 grader, 20.2 mm nedbør."
+                },
+                {
+                  "id": "oslo-weather-4",
+                  "text": "Søndag 24.05: delvis skyet, 12-23 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "delvis skyet, 12-23 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "oslo-weather-5",
+                  "text": "Mandag 25.05: delvis skyet, 15-21 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "delvis skyet, 15-21 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "oslo-weather-6",
+                  "text": "Tirsdag 26.05: klart, 14-20 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "klart, 14-20 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "oslo-weather-7",
+                  "text": "Onsdag 27.05: klart, 12-19 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 12-19 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1271,9 +1605,59 @@
               "headline": "Svalbard",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Lett regn, 3 grader, vind 3 m/s",
-              "body": "Nedbør neste 6 timer: 1.0 mm. Neste døgn: 2 til 3 grader, omtrent 4.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 2-4 grader, 1.4 mm nedbør. Søndag 24.05: skyet, 0-2 grader, 1.7 mm nedbør. Mandag 25.05: delvis skyet, 0-2 grader, 0.0 mm nedbør. Tirsdag 26.05: lett sludd, 1-1 grader, 0.7 mm nedbør. Onsdag 27.05: skyet, 0-1 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Lett regn, 3 grader, vind 2 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "svalbard-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.9 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.9 mm."
+                },
+                {
+                  "id": "svalbard-weather-1",
+                  "text": "Neste døgn: 2 til 2 grader, omtrent 2.2 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "2 til 2 grader, omtrent 2.2 mm nedbør."
+                },
+                {
+                  "id": "svalbard-weather-3",
+                  "text": "Lørdag 23.05: skyet, 2-4 grader, 1.4 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 2-4 grader, 1.4 mm nedbør."
+                },
+                {
+                  "id": "svalbard-weather-4",
+                  "text": "Søndag 24.05: skyet, 0-2 grader, 1.7 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "skyet, 0-2 grader, 1.7 mm nedbør."
+                },
+                {
+                  "id": "svalbard-weather-5",
+                  "text": "Mandag 25.05: delvis skyet, 0-2 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "delvis skyet, 0-2 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "svalbard-weather-6",
+                  "text": "Tirsdag 26.05: lett sludd, 1-1 grader, 0.7 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "lett sludd, 1-1 grader, 0.7 mm nedbør."
+                },
+                {
+                  "id": "svalbard-weather-7",
+                  "text": "Onsdag 27.05: skyet, 0-1 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "skyet, 0-1 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1288,8 +1672,58 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Skyet, 14 grader, vind 1 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 15 grader, omtrent 1.6 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 11-14 grader, 104.7 mm nedbør. Søndag 24.05: skyet, 10-13 grader, 4.7 mm nedbør. Mandag 25.05: regn, 10-13 grader, 12.8 mm nedbør. Tirsdag 26.05: regn, 10-13 grader, 7.7 mm nedbør. Onsdag 27.05: delvis skyet, 9-14 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "os-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "os-weather-1",
+                  "text": "Neste døgn: 14 til 14 grader, omtrent 20.2 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "14 til 14 grader, omtrent 20.2 mm nedbør."
+                },
+                {
+                  "id": "os-weather-3",
+                  "text": "Lørdag 23.05: skyet, 11-14 grader, 104.7 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 11-14 grader, 104.7 mm nedbør."
+                },
+                {
+                  "id": "os-weather-4",
+                  "text": "Søndag 24.05: skyet, 10-13 grader, 4.7 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "skyet, 10-13 grader, 4.7 mm nedbør."
+                },
+                {
+                  "id": "os-weather-5",
+                  "text": "Mandag 25.05: regn, 10-13 grader, 12.8 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "regn, 10-13 grader, 12.8 mm nedbør."
+                },
+                {
+                  "id": "os-weather-6",
+                  "text": "Tirsdag 26.05: regn, 10-13 grader, 7.7 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "regn, 10-13 grader, 7.7 mm nedbør."
+                },
+                {
+                  "id": "os-weather-7",
+                  "text": "Onsdag 27.05: delvis skyet, 9-14 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "delvis skyet, 9-14 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1303,9 +1737,59 @@
               "headline": "Finnsnes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 15 grader, vind 6 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 9 til 14 grader, omtrent 1.6 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-11 grader, 13.0 mm nedbør. Søndag 24.05: lett regn, 8-11 grader, 39.6 mm nedbør. Mandag 25.05: regn, 8-12 grader, 3.6 mm nedbør. Tirsdag 26.05: regn, 9-12 grader, 1.6 mm nedbør. Onsdag 27.05: skyet, 8-10 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Skyet, 13 grader, vind 4 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "finnsnes-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "finnsnes-weather-1",
+                  "text": "Neste døgn: 9 til 12 grader, omtrent 2.1 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "9 til 12 grader, omtrent 2.1 mm nedbør."
+                },
+                {
+                  "id": "finnsnes-weather-3",
+                  "text": "Lørdag 23.05: skyet, 8-11 grader, 13.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "skyet, 8-11 grader, 13.0 mm nedbør."
+                },
+                {
+                  "id": "finnsnes-weather-4",
+                  "text": "Søndag 24.05: lett regn, 8-11 grader, 39.6 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "lett regn, 8-11 grader, 39.6 mm nedbør."
+                },
+                {
+                  "id": "finnsnes-weather-5",
+                  "text": "Mandag 25.05: regn, 8-12 grader, 3.6 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "regn, 8-12 grader, 3.6 mm nedbør."
+                },
+                {
+                  "id": "finnsnes-weather-6",
+                  "text": "Tirsdag 26.05: regn, 9-12 grader, 1.6 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "regn, 9-12 grader, 1.6 mm nedbør."
+                },
+                {
+                  "id": "finnsnes-weather-7",
+                  "text": "Onsdag 27.05: skyet, 8-10 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "skyet, 8-10 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1319,9 +1803,59 @@
               "headline": "Torrevieja",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 24 grader, vind 5 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 19 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 17-24 grader, 0.0 mm nedbør. Søndag 24.05: delvis skyet, 17-24 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 18-24 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 19-24 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 19-25 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Klart, 22 grader, vind 5 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "torrevieja-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "torrevieja-weather-1",
+                  "text": "Neste døgn: 19 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "19 til 22 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "torrevieja-weather-3",
+                  "text": "Lørdag 23.05: klart, 17-24 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "klart, 17-24 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "torrevieja-weather-4",
+                  "text": "Søndag 24.05: delvis skyet, 17-24 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "delvis skyet, 17-24 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "torrevieja-weather-5",
+                  "text": "Mandag 25.05: delvis skyet, 18-24 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "delvis skyet, 18-24 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "torrevieja-weather-6",
+                  "text": "Tirsdag 26.05: pent vær, 19-24 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "pent vær, 19-24 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "torrevieja-weather-7",
+                  "text": "Onsdag 27.05: klart, 19-25 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 19-25 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1336,8 +1870,58 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Klart, 26 grader, vind 4 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 20 til 26 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 18-29 grader, 0.5 mm nedbør. Søndag 24.05: klart, 17-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 19-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 22-32 grader, 1.2 mm nedbør. Onsdag 27.05: klart, 12-20 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "london-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "london-weather-1",
+                  "text": "Neste døgn: 20 til 25 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "20 til 25 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "london-weather-3",
+                  "text": "Lørdag 23.05: delvis skyet, 18-29 grader, 0.5 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "delvis skyet, 18-29 grader, 0.5 mm nedbør."
+                },
+                {
+                  "id": "london-weather-4",
+                  "text": "Søndag 24.05: klart, 17-31 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "klart, 17-31 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "london-weather-5",
+                  "text": "Mandag 25.05: klart, 19-31 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "klart, 19-31 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "london-weather-6",
+                  "text": "Tirsdag 26.05: klart, 22-32 grader, 1.2 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "klart, 22-32 grader, 1.2 mm nedbør."
+                },
+                {
+                  "id": "london-weather-7",
+                  "text": "Onsdag 27.05: klart, 12-20 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 12-20 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1351,9 +1935,59 @@
               "headline": "Paris",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 26 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 17 til 26 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør. Søndag 24.05: klart, 17-29 grader, 0.0 mm nedbør. Mandag 25.05: klart, 19-29 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 19-29 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 17-24 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Delvis skyet, 26 grader, vind 2 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "paris-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "paris-weather-1",
+                  "text": "Neste døgn: 16 til 24 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "16 til 24 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "paris-weather-3",
+                  "text": "Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "klart, 14-27 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "paris-weather-4",
+                  "text": "Søndag 24.05: klart, 17-29 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "klart, 17-29 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "paris-weather-5",
+                  "text": "Mandag 25.05: klart, 19-29 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "klart, 19-29 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "paris-weather-6",
+                  "text": "Tirsdag 26.05: klart, 19-29 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "klart, 19-29 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "paris-weather-7",
+                  "text": "Onsdag 27.05: klart, 17-24 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 17-24 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1367,9 +2001,59 @@
               "headline": "Berlin",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 23 grader, vind 3 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 16 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-25 grader, 4.8 mm nedbør. Mandag 25.05: klart, 13-24 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 18-25 grader, 0.1 mm nedbør. Onsdag 27.05: klart, 12-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Delvis skyet, 23 grader, vind 2 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "berlin-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "berlin-weather-1",
+                  "text": "Neste døgn: 15 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "15 til 22 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "berlin-weather-3",
+                  "text": "Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "klart, 14-27 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "berlin-weather-4",
+                  "text": "Søndag 24.05: klart, 16-25 grader, 4.8 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "klart, 16-25 grader, 4.8 mm nedbør."
+                },
+                {
+                  "id": "berlin-weather-5",
+                  "text": "Mandag 25.05: klart, 13-24 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "klart, 13-24 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "berlin-weather-6",
+                  "text": "Tirsdag 26.05: klart, 18-25 grader, 0.1 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "klart, 18-25 grader, 0.1 mm nedbør."
+                },
+                {
+                  "id": "berlin-weather-7",
+                  "text": "Onsdag 27.05: klart, 12-18 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 12-18 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         },
@@ -1383,9 +2067,59 @@
               "headline": "Roma",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 28 grader, vind 5 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 18 til 28 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 15-30 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 16-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 20-32 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 21-31 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
-              "source": "MET/Yr"
+              "ingress": "Klart, 27 grader, vind 5 m/s",
+              "source": "MET/Yr",
+              "bodyRows": [
+                {
+                  "id": "roma-weather-0",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "colorName": "white",
+                  "label": "Nedbør neste 6 timer:",
+                  "detail": "0.0 mm."
+                },
+                {
+                  "id": "roma-weather-1",
+                  "text": "Neste døgn: 17 til 25 grader, omtrent 0.0 mm nedbør.",
+                  "colorName": "white",
+                  "label": "Neste døgn:",
+                  "detail": "17 til 25 grader, omtrent 0.0 mm nedbør."
+                },
+                {
+                  "id": "roma-weather-3",
+                  "text": "Lørdag 23.05: klart, 15-30 grader, 0.0 mm nedbør.",
+                  "colorName": "cyan",
+                  "label": "Lørdag 23.05:",
+                  "detail": "klart, 15-30 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "roma-weather-4",
+                  "text": "Søndag 24.05: klart, 16-31 grader, 0.0 mm nedbør.",
+                  "colorName": "yellow",
+                  "label": "Søndag 24.05:",
+                  "detail": "klart, 16-31 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "roma-weather-5",
+                  "text": "Mandag 25.05: klart, 16-31 grader, 0.0 mm nedbør.",
+                  "colorName": "teal",
+                  "label": "Mandag 25.05:",
+                  "detail": "klart, 16-31 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "roma-weather-6",
+                  "text": "Tirsdag 26.05: klart, 20-32 grader, 0.0 mm nedbør.",
+                  "colorName": "orange",
+                  "label": "Tirsdag 26.05:",
+                  "detail": "klart, 20-32 grader, 0.0 mm nedbør."
+                },
+                {
+                  "id": "roma-weather-7",
+                  "text": "Onsdag 27.05: klart, 21-31 grader, 0.0 mm nedbør.",
+                  "colorName": "magenta",
+                  "label": "Onsdag 27.05:",
+                  "detail": "klart, 21-31 grader, 0.0 mm nedbør."
+                }
+              ]
             }
           ]
         }

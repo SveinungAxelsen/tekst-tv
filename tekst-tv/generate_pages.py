@@ -483,7 +483,7 @@ def fetch_met_forecast(place: WeatherPlace) -> WeatherForecast | None:
         place=place,
         source="MET/Yr",
         summary=summary,
-        details=" ".join(details),
+        details="\n".join(details),
         days=coming_days,
     )
 
@@ -1850,9 +1850,9 @@ def make_weather_section(forecasts: list[WeatherForecast]) -> dict:
         {
             "id": "300",
             "number": "300",
-            "title": "Vær Norge",
+            "title": "Vær utvalgte",
             "lines": [
-                make_weather_overview_line("Norge", main_forecasts),
+                make_weather_overview_line("utvalgte steder", main_forecasts),
             ],
         },
         {
@@ -1887,7 +1887,7 @@ def make_weather_overview_line(title: str, forecasts: list[WeatherForecast]) -> 
         )
 
     body_lines = []
-    for forecast in forecasts[:10]:
+    for forecast in forecasts[:12]:
         body_lines.append(f"{forecast.place.name:<15} {forecast.summary}")
 
     return make_line(
@@ -1899,19 +1899,50 @@ def make_weather_overview_line(title: str, forecasts: list[WeatherForecast]) -> 
 
 
 def make_weather_page(page_number: str, forecast: WeatherForecast) -> dict:
+    line = make_line(
+        forecast.place.name,
+        forecast.summary,
+        source=forecast.source,
+    )
+    line["bodyRows"] = make_weather_body_rows(forecast)
+
     return {
         "id": page_number,
         "number": page_number,
         "title": forecast.place.name,
-        "lines": [
-            make_line(
-                forecast.place.name,
-                forecast.summary,
-                forecast.details,
-                source=forecast.source,
-            )
-        ],
+        "lines": [line],
     }
+
+
+def make_weather_body_rows(forecast: WeatherForecast) -> list[dict]:
+    rows: list[dict] = []
+    day_colors = ["cyan", "yellow", "teal", "orange", "magenta"]
+    day_index = 0
+
+    for index, detail in enumerate(forecast.details.splitlines()):
+        clean_detail = detail.strip()
+        if not clean_detail or clean_detail == "Kommende dager:" or clean_detail.startswith("Værdata"):
+            continue
+
+        is_day_row = clean_detail.lower().startswith(
+            ("mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag", "søndag")
+        )
+        row = {
+            "id": f"{slugify(forecast.place.name)}-weather-{index}",
+            "text": clean_detail,
+            "colorName": day_colors[day_index % len(day_colors)] if is_day_row else "white",
+        }
+
+        if ":" in clean_detail:
+            label, value = clean_detail.split(":", 1)
+            row["label"] = f"{label}:"
+            row["detail"] = value.strip()
+
+        rows.append(row)
+        if is_day_row:
+            day_index += 1
+
+    return rows
 
 
 def make_line(
