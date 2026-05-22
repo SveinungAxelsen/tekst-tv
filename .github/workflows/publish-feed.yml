@@ -1,0 +1,70 @@
+name: Publish Tekst-TV feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feed
+        run: |
+          mkdir -p public
+          python3 generator/generate_pages.py --output public/pages.json
+
+      - name: Add simple status page
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          feed = json.loads(Path("public/pages.json").read_text(encoding="utf-8"))
+          Path("public/index.html").write_text(
+              "<!doctype html><meta charset='utf-8'>"
+              "<title>Mors tekst-TV</title>"
+              "<body style='font-family: system-ui; background:#001; color:white'>"
+              "<h1>Mors tekst-TV</h1>"
+              f"<p>{feed.get('updated', 'Oppdatert')}</p>"
+              "<p><a style='color:#0ff' href='pages.json'>pages.json</a></p>"
+              "</body>",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build-feed
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

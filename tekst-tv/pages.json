@@ -1,0 +1,1379 @@
+{
+  "updated": "Oppdatert 22.05 kl. 13:44",
+  "sections": [
+    {
+      "id": "front",
+      "title": "Forside",
+      "startPage": "100",
+      "colorName": "yellow",
+      "pages": [
+        {
+          "id": "100",
+          "number": "100",
+          "title": "Forside",
+          "lines": [
+            {
+              "id": "mors-tekst-tv",
+              "headline": "Mors tekst-TV",
+              "colorName": "yellow",
+              "isImportant": true
+            },
+            {
+              "id": "siste-nytt",
+              "headline": "Siste nytt",
+              "colorName": "cyan",
+              "isImportant": false,
+              "body": "110 Frykter hurtigruta kuttes\n130 Nå starter jakten etter arvtakeren: Flere har meldt seg\n120 Barth Eide: – Vi skal nå bygge Nato 3.0"
+            },
+            {
+              "id": "neste-kamp",
+              "headline": "Neste kamp",
+              "colorName": "green",
+              "isImportant": false,
+              "ingress": "24.05 15:00  Liverpool vs Brentford (English Premier League)"
+            },
+            {
+              "id": "v-ret",
+              "headline": "Været",
+              "colorName": "yellow",
+              "isImportant": false,
+              "body": "Alta: Klart, 13 grader, vind 2 m/s\nBørselv: Pent vær, 15 grader, vind 1 m/s\nCahppiljohka: Delvis skyet, 12 grader, vind 2 m/s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domestic",
+      "title": "Innland",
+      "startPage": "110",
+      "colorName": "cyan",
+      "pages": [
+        {
+          "id": "110",
+          "number": "110",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "110-1",
+              "headline": "Frykter hurtigruta kuttes",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Havila, Hurtigruten og Sjømannsforbundet slår alarm om kystrutas fremtid, og\nfår støtte av Sp.",
+              "body": "MS Polarlys er blant syv skip fra rederiet Hurtigruten som seiler kystruta.\nOgså rederiet Havila har fem skip på ruta. Nå frykter rederiene at kystruta\nkuttes fra 2030. Kystruta mellom Bergen og Kirkenes kan bli kuttet etter 2030.\nDet frykter rederiene som seiler kystruta i dag, Hurtigruten og Havila. De får\nstøtte av Sjømannsforbundet og Senterpartiet. Rederiene hevder å ha fått\nnegative signaler fra staten om fremtida til den historiske ruta, som har gått\nlangs kysten siden 1800-tallet.",
+              "source": "NRK Norge, publisert 22.05 kl. 05:22"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "number": "111",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "111-1",
+              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
+              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
+              "source": "NRK Norge, publisert 22.05 kl. 11:25"
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "number": "112",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "112-1",
+              "headline": "Bransje med frynsete rykte blir sett i korta",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Veksten i netthandel har ført til ein eksplosjon av varebilar på norske vegar.",
+              "body": "AKSJONERTE I BERGEN: Denne veka rykte A-krimsenteret ut saman med politiet,\nTolletaten og Arbeidstilsynet for å kontrollere app-baserte\nmatleveringstenester i Bergen. Kontrollørane avdekka mistanke om organisert\nsvart arbeid og at fleire sjåførar køyrer på lånt identitet. Skatteetaten,\nPolitiet, Arbeidstilsynet, Nav og Tolletaten har dei siste åra halde eit\nekstra godt auge med den norske varebilbransjen, og dokumentert fleire lovbrot\n. Ein felles rapport frå 2023 avdekka indikasjonar på svart arbeid i nesten\nkvar tredje kontrollerte varebil.",
+              "source": "NRK Norge, publisert 22.05 kl. 08:35"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "number": "113",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "113-1",
+              "headline": "Tradisjonsplagg har blitt populært: – Kan brukes til både hverdag og fest",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Nå fortsetter arbeidet med å gi nytt liv til den tradisjonelle kvenske\ndamelua.",
+              "body": "Tradisjonsplagget har blitt en populær identitetsmarkør, nå skal flere lære å\nsy riukkulakki på sykurs i Kvænangen. – Det blir som vanlig veldig trivelig å\narrangere sykurs, sier kulturarbeider Riinakaisa Laitila fra Kvensk institutt.\nHun er kursleder på sykurset hvor deltakerne skal lære å sy den kvenske\ndamelua, på kvensk: riukkulakki . Riinakaisa Laitila jobber som kulturarbeider\nhos Kväänin institutti – Kvensk institutt. Hun skal også være kursleder på\nsykorset i slutten av mai.",
+              "source": "NRK Norge, publisert 22.05 kl. 08:15"
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "number": "114",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "114-1",
+              "headline": "Dømt til forvaring for grov voldtekt av barn",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Gudbrandsdal tingrett har dømt en mann i 30-årene til forvaring i ni år.",
+              "body": "BEHANDLET SAKEN: Rettssaken mot mannen startet her i Gudbrandsdal tingrett på\nLillehammer 13. april. Mannen dømmes for en rekke seksuallovbrudd, blant disse\nflere voldtekter av barn under 14 år. Han har en familierelasjon til de\nfornærmede. Dommen lyder ni års forvaring med en minstetid på seks år. Ifølge\ndommen oppbevarte mannen 70.136 unike bilder og 5.874 unike videoer som viste\novergrep mot barn. I retten forklarte han at han led av en samlemani. Barna\nvar mellom fire og sju år da overgrepene startet.",
+              "source": "NRK Norge, publisert 22.05 kl. 10:19"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "number": "115",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "115-1",
+              "headline": "Alvorlig ulykke i Vinje – èn person flydd til sykehus med luftambulanse",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Nødetatene har rykket ut til en trafikkulykke.",
+              "body": "– Det fremstår som en alvorlig ulykke, opplyser operasjonsleder Ståle Olstad\nFuglaas i Sør-Øst politidistrikt. Nødetatene ble varslet om ulykken klokka\n12.00. En halvtime senere er første enhet fremme. De to involverte er skadet.\nEn av dem er flydd til sykehus med første luftambulanse. Klokka 13.15 er den\nandre luftambulansen på stedet, og vil ta med seg den andre personen til\nsykehus, opplyser operasjonslederen. Veien er stengt forbi ulykkesstedet og\nfører til kø. Ifølge vegvesenet vil veien være stengt frem til klokka 20 i\nkveld.",
+              "source": "NRK Norge, publisert 22.05 kl. 10:13"
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "number": "116",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "116-1",
+              "headline": "Andrea fra Larvik tømmer kontoen på «bridal era»: – Har mista helt oversikten",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "BRUDEÆRA: Andrea Sveinsdottir har vært i sin brudeæra siden hun ble forlovet.",
+              "body": "– Idet vi satte bryllupsdatoen, startet min «bridal era». Influenser Andrea\nSveinsdottir skal gifte seg om få uker, og planleggingen har allerede pågått\nen stund. – Alt jeg tenker på er bryllupet mitt og brudeting. Det tar jo litt\nover livet, sier hun. Når man søker opp emneknaggen «bridal era» på sosiale\nmedier, møtes man av en strøm av videoer preget av hvit estetikk. Begrepet\nbrudeæra refererer til den spesifikke perioden fra man forlover seg og helt\nfrem til bryllupsdagen. Gjerne også den første tiden som nygift.",
+              "source": "NRK Norge, publisert 22.05 kl. 08:58"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "number": "117",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "117-1",
+              "headline": "Studentar vel skjerm framfor campus – ber rektorane sørge for snuoperasjon",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Statsråden meiner rektorane må gjere campuslivet meir attraktivt, og ber dei\ngjere skulen meir freistande enn skjermen.",
+              "body": "MØTER OPP: Cordelia Monsen og Bodil Lerøy møter opp på campus, men det gjer\nikkje mange av medstudentane deira. Det er fullt oppmøte til førelesinga i\nauditoriet ved Høgskolen i Molde, men likevel ikkje fullt i salen. Årsaka er\nat mange studentar følgjer undervisninga digitalt. Cordelia Velde Monsen møter\ngladeleg opp, men ser ein trend ho meiner er urovekkande. – Eg har høyrt om\nstudentar som går eit heilt år utan å møte ein einaste medstudent. Det synest\neg er ganske trist, seier ho. Bodil Lerøy har studert både før, under og etter\nkoronapandemien.",
+              "source": "NRK Norge, publisert 22.05 kl. 09:03"
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "number": "118",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "118-1",
+              "headline": "Brukar solkrem kvar dag: – Vil unngå rynker",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Unge jenter bruker solfaktor 50 i ansiktet kvar einaste dag, året rundt.",
+              "body": "Tea Delic, Line Thorsen og Olivia Bådholm nyt sola. Men alle er beskytta med\nsolfaktor 50 i ansiktet. – Eg brukar solkrem kvar dag for ikkje å skade huda\nmi. Eg vil ikkje få rynker og pigmentflekkar. Eg vil eldast fint, seier Line\nThorsen (23). Dei tre venninnene brukar alltid solfaktor 50 i ansiktet, og er\nikkje åleine om det. – Eg trur absolutt alle venninnene mine brukar solkrem\nkvar dag. Det er veldig viktig, seier Olivia Bådholm (24). – Personleg brukar\neg det ikkje heile året, men det er veldig mange som gjer det, seier Tea Delic\n(24).",
+              "source": "NRK Norge, publisert 22.05 kl. 08:57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "Lokal",
+      "startPage": "130",
+      "colorName": "magenta",
+      "pages": [
+        {
+          "id": "130",
+          "number": "130",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "130-1",
+              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
+              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:25"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "number": "131",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "131-1",
+              "headline": "Gruveselskap truer med Kina om ikke Støre blar opp milliarder av kroner",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Det svenske gruveselskapet Grangex sier de vil gå i forhandlinger med Kina,\ndersom ikke Norge går inn som eiere av fremtidig gruve i Finnmark.",
+              "body": "Svenske Grangex overtok Sydvaranger for to år siden. Gruveområdene i\nBjørnevatn antas å ha noen av de største malmreservene i Europa. Men nå sliter\nde med å finne penger til å få drifta i gang. Gruveeventyret som igjen er på\ntrappene i Kirkenes, har begynt å slå sprekker. Eierne er i pengeknipe og ber\nom hjelp fra regjeringen. – For oss er det bedre å få et klart nei enn et evig\ntja. Da kan vi legge innsatsen inn mot å finne andre løsninger, herunder\nutenlandske stater som har meldt interesse.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:03"
+            }
+          ]
+        },
+        {
+          "id": "132",
+          "number": "132",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "132-1",
+              "headline": "Tradisjonsplagg har blitt populært: – Kan brukes til både hverdag og fest",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Nå fortsetter arbeidet med å gi nytt liv til den tradisjonelle kvenske\ndamelua.",
+              "body": "Tradisjonsplagget har blitt en populær identitetsmarkør, nå skal flere lære å\nsy riukkulakki på sykurs i Kvænangen. – Det blir som vanlig veldig trivelig å\narrangere sykurs, sier kulturarbeider Riinakaisa Laitila fra Kvensk institutt.\nHun er kursleder på sykurset hvor deltakerne skal lære å sy den kvenske\ndamelua, på kvensk: riukkulakki . Riinakaisa Laitila jobber som kulturarbeider\nhos Kväänin institutti – Kvensk institutt. Hun skal også være kursleder på\nsykorset i slutten av mai.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 08:15"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "number": "133",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "133-1",
+              "headline": "Her kan det bli sommartemperatur i dag – men så snur det",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Sola skin over heile Troms, og i indre strøk kan det bli 20 varmegrader.",
+              "body": "Det blir nok ingen is på denne katta, men vakthavande meteorolog Kristine\nLyche anbefaler folk å nyte ein is i varmen før regnvêret kjem. – Eg ville ete\nis og nytt sola i dag, seier vakthavande meteorolog i Tromsø, Kristin Lyche. I\nTroms vakna dei fleste opp til strålande sol denne fredagsmorgonen. Sola vil\nfortsette å skine over fylket heile dagen. – Det er sjansar for 20 varmegrader\ni løpet av dagen, for eksempel på Bardufoss. Det er som ein sommardag, seier\nLyche.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 07:18"
+            }
+          ]
+        },
+        {
+          "id": "134",
+          "number": "134",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "134-1",
+              "headline": "Frykter hurtigruta kuttes",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Havila, Hurtigruten og Sjømannsforbundet slår alarm om kystrutas fremtid, og\nfår støtte av Sp.",
+              "body": "MS Polarlys er blant syv skip fra rederiet Hurtigruten som seiler kystruta.\nOgså rederiet Havila har fem skip på ruta. Nå frykter rederiene at kystruta\nkuttes fra 2030. Kystruta mellom Bergen og Kirkenes kan bli kuttet etter 2030.\nDet frykter rederiene som seiler kystruta i dag, Hurtigruten og Havila. De får\nstøtte av Sjømannsforbundet og Senterpartiet. Rederiene hevder å ha fått\nnegative signaler fra staten om fremtida til den historiske ruta, som har gått\nlangs kysten siden 1800-tallet.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 05:22"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "number": "135",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "135-1",
+              "headline": "Russlands ambassadør truer Norge med fiskestraff",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Den russiske ambassadøren til Norge kommer med trusler mot Norge om\nfiskestraffer etter sanksjoner mot russiske fiskeriselskap.",
+              "body": "MER NORMALE TIDER: Russiske krabbetrålere ligger i vinteropplag i Kirkenes i\nSør-Varanger i 2016. Dette var før Russland gikk til fullskala krig mot\nUkraina og forholdet til vesten ble drastisk forverret. – Det er tegn på det\nvi er kjent med; at Russland har reagert på Godkjenning av fartøy og\neksportører som har tillatelse til å selge sjømat til spesifikke land. \" data-\nterm=\"listeføringen\">listeføringen av fartøy. Vi har jo hatt ulike syn i\nsaken.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 05:12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Utland",
+      "startPage": "120",
+      "colorName": "green",
+      "pages": [
+        {
+          "id": "120",
+          "number": "120",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "120-1",
+              "headline": "Barth Eide: – Vi skal nå bygge Nato 3.0",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Det sa USAs utenriksminister Marco Rubio da han kom til et møte med Natos\nutenriksministre.",
+              "body": "Utenriksminister Espen Barth Eide er på plass på Nato-toppmøtet i Helsingborg.\nDer skal han og de andre utenriksministrene styrke Europa i Nato. Møtet i\nHelsingborg er første gang et høynivåmøte i Nato holdes på svensk jord etter\nat Sverige ble medlem av forsvarsalliansen for to år siden. USAs\nutenriksdepartement har på forhånd sagt at Rubio skal diskutere «større\nbyrdefordeling» innad i alliansen. Møtet på slottet Sofiero startet torsdag,\nmen Rubio er først med i dag. – Som for alle allianser, må det være bra for\nalle som er involvert.",
+              "source": "NRK Urix, publisert 22.05 kl. 05:59"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "number": "121",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "121-1",
+              "headline": "Landet Israel frykter mest i Midtøsten",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Israel har bombet fiendene sine i minst sju land i Midtøsten de siste tre\nårene.",
+              "body": "EN MILITÆRMAKT: Ett muslimsk land er så mektig at selv Israel sliter med å\nutfordre det. Dette er noen av landene i den muslimske verden Israel har\nangrepet bare de siste tre årene. Lille Israel, med en befolkning på 10\nmillioner, har gått til krig mot fiender som er langt større. Israel sier at\nde har blitt angrepet med raketter og droner fra disse landene og at dét er\nårsaken til at israelske militæret har bombet dem. Mens Israel er på randen av\nnok en krig med erkefienden Iran, har landet blingset ut et nytt land i\nMidtøsten de følger nøye med på.",
+              "source": "NRK Urix, publisert 21.05 kl. 16:29"
+            }
+          ]
+        },
+        {
+          "id": "122",
+          "number": "122",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "122-1",
+              "headline": "Zelenskyj hevder angrep mot FSB rammet 100 russiske soldater",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Ukrainas president hevder spesialstyrkene rammet et FSB-hovedkvarter i\nokkuperte Kherson.",
+              "body": "NRK har stedsverifisert lokasjonen, som var et hotellbygg før krigen.\nBranndata fra Nasa tyder på at angrepet skjedde natt til søndag. Det skriver\nVolodymyr Zelenskyj i et innlegg på X . – Et russisk Russlands føderale\ninterne etterretnings- og sikkerhetstjeneste. Etterfølgeren til det sovjetiske\nKGB. \" data-term=\"FSB\">FSB -hovedkvarter har blitt truffet, og et Pantsir-S1\nbakke-til-luft-missilsystem er ødelagt på vårt midlertidig okkuperte\nterritorium, skriver den ukrainske presidenten.",
+              "source": "NRK Urix, publisert 21.05 kl. 14:01"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "number": "123",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "123-1",
+              "headline": "Air France og Airbus funne skuldige i aktlaust drap etter flystyrt i 2009",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Selskapa vart frikjende i 2023, men no har ein ankedomstol i Paris funne dei\nskuldige.",
+              "body": "Først to år etter ulukka vart det funne vrakrestar etter flykatastrofen i\n2009. 228 menneske omkom. Kvart av selskapa er no dømd til å betale 225.000\neuro for flyulukka som kravde 228 menneskeliv, skriv Reuters. Både Air France\nog Airbus vart frikjende i 2023, men ein ankedomstol i Paris har funne begge\nselskapa skuldige i aktlaust drap etter flystyrten. Ifølgje Reuters, er det er\nforventa at saka vert anka vidare. Brasiliansk Hercules-pilot leter etter\nvrakdeler fra det savnede Air France-flyet. Et bilde offentliggjort 8.",
+              "source": "NRK Urix, publisert 21.05 kl. 12:24"
+            }
+          ]
+        },
+        {
+          "id": "124",
+          "number": "124",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "124-1",
+              "headline": "FN sier at stater kan stilles til ansvar for klimaendringer: – Historisk seier",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Vedtaket i FNs generalforsamling ble gjort med overveldende flertall.",
+              "body": "Varmekart fra Copernicus for april 2026 viste unormalt høye temperaturer mange\nsteder i verden. 431,1 ppm 1,5-gradersmålet +1,18 °C Les mer om klima Vedtaket\ni FN er en støtte til en kjennelse fra FN-domstolen i fjor sommer. Da sa\ndomstolen at «å ikke beskytte planeten fra klimaendringer kan være et brudd på\nfolkeretten». Domstolen sa at det kan være ulovlig å ikke gjennomføre tiltak\nfor å beskytte klimaet. Tavlen som viser resultatet av avstemningen i FN,\nOnsdag kveld ble resolusjonen som støttet kjennelsen vedtatt med stort\nflertall i New York.",
+              "source": "NRK Urix, publisert 21.05 kl. 09:17"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "number": "125",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "125-1",
+              "headline": "Norske Gaza-aktivister deportert fra Israel",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Gaza-aktivistene som ble pågrepet av israelske styrker i internasjonalt\nfarvann, ble i ettermiddag deportert.",
+              "body": "Chris O'Moore var en av de norske aktivistene som ble anholdt av israelsk\npoliti. Torsdag ettermiddag kom han til Istanbul. Alle aktivistene som ble\npågrepet i internasjonalt farvann av Israel ble løslatt i torsdag formiddag.\nDet opplyste organisasjonen Adalah i en pressemelding på WhatsApp . På\nettermiddagen bekreftet det israelske utenriksdepartementet at aktivistene var\ndeportert fra Israel. Rett før klokken 18.00 lokal tid landet de første flyene\nmed aktivistene på hovedflyplassen i Istanbul.",
+              "source": "NRK Urix, publisert 21.05 kl. 08:17"
+            }
+          ]
+        },
+        {
+          "id": "126",
+          "number": "126",
+          "title": "Utland",
+          "lines": [
+            {
+              "id": "126-1",
+              "headline": "Nato i dyp krise foran toppmøte i Sverige",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "USA trekker soldater ut av Europa mens Donald Trump fortsetter å så tvil om\nalliansens verdi.",
+              "body": "Generalsekretær Mark Rutte (bildet) har litt kreativt begynt å snakke om et\nNato 3.0. Nostalgi for de historiske forbindelsene har i hvert fall ingen\nverdi, skriver NRKs utenriksredaktør. Sverige vil vise muskler og historie. Da\ner Helsingborg det perfekte stedet for Natos utenriksministermøte. I dag og i\nmorgen samles Nato-utenriksministre i byen som sammen med sin danske\ntvillingby, Helsingør, kontrollerer Øresund. Sverige sloss hardt mot Danmark\nom kontrollen over byen.",
+              "source": "NRK Urix, publisert 21.05 kl. 05:09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "title": "Sport",
+      "startPage": "200",
+      "colorName": "red",
+      "pages": [
+        {
+          "id": "200",
+          "number": "200",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "200-1",
+              "headline": "Tromsø-trener Jørgen Vik får én kamps karantene",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Grunnen er uttalelser han kom med til TV 2 17.",
+              "body": "mai, dagen etter det hete rivaloppgjøret mot Bodø/Glimt. Det skriver Nordlys.\nNFF skal ha gitt Vik én kamps karantene for å ha trukket dommer Tore Hansens\nobjektivitet i tvil.",
+              "source": "NRK Sport, publisert 22.05 kl. 11:28"
+            }
+          ]
+        },
+        {
+          "id": "201",
+          "number": "201",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "201-1",
+              "headline": "Arbeloa bekrefter Real Madrid-avgang – baner vei for Mourinho",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Alvaro Arbeloa bekreftet fredag at han ikke fortsetter i Real Madrids\ntrenerteam etter årets sesong.",
+              "body": "Den spanske storklubben har vært sterkt koblet til profilerte José Mourinho\nden siste tiden. Arbeloa fikk opprykk som erstatter for sparkede Xabi Alonso i\njanuar, men får altså ikke fortsette til høsten. Det er spesielt å avslutte på\nhjemmebane, og det viktigste i morgen er å få alle til å nyte kampen, sa\nArbeloa.",
+              "source": "NRK Sport, publisert 22.05 kl. 11:19"
+            }
+          ]
+        },
+        {
+          "id": "202",
+          "number": "202",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "202-1",
+              "headline": "Vil vrake Nusa: – Alt handlar om å vinne den første kampen",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Antonio Nusa eller Andreas Schjelderup mot Irak?",
+              "body": "NRK-ekspertane er splitta i spørsmålet få veker før VM.",
+              "source": "NRK Sport, publisert 22.05 kl. 11:04"
+            }
+          ]
+        },
+        {
+          "id": "203",
+          "number": "203",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "203-1",
+              "headline": "Bekreftet: Pep Guardiola ferdig i klubben: – Ikke spør meg om hvorfor",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Pep Guardiolas dager som Manchester City-sjef er talte.",
+              "body": "Han gir seg i klubben etter søndagens serieavslutning mot Aston Villa.\nSpanjolens avgang markerer slutten på en ti år lang suksesshistorie for de\nlyseblå. Guardiola kom til City i 2016 og har ledet klubben til topps i både\nPremier League, Champions League, FA-cupen, ligacupen og klubb-VM.",
+              "source": "NRK Sport, publisert 22.05 kl. 10:13"
+            }
+          ]
+        },
+        {
+          "id": "204",
+          "number": "204",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "204-1",
+              "headline": "Bekreftet: Michael Carrick ansatt som Manchester United-trener",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Michael Carrick har fått Manchester United-jobben på fast basis.",
+              "body": "Det bekrefter klubben på sine kanaler. Han har signert en toårs-kontrakt. I\nkontrakten skal det også være en opsjon på ytterligere ett år.",
+              "source": "NRK Sport, publisert 22.05 kl. 10:01"
+            }
+          ]
+        },
+        {
+          "id": "205",
+          "number": "205",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "205-1",
+              "headline": "Snakker ut om vrakingen: – Jeg er skuffet",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Hos de fleste eksperter var Brann-indreløperen på forhånd inne på\nlandslagssjef Ståle Solbakkens VM-tropp.",
+              "body": "– Jeg hadde ikke hørt noe på forhånd, og fulgte TV-sendingen som alle andre, innleder Felix\nHorn Myhre overfor NRK fredag. Men 27-åringen ble vraket til fordel for Rangers' Thelo\nAasgaard. Som betyr at han ikke skal til sommerens fotball-VM. – Jeg er selvfølgelig litt\nskuffet. Nå har jeg hatt noen timer til å komme meg over den verste skuffelsen. Man må bare\ngodta det som det er, og denne gangen ble jeg ikke veid til å være god nok, sier han til NRK.\nHan har stort sett har vært tatt ut i troppene de siste to årene.",
+              "source": "NRK Sport, publisert 22.05 kl. 10:01"
+            }
+          ]
+        },
+        {
+          "id": "206",
+          "number": "206",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "206-1",
+              "headline": "England-treneren ut mot Manchester United-stjerne etter lekkasjer: – Jeg er overrasket",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Samtidig som den norske troppen ble presentert torsdag kveld, ble ett og ett\nnavn av den engelske landslagstroppen lekket til pressen.",
+              "body": "Kommentarene til Harry Maguire imponerte ikke England-treneren.",
+              "source": "NRK Sport, publisert 22.05 kl. 09:01"
+            }
+          ]
+        },
+        {
+          "id": "207",
+          "number": "207",
+          "title": "Sportsnyheter",
+          "lines": [
+            {
+              "id": "207-1",
+              "headline": "VM-yndlingen Koblar (18) skifter klubb i Sverige – skal trenes av nordmann",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "18-åringen Tinus Luc Koblar, som har blomstret for Norges A-landslag,\nfortsetter ishockeykarrieren i SHL-klubben Rögle.",
+              "body": "Det melder Rögle på eget nettsted fredag. Koblar har undertegnet en\nettårskontrakt med den tapende finalisten fra SHL-sluttspillet i vår. Koblar\nhar markert seg sterkt det siste året med debutsesong på seniornivå for både\nLeksand i SHL og Norge.",
+              "source": "NRK Sport, publisert 22.05 kl. 08:10"
+            }
+          ]
+        },
+        {
+          "id": "230",
+          "number": "230",
+          "title": "Liverpool",
+          "lines": [
+            {
+              "id": "230-1",
+              "headline": "Thiago Alcantara forlater trenerstaben i Barcelona",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Det bekrefter klubben selv.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 22.05 kl. 12:59"
+            }
+          ]
+        },
+        {
+          "id": "231",
+          "number": "231",
+          "title": "Liverpool",
+          "lines": [
+            {
+              "id": "231-1",
+              "headline": "Ngumoha var den som kom nærmest – blir med på treningsleir",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Rio Ngumoha skal trene sammen med resten av England-troppen før VM.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 22.05 kl. 12:26"
+            }
+          ]
+        },
+        {
+          "id": "232",
+          "number": "232",
+          "title": "Liverpool",
+          "lines": [
+            {
+              "id": "232-1",
+              "headline": "Michael Carrick blir permanent Manchester United-manager",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Manchester United bekrefter at Michael Carrick ansettes som permanent manager.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 22.05 kl. 12:14"
+            }
+          ]
+        },
+        {
+          "id": "233",
+          "number": "233",
+          "title": "Liverpool",
+          "lines": [
+            {
+              "id": "233-1",
+              "headline": "Alisson og Isak tilbake i trening",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Arne Slot kom med oppmuntrende nyheter på fredagens pressekonferanse.",
+              "body": "Både Alexander Isak og Alisson Becker er tilbake i trening før søndagens\nsesongavslutning mot Brentford på Anfield.",
+              "source": "Liverpool.no, publisert 22.05 kl. 11:12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "matches",
+      "title": "Kamper",
+      "startPage": "210",
+      "colorName": "orange",
+      "pages": [
+        {
+          "id": "210",
+          "number": "210",
+          "title": "Engelsk: Premier League",
+          "lines": [
+            {
+              "id": "engelsk-premier-league",
+              "headline": "Engelsk: Premier League",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 38",
+              "body": "24.05 15:00  Brighton and Hove Albion vs Manchester United\n24.05 15:00  Burnley vs Wolverhampton Wanderers\n24.05 15:00  Crystal Palace vs Arsenal\n24.05 15:00  Fulham vs Newcastle United\n24.05 15:00  Liverpool vs Brentford\n24.05 15:00  Manchester City vs Aston Villa\n24.05 15:00  Nottingham Forest vs Bournemouth\n24.05 15:00  Sunderland vs Chelsea\n24.05 15:00  Tottenham Hotspur vs Everton\n24.05 15:00  West Ham United vs Leeds United",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "211",
+          "number": "211",
+          "title": "Engelsk: FA-cup 1/2",
+          "lines": [
+            {
+              "id": "engelsk-fa-cup-1-2",
+              "headline": "Engelsk: FA-cup 1/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "01.08 18:45  Bootle vs 1874 Northwich\n01.08 18:45  Enfield vs Wormley Rovers\n01.08 18:45  Pickering Town vs Penrith\n01.08 18:45  Roman Glass St George vs Nailsea and Tickenham\n01.08 18:45  Stone Old Alleynians vs Sutton Coldfield Town\n01.08 19:00  Belper United vs Uttoxeter Town\n01.08 19:00  Wokingham Town vs Brislington\n02.08 11:00  Hamworthy Recreation vs Hartley Wintney",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "212",
+          "number": "212",
+          "title": "Engelsk: FA-cup 2/2",
+          "lines": [
+            {
+              "id": "engelsk-fa-cup-2-2",
+              "headline": "Engelsk: FA-cup 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "02.08 13:00  Guernsey vs Bedfont Sports\n02.08 14:00  Eastbourne Town vs Ashford Town Middlesex\n02.08 14:00  Edgware Town vs British Airways\n02.08 14:00  Ipswich Wanderers vs Lakenheath\n02.08 14:00  Lydney Town vs Royal Wootton Bassett Town\n02.08 14:00  South Park vs Newhaven\n02.08 14:00  Worcester Raiders vs Ashby Ivanhoe",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "213",
+          "number": "213",
+          "title": "Engelsk: Ligacup",
+          "lines": [
+            {
+              "id": "engelsk-ligacup",
+              "headline": "Engelsk: Ligacup",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "29.07 18:30  Barnet vs Newport County\n05.08 18:45  Accrington Stanley vs Oldham Athletic",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "214",
+          "number": "214",
+          "title": "Norsk: Eliteserien",
+          "lines": [
+            {
+              "id": "norsk-eliteserien",
+              "headline": "Norsk: Eliteserien",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 10",
+              "body": "24.05 14:00  Bodø/Glimt vs Brann\n24.05 16:00  Kristiansund vs Viking\n25.05 12:30  Start vs Vålerenga\n25.05 15:00  Hamarkameratene vs Lillestrøm\n25.05 15:00  KFUM-Kameratene Oslo vs Rosenborg\n25.05 15:00  Sarpsborg 08 vs Molde\n25.05 15:00  Tromsø vs Aalesund\n25.05 17:15  Sandefjord vs Fredrikstad",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "215",
+          "number": "215",
+          "title": "Europa: Champions League",
+          "lines": [
+            {
+              "id": "europa-champions-league",
+              "headline": "Europa: Champions League",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 200",
+              "body": "30.05 16:00  Paris SG vs Arsenal",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "216",
+          "number": "216",
+          "title": "Europa: Europa League 1/2",
+          "lines": [
+            {
+              "id": "europa-europa-league-1-2",
+              "headline": "Europa: Europa League 1/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "10.07 16:00  Sabah FC vs Celje\n10.07 16:30  AEK Larnaca vs Partizan Belgrade\n10.07 17:00  Paks vs CFR Cluj\n10.07 17:00  Sheriff Tiraspol vs Prishtina\n10.07 17:30  Levski Sofia vs Hapoel Be'er Sheva\n10.07 18:00  Shakhtar Donetsk vs Ilves\n10.07 18:15  Spartak Trnava vs Hacken\n10.07 19:00  Legia Warsaw vs Aktobe",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "217",
+          "number": "217",
+          "title": "Europa: Europa League 2/2",
+          "lines": [
+            {
+              "id": "europa-europa-league-2-2",
+              "headline": "Europa: Europa League 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "17.07 16:00  Aktobe vs Legia Warsaw\n17.07 16:00  Ilves vs Shakhtar Donetsk\n17.07 17:00  Hacken vs Spartak Trnava\n17.07 17:30  CFR Cluj vs Paks\n17.07 18:00  Celje vs Sabah FC\n17.07 18:00  Hapoel Be'er Sheva vs Levski Sofia\n17.07 18:00  Prishtina vs Sheriff Tiraspol",
+              "source": "TheSportsDB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "results",
+      "title": "Resultater",
+      "startPage": "240",
+      "colorName": "purple",
+      "pages": [
+        {
+          "id": "240",
+          "number": "240",
+          "title": "Engelsk: Premier League",
+          "lines": [
+            {
+              "id": "engelsk-premier-league",
+              "headline": "Engelsk: Premier League",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Spilt 15.05-19.05",
+              "body": "15.05 19:00  Aston Villa 4-2 Liverpool\n17.05 11:30  Manchester United 3-2 Nottingham Forest\n17.05 14:00  Leeds United 1-0 Brighton & Hove Albion\n17.05 14:00  Brentford 2-2 Crystal Palace\n17.05 14:00  Wolverhampton Wanderers 1-1 Fulham\n17.05 14:00  Everton 1-3 Sunderland\n17.05 16:30  Newcastle United 3-1 West Ham United\n18.05 19:00  Arsenal 1-0 Burnley\n19.05 18:30  AFC Bournemouth 1-1 Manchester City\n19.05 19:15  Chelsea 2-1 Tottenham Hotspur",
+              "source": "ESPN"
+            }
+          ]
+        },
+        {
+          "id": "241",
+          "number": "241",
+          "title": "Engelsk: FA-cup",
+          "lines": [
+            {
+              "id": "engelsk-fa-cup",
+              "headline": "Engelsk: FA-cup",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Spilt 16.05",
+              "body": "16.05 14:00  Chelsea 0-1 Manchester City",
+              "source": "ESPN"
+            }
+          ]
+        },
+        {
+          "id": "242",
+          "number": "242",
+          "title": "Engelsk: Ligacup",
+          "lines": [
+            {
+              "id": "engelsk-ligacup",
+              "headline": "Engelsk: Ligacup",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Spilt 22.03",
+              "body": "22.03 16:30  Arsenal 0-2 Manchester City",
+              "source": "ESPN"
+            }
+          ]
+        },
+        {
+          "id": "243",
+          "number": "243",
+          "title": "Norsk: Eliteserien",
+          "lines": [
+            {
+              "id": "norsk-eliteserien",
+              "headline": "Norsk: Eliteserien",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Spilt 16.05-20.05",
+              "body": "16.05 14:00  Viking FK 6-3 IK Start\n16.05 14:00  Molde 1-0 Kristiansund BK\n16.05 14:00  Lillestrom 3-1 Sandefjord\n16.05 16:00  Bodo/Glimt 5-0 Tromso\n16.05 18:00  Vålerenga 3-2 Sarpsborg FK\n20.05 16:00  IK Start 1-4 Bodo/Glimt\n20.05 17:00  Lillestrom 1-2 Kristiansund BK\n20.05 18:00  Aalesund 2-1 SK Brann",
+              "source": "ESPN"
+            }
+          ]
+        },
+        {
+          "id": "244",
+          "number": "244",
+          "title": "Europa: Champions League",
+          "lines": [
+            {
+              "id": "europa-champions-league",
+              "headline": "Europa: Champions League",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Spilt 28.04-06.05",
+              "body": "28.04 19:00  Paris Saint-Germain 5-4 Bayern Munich\n29.04 19:00  Atlético Madrid 1-1 Arsenal\n05.05 19:00  Arsenal 1-0 Atlético Madrid (samlet Arsenal 2-1 Atlético Madrid)\n06.05 19:00  Bayern Munich 1-1 Paris Saint-Germain (samlet Bayern Munich 5-6 Paris Saint-Germain)",
+              "source": "ESPN"
+            }
+          ]
+        },
+        {
+          "id": "245",
+          "number": "245",
+          "title": "Europa: Europa League",
+          "lines": [
+            {
+              "id": "europa-europa-league",
+              "headline": "Europa: Europa League",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Spilt 20.05",
+              "body": "20.05 19:00  SC Freiburg 0-3 Aston Villa",
+              "source": "ESPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tables",
+      "title": "Tabeller",
+      "startPage": "270",
+      "colorName": "white",
+      "pages": [
+        {
+          "id": "270",
+          "number": "270",
+          "title": "Engelsk: PL-tabell 1/2",
+          "lines": [
+            {
+              "id": "engelsk-pl-tabell-1-2",
+              "headline": "Engelsk: PL-tabell 1/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "source": "ESPN",
+              "bodyRows": [
+                {
+                  "id": "table-1",
+                  "text": " 1. Arsenal                  K 37  +/- +43  P  82",
+                  "colorName": "yellow"
+                },
+                {
+                  "id": "table-2",
+                  "text": " 2. Manchester City          K 37  +/- +43  P  78",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-3",
+                  "text": " 3. Manchester United        K 37  +/- +16  P  68",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-4",
+                  "text": " 4. Aston Villa              K 37  +/-  +6  P  62",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-5",
+                  "text": " 5. Liverpool                K 37  +/- +10  P  59",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-6",
+                  "text": " 6. AFC Bournemouth          K 37  +/-  +4  P  56",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-7",
+                  "text": " 7. Brighton & Hove Albion   K 37  +/-  +9  P  53",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-8",
+                  "text": " 8. Chelsea                  K 37  +/-  +7  P  52",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-9",
+                  "text": " 9. Brentford                K 37  +/-  +3  P  52",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-10",
+                  "text": "10. Sunderland               K 37  +/-  -7  P  51",
+                  "colorName": "white"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "271",
+          "number": "271",
+          "title": "Engelsk: PL-tabell 2/2",
+          "lines": [
+            {
+              "id": "engelsk-pl-tabell-2-2",
+              "headline": "Engelsk: PL-tabell 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "source": "ESPN",
+              "bodyRows": [
+                {
+                  "id": "table-11",
+                  "text": "11. Newcastle United         K 37  +/-   0  P  49",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-12",
+                  "text": "12. Everton                  K 37  +/-  -2  P  49",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-13",
+                  "text": "13. Fulham                   K 37  +/-  -6  P  49",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-14",
+                  "text": "14. Leeds United             K 37  +/-  -4  P  47",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-15",
+                  "text": "15. Crystal Palace           K 37  +/-  -9  P  45",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-16",
+                  "text": "16. Nottingham Forest        K 37  +/-  -3  P  43",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-17",
+                  "text": "17. Tottenham Hotspur        K 37  +/- -10  P  38",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-18",
+                  "text": "18. West Ham United          K 37  +/- -22  P  36",
+                  "colorName": "red"
+                },
+                {
+                  "id": "table-19",
+                  "text": "19. Burnley                  K 37  +/- -37  P  21",
+                  "colorName": "red"
+                },
+                {
+                  "id": "table-20",
+                  "text": "20. Wolverhampton Wanderers  K 37  +/- -41  P  19",
+                  "colorName": "red"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "272",
+          "number": "272",
+          "title": "Norsk: ES-tabell 1/2",
+          "lines": [
+            {
+              "id": "norsk-es-tabell-1-2",
+              "headline": "Norsk: ES-tabell 1/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "source": "ESPN",
+              "bodyRows": [
+                {
+                  "id": "table-1",
+                  "text": " 1. Viking FK                K  9  +/- +18  P  24",
+                  "colorName": "yellow"
+                },
+                {
+                  "id": "table-2",
+                  "text": " 2. Tromso                   K 11  +/-  +4  P  23",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-3",
+                  "text": " 3. Bodo/Glimt               K  9  +/- +15  P  19",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-4",
+                  "text": " 4. Lillestrom               K 10  +/-  +8  P  19",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-5",
+                  "text": " 5. Molde                    K  9  +/-  +5  P  16",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-6",
+                  "text": " 6. SK Brann                 K 10  +/-  +7  P  13",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-7",
+                  "text": " 7. Hamarkameratene          K  8  +/-  -1  P  13",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-8",
+                  "text": " 8. Sandefjord               K  9  +/-  -2  P  13",
+                  "colorName": "white"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "273",
+          "number": "273",
+          "title": "Norsk: ES-tabell 2/2",
+          "lines": [
+            {
+              "id": "norsk-es-tabell-2-2",
+              "headline": "Norsk: ES-tabell 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "source": "ESPN",
+              "bodyRows": [
+                {
+                  "id": "table-9",
+                  "text": " 9. Vålerenga                K  9  +/-  -4  P  11",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-10",
+                  "text": "10. Kristiansund BK          K  9  +/-  -4  P  11",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-11",
+                  "text": "11. Fredrikstad              K  9  +/-  -6  P  10",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-12",
+                  "text": "12. Aalesund                 K  9  +/-  -5  P   9",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-13",
+                  "text": "13. Sarpsborg FK             K  9  +/-  -5  P   8",
+                  "colorName": "white"
+                },
+                {
+                  "id": "table-14",
+                  "text": "14. KFUM Oslo                K  9  +/-  -7  P   8",
+                  "colorName": "orange"
+                },
+                {
+                  "id": "table-15",
+                  "text": "15. Rosenborg                K  9  +/-  -7  P   8",
+                  "colorName": "red"
+                },
+                {
+                  "id": "table-16",
+                  "text": "16. IK Start                 K 10  +/- -16  P   4",
+                  "colorName": "red"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Vær",
+      "startPage": "300",
+      "colorName": "teal",
+      "pages": [
+        {
+          "id": "300",
+          "number": "300",
+          "title": "Vær Norge",
+          "lines": [
+            {
+              "id": "v-r-norge",
+              "headline": "Vær Norge",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Kort oversikt over utvalgte steder.",
+              "body": "Alta            Klart, 13 grader, vind 2 m/s\nBørselv         Pent vær, 15 grader, vind 1 m/s\nČáhppiljohka    Delvis skyet, 12 grader, vind 2 m/s\nHeimdal         Delvis skyet, 16 grader, vind 2 m/s\nBø              Delvis skyet, 21 grader, vind 1 m/s\nKristiansand    Delvis skyet, 20 grader, vind 4 m/s\nSvalbard        Skyet, 4 grader, vind 2 m/s\nOs              Regn, 15 grader, vind 2 m/s\nFinnsnes        Delvis skyet, 15 grader, vind 5 m/s\nTorrevieja      Klart, 23 grader, vind 4 m/s",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "301",
+          "number": "301",
+          "title": "Vær Europa",
+          "lines": [
+            {
+              "id": "v-r-europa",
+              "headline": "Vær Europa",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Kort oversikt over utvalgte steder.",
+              "body": "Torrevieja      Klart, 23 grader, vind 4 m/s\nLondon          Delvis skyet, 25 grader, vind 4 m/s\nParis           Klart, 24 grader, vind 2 m/s\nBerlin          Skyet, 22 grader, vind 3 m/s\nRoma            Klart, 28 grader, vind 5 m/s",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "302",
+          "number": "302",
+          "title": "Alta",
+          "lines": [
+            {
+              "id": "alta",
+              "headline": "Alta",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Klart, 13 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 12 til 15 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-12 grader, 2.9 mm nedbør. Søndag 24.05: lett regn, 6-9 grader, 11.1 mm nedbør. Mandag 25.05: skyet, 8-11 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 6-12 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 5-11 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "303",
+          "number": "303",
+          "title": "Børselv",
+          "lines": [
+            {
+              "id": "b-rselv",
+              "headline": "Børselv",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Pent vær, 15 grader, vind 1 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 16 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 8-14 grader, 0.0 mm nedbør. Søndag 24.05: skyet, 7-9 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 5-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 3-9 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 2-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "304",
+          "number": "304",
+          "title": "Čáhppiljohka",
+          "lines": [
+            {
+              "id": "hppiljohka",
+              "headline": "Čáhppiljohka",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 12 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 13 til 14 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 8-13 grader, 0.6 mm nedbør. Søndag 24.05: skyet, 6-8 grader, 4.6 mm nedbør. Mandag 25.05: skyet, 6-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 5-10 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 4-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "305",
+          "number": "305",
+          "title": "Heimdal",
+          "lines": [
+            {
+              "id": "heimdal",
+              "headline": "Heimdal",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 16 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 18 grader, omtrent 4.3 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 11-17 grader, 53.5 mm nedbør. Søndag 24.05: skyet, 10-13 grader, 12.4 mm nedbør. Mandag 25.05: delvis skyet, 9-13 grader, 6.4 mm nedbør. Tirsdag 26.05: skyet, 9-10 grader, 13.6 mm nedbør. Onsdag 27.05: regn, 7-10 grader, 7.5 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "306",
+          "number": "306",
+          "title": "Bø",
+          "lines": [
+            {
+              "id": "b",
+              "headline": "Bø",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 21 grader, vind 1 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 20 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 10-21 grader, 38.9 mm nedbør. Søndag 24.05: delvis skyet, 9-20 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 12-22 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 10-19 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 9-19 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "307",
+          "number": "307",
+          "title": "Kristiansand",
+          "lines": [
+            {
+              "id": "kristiansand",
+              "headline": "Kristiansand",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 20 grader, vind 4 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 17 til 21 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 12-20 grader, 23.1 mm nedbør. Søndag 24.05: klart, 12-20 grader, 0.0 mm nedbør. Mandag 25.05: pent vær, 12-19 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 12-18 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 11-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "308",
+          "number": "308",
+          "title": "Svalbard",
+          "lines": [
+            {
+              "id": "svalbard",
+              "headline": "Svalbard",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Skyet, 4 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.2 mm. Neste døgn: 3 til 4 grader, omtrent 2.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 1-4 grader, 1.3 mm nedbør. Søndag 24.05: skyet, 0-3 grader, 0.8 mm nedbør. Mandag 25.05: skyet, 0-2 grader, 0.0 mm nedbør. Tirsdag 26.05: lett sludd, 1-1 grader, 0.7 mm nedbør. Onsdag 27.05: skyet, 0-1 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "309",
+          "number": "309",
+          "title": "Os",
+          "lines": [
+            {
+              "id": "os",
+              "headline": "Os",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Regn, 15 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 1.0 mm. Neste døgn: 14 til 16 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 11-14 grader, 105.7 mm nedbør. Søndag 24.05: skyet, 11-14 grader, 9.7 mm nedbør. Mandag 25.05: regn, 12-13 grader, 12.8 mm nedbør. Tirsdag 26.05: regn, 10-13 grader, 7.7 mm nedbør. Onsdag 27.05: delvis skyet, 9-14 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "310",
+          "number": "310",
+          "title": "Finnsnes",
+          "lines": [
+            {
+              "id": "finnsnes",
+              "headline": "Finnsnes",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 15 grader, vind 5 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 11 til 15 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-11 grader, 37.4 mm nedbør. Søndag 24.05: regn, 8-10 grader, 41.9 mm nedbør. Mandag 25.05: regn, 10-12 grader, 3.6 mm nedbør. Tirsdag 26.05: regn, 9-12 grader, 1.6 mm nedbør. Onsdag 27.05: skyet, 8-10 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "311",
+          "number": "311",
+          "title": "Torrevieja",
+          "lines": [
+            {
+              "id": "torrevieja",
+              "headline": "Torrevieja",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Klart, 23 grader, vind 4 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 21 til 24 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 17-24 grader, 0.0 mm nedbør. Søndag 24.05: pent vær, 18-24 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 19-24 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 19-24 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 19-25 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "312",
+          "number": "312",
+          "title": "London",
+          "lines": [
+            {
+              "id": "london",
+              "headline": "London",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 25 grader, vind 4 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 24 til 27 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 18-29 grader, 0.0 mm nedbør. Søndag 24.05: klart, 17-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 20-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 22-32 grader, 1.2 mm nedbør. Onsdag 27.05: klart, 12-20 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "313",
+          "number": "313",
+          "title": "Paris",
+          "lines": [
+            {
+              "id": "paris",
+              "headline": "Paris",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Klart, 24 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 23 til 26 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-28 grader, 0.0 mm nedbør. Søndag 24.05: klart, 17-29 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 20-29 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 19-29 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 19-26 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "314",
+          "number": "314",
+          "title": "Berlin",
+          "lines": [
+            {
+              "id": "berlin",
+              "headline": "Berlin",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Skyet, 22 grader, vind 3 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 20 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-25 grader, 0.0 mm nedbør. Mandag 25.05: klart, 15-24 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 18-25 grader, 0.1 mm nedbør. Onsdag 27.05: klart, 12-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "315",
+          "number": "315",
+          "title": "Roma",
+          "lines": [
+            {
+              "id": "roma",
+              "headline": "Roma",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Klart, 28 grader, vind 5 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 23 til 29 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 15-30 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 19-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 20-32 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 21-31 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
