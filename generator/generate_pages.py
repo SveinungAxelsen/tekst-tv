@@ -1153,11 +1153,18 @@ def front_news_summary(
     world_items: list[SourceItem],
     local_items: list[SourceItem],
 ) -> str:
+    local_title = first_unique_title(local_items, set())
+    world_title = first_unique_title(world_items, {front_title_key(local_title)})
+    domestic_title = first_unique_title(
+        domestic_items,
+        {front_title_key(local_title), front_title_key(world_title)},
+    )
+
     return "\n".join(
         [
-            f"110 {first_title(domestic_items)}",
-            f"130 {first_title(local_items)}",
-            f"120 {first_title(world_items)}",
+            f"110 {domestic_title}",
+            f"130 {local_title}",
+            f"120 {world_title}",
         ]
     )
 
@@ -1230,6 +1237,19 @@ def front_weather_summary(weather_forecasts: list[WeatherForecast]) -> str:
 
 def first_title(items: list[SourceItem]) -> str:
     return items[0].title if items else "Ingen nye saker akkurat nå"
+
+
+def first_unique_title(items: list[SourceItem], used_keys: set[str]) -> str:
+    for item in items:
+        title = item.title
+        key = front_title_key(title)
+        if key and key not in used_keys:
+            return title
+    return first_title(items)
+
+
+def front_title_key(title: str) -> str:
+    return re.sub(r"\W+", "", title.casefold())
 
 
 def make_news_pages(start_page: int, title: str, items: list[SourceItem]) -> list[dict]:

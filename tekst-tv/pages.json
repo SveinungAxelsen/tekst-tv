@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 22.05 kl. 19:20",
+  "updated": "Oppdatert 22.05 kl. 19:38",
   "sections": [
     {
       "id": "front",
@@ -23,7 +23,7 @@
               "headline": "Siste nytt",
               "colorName": "cyan",
               "isImportant": false,
-              "body": "110 Tromsø-væring aktuell for Sveriges landslag\n130 Tromsø-væring aktuell for Sveriges landslag\n120 Hva er USAs neste trekk?"
+              "body": "110 Kommunen raser: – Vi kan ikke akseptere et slikt tap\n130 Tromsø-væring aktuell for Sveriges landslag\n120 Hva er USAs neste trekk?"
             },
             {
               "id": "neste-kamp",
@@ -128,38 +128,6 @@
               "source": "NRK Norge, publisert 22.05 kl. 15:05"
             }
           ]
-        },
-        {
-          "id": "115",
-          "number": "115",
-          "title": "Innland",
-          "lines": [
-            {
-              "id": "115-1",
-              "headline": "Nå skal folk slippe å dra på «fyllinga»: Vil kjøre rundt med stoff-poser",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Snart kan innbyggere i flere kommuner kvitte seg med ødelagte klær uten å\nforlate hjemmet.",
-              "body": "ØDELAGT TEKSTIL: På Solgård avfallsplass i Moss ser rådgiver Ann Christin\nSkjelvand i MOVAR på det som er kastet i konteinerne for ødelagte tekstiler.\nHva skal du gjøre med den brukte genseren du ikke vil ha lenger? Eller med de\nhullete sokkene som har gjort nytta si? – Dessverre så er det veldig mange som\nsynes det er litt forvirrende, sier rådgiver Ann Christin Skjelvand i MOVAR er\net interkommunalt selskap som blant annet håndterer avfall. \" data-\nterm=\"MOVAR\">Movar i Moss. Slik ser de grønne posene folk skal kunne bestille\nhjem ut.",
-              "source": "NRK Norge, publisert 22.05 kl. 13:55"
-            }
-          ]
-        },
-        {
-          "id": "116",
-          "number": "116",
-          "title": "Innland",
-          "lines": [
-            {
-              "id": "116-1",
-              "headline": "SV vil ha beredskapskai til Rauma – håper å få gjennomslag i budsjettforhandlingane",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "SV håper at dragkampen om kronene i revidert statsbudsjett skal føre til at\nplanane om ei ny storkai i Rauma blir redda.",
-              "body": "Kaia på Åndalsnes i Rauma har sett betre dagar. No håper SV å få pengar til ny\nkai. Rauma- ordførar Yvonne Wold har ein finger med i spelet når SV no går til\nforhandlingsbordet med planane om ei ny kai i romsdalskommunen Rauma. Dei\nneste dagane forhandlar partia om korleis statsbudsjettet skal sjå ut, etter\nat forslaget blei lagt på bordet sist veke. Sosialistisk Venstreparti meiner\nei ny Roll-on-roll-off er ein laste- og lossemetode der godset blir køyrt om\nbord og frå borde på til dømes lastebilar og trailarar.",
-              "source": "NRK Norge, publisert 22.05 kl. 13:23"
-            }
-          ]
         }
       ]
     },
@@ -246,22 +214,6 @@
               "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
               "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
               "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:25"
-            }
-          ]
-        },
-        {
-          "id": "135",
-          "number": "135",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "135-1",
-              "headline": "Gruveselskap truer med Kina om ikke Støre blar opp penger",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Det svenske gruveselskapet Grangex sier de vil gå i forhandlinger med Kina,\ndersom ikke Norge går inn som eiere av fremtidig gruve i Finnmark.",
-              "body": "Svenske Grangex overtok Sydvaranger for to år siden. Gruveområdene i\nBjørnevatn antas å ha noen av de største malmreservene i Europa. Men nå sliter\nde med å finne penger til å få drifta i gang. Gruveeventyret som igjen er på\ntrappene i Kirkenes, har begynt å slå sprekker. Eierne er i pengeknipe og ber\nom hjelp fra regjeringen. – For oss er det bedre å få et klart nei enn et evig\ntja. Da kan vi legge innsatsen inn mot å finne andre løsninger, herunder\nutenlandske stater som har meldt interesse.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:03"
             }
           ]
         }
@@ -400,12 +352,12 @@
           "lines": [
             {
               "id": "200-1",
-              "headline": "Superstjerne med hard Ullevaal-kritikk – hylles av Klaveness",
+              "headline": "Norges VM-tropp styrkes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Aitana Bonmatí mener Ullevaal stadion er for liten til å huse kvinnenes\nmesterligafinale.",
-              "body": "Fotballpresident Lise Klaveness har full forståelse for synspunktet.",
-              "source": "NRK Sport, publisert 22.05 kl. 17:15"
+              "ingress": "Michael Brandsegg-Nygård (20) reiser til Sveits for å slutte seg til Norges\ntropp i ishockey-VM.",
+              "body": "Brandsegg-Nygård har fram til fredag vært opptatt med sluttspillet i AHL med Grand Rapis\nGriffins. Etter exiten ble han aktuell for Norges VM-lag, og sportssjef Patrick Thoresen\nbekreftet overfor nitten.no at det vil bli tatt kontakt med Brandsegg-Nygård og hans\narbeidsgiver Detroit Red Wings. Nå er det bekreftet at han kommer til Sveits for å spille de to\nsiste gruppekampene. Han rekker ikke lørdagens kamp mot Sverige. Etter det venter Tsjekkia og\nDanmark. Norge har åpnet VM sterkt med sju poeng på fire kamper.",
+              "source": "NRK Sport, publisert 22.05 kl. 17:20"
             }
           ]
         },
@@ -416,12 +368,12 @@
           "lines": [
             {
               "id": "201-1",
-              "headline": "Real Madrid-profil ferdig etter fem år",
+              "headline": "Superstjerne med hard Ullevaal-kritikk – hylles av Klaveness",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
-              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
-              "source": "NRK Sport, publisert 22.05 kl. 16:10"
+              "ingress": "Aitana Bonmatí mener Ullevaal stadion er for liten til å huse kvinnenes\nmesterligafinale.",
+              "body": "Fotballpresident Lise Klaveness har full forståelse for synspunktet.",
+              "source": "NRK Sport, publisert 22.05 kl. 17:15"
             }
           ]
         },
@@ -432,12 +384,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Fikk VM-billett – skademelding dagen etter",
+              "headline": "Real Madrid-profil ferdig etter fem år",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
-              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
-              "source": "NRK Sport, publisert 22.05 kl. 15:39"
+              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
+              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
+              "source": "NRK Sport, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -448,12 +400,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
+              "headline": "Fikk VM-billett – skademelding dagen etter",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
-              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:53"
+              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
+              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
+              "source": "NRK Sport, publisert 22.05 kl. 15:39"
             }
           ]
         },
@@ -464,12 +416,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
+              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
-              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:44"
+              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
+              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:53"
             }
           ]
         },
@@ -480,12 +432,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Landslagsprofil avslører forlovelse",
+              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
-              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:13"
+              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
+              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:44"
             }
           ]
         },
@@ -496,12 +448,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "Casper Ruud-smell i Genève – tapte semifinalen mot argentiner",
+              "headline": "Landslagsprofil avslører forlovelse",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Casper Ruud tapte i jakten på sin fjerde finale i ATP-turneringen i Genève.",
-              "body": "Argentinske Mariano Navone vant semifinalekampen i to strake sett. Ruud tapte\nmed settsifrene 5-7, 2-6 på grusen i Sveits. Nordmannen vant turneringen i\nGenève både i 2021, 2022 og 2024.",
-              "source": "NRK Sport, publisert 22.05 kl. 13:54"
+              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
+              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:13"
             }
           ]
         },
@@ -512,12 +464,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "23 år etter er Caroline klar for det som var utenkelig: – Drømmen som aldri var min",
+              "headline": "Casper Ruud-smell i Genève – tapte semifinalen mot argentiner",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Da den åtte år gamle jenta med nummer åtte på ryggen marsjerte ut på Ullevaal\nsom maskot for Lyns herrelag, gikk det ikke an å drømme om det hun nå skal\noppleve.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "NRK Sport, publisert 22.05 kl. 13:23"
+              "ingress": "Casper Ruud tapte i jakten på sin fjerde finale i ATP-turneringen i Genève.",
+              "body": "Argentinske Mariano Navone vant semifinalekampen i to strake sett. Ruud tapte\nmed settsifrene 5-7, 2-6 på grusen i Sveits. Nordmannen vant turneringen i\nGenève både i 2021, 2022 og 2024.",
+              "source": "NRK Sport, publisert 22.05 kl. 13:54"
             }
           ]
         },
@@ -528,12 +480,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Salah: – Jeg vil alltid elske denne klubben",
+              "headline": "Det høres ut som fysikk står øverst på handlelisten for i sommer",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kort nyhetsmelding fra kilden.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 18:10"
+              "ingress": "Slik Arne Slot snakket på pressekonferansen, høres det ikke ut som en mann som\nhar tenkt seg noen andre steder.",
+              "body": "Nå skal Liverpool bli mer robuste.",
+              "source": "Liverpool.no, publisert 22.05 kl. 19:32"
             }
           ]
         },
@@ -544,12 +496,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Ønsket av «alle» storklubber i Europa",
+              "headline": "Salah: – Jeg vil alltid elske denne klubben",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Samuel Martinez er et ukjent navn for mange supportere, men 17-åringen stod\nhøyt på ønskelisten hos blant annet Barcelona.",
+              "ingress": "Kort nyhetsmelding fra kilden.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 17:00"
+              "source": "Liverpool.no, publisert 22.05 kl. 18:10"
             }
           ]
         },
@@ -560,12 +512,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Troverdige kilder melder om enighet med om stortalentet!",
+              "headline": "Ønsket av «alle» storklubber i Europa",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Liverpool skal ha slått flere storklubber i jakten på Samuel Martinez.",
+              "ingress": "Samuel Martinez er et ukjent navn for mange supportere, men 17-åringen stod\nhøyt på ønskelisten hos blant annet Barcelona.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:55"
+              "source": "Liverpool.no, publisert 22.05 kl. 17:00"
             }
           ]
         },
@@ -576,12 +528,12 @@
           "lines": [
             {
               "id": "233-1",
-              "headline": "Lijnders forlater Manchester City etter én sesong",
+              "headline": "Troverdige kilder melder om enighet med om stortalentet!",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pep Lijnders takker nei til ny kontrakt og blir ikke en del av Enzo Marescas\nstøtteapparat ved Etihad.",
+              "ingress": "Liverpool skal ha slått flere storklubber i jakten på Samuel Martinez.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:51"
+              "source": "Liverpool.no, publisert 22.05 kl. 15:55"
             }
           ]
         },
@@ -592,12 +544,12 @@
           "lines": [
             {
               "id": "234-1",
-              "headline": "Salah kåres til Liverpools spiller i april – for siste gang",
+              "headline": "Lijnders forlater Manchester City etter én sesong",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mohamed Salah mottar Standard Chartered Player of the Month-prisen for april,\nden 29.",
-              "body": "og siste gangen i sin ni år lange Liverpool-karriere.",
-              "source": "Liverpool.no, publisert 22.05 kl. 15:19"
+              "ingress": "Pep Lijnders takker nei til ny kontrakt og blir ikke en del av Enzo Marescas\nstøtteapparat ved Etihad.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 22.05 kl. 15:51"
             }
           ]
         }
