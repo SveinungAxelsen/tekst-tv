@@ -432,6 +432,7 @@ def weather_places() -> list[WeatherPlace]:
         WeatherPlace("Heimdal", 63.3507, 10.3505, "Norge"),
         WeatherPlace("Bø", 59.4130, 9.0693, "Norge"),
         WeatherPlace("Kristiansand", 58.1467, 7.9956, "Norge"),
+        WeatherPlace("Oslo", 59.9139, 10.7522, "Norge"),
         WeatherPlace("Svalbard", 78.2232, 15.6469, "Norge"),
         WeatherPlace("Os", 60.1857, 5.4708, "Norge"),
         WeatherPlace("Finnsnes", 69.2296, 17.9811, "Norge"),

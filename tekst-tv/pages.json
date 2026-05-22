@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 22.05 kl. 13:44",
+  "updated": "Oppdatert 22.05 kl. 18:11",
   "sections": [
     {
       "id": "front",
@@ -23,7 +23,7 @@
               "headline": "Siste nytt",
               "colorName": "cyan",
               "isImportant": false,
-              "body": "110 Frykter hurtigruta kuttes\n130 Nå starter jakten etter arvtakeren: Flere har meldt seg\n120 Barth Eide: – Vi skal nå bygge Nato 3.0"
+              "body": "110 Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig\n130 Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig\n120 Hva er USAs neste trekk?"
             },
             {
               "id": "neste-kamp",
@@ -37,7 +37,7 @@
               "headline": "Været",
               "colorName": "yellow",
               "isImportant": false,
-              "body": "Alta: Klart, 13 grader, vind 2 m/s\nBørselv: Pent vær, 15 grader, vind 1 m/s\nCahppiljohka: Delvis skyet, 12 grader, vind 2 m/s"
+              "body": "Alta: Klart, 14 grader, vind 3 m/s\nBørselv: Klart, 16 grader, vind 2 m/s\nCahppiljohka: Klart, 15 grader, vind 3 m/s"
             }
           ]
         }
@@ -56,12 +56,12 @@
           "lines": [
             {
               "id": "110-1",
-              "headline": "Frykter hurtigruta kuttes",
+              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Havila, Hurtigruten og Sjømannsforbundet slår alarm om kystrutas fremtid, og\nfår støtte av Sp.",
-              "body": "MS Polarlys er blant syv skip fra rederiet Hurtigruten som seiler kystruta.\nOgså rederiet Havila har fem skip på ruta. Nå frykter rederiene at kystruta\nkuttes fra 2030. Kystruta mellom Bergen og Kirkenes kan bli kuttet etter 2030.\nDet frykter rederiene som seiler kystruta i dag, Hurtigruten og Havila. De får\nstøtte av Sjømannsforbundet og Senterpartiet. Rederiene hevder å ha fått\nnegative signaler fra staten om fremtida til den historiske ruta, som har gått\nlangs kysten siden 1800-tallet.",
-              "source": "NRK Norge, publisert 22.05 kl. 05:22"
+              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
+              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
+              "source": "NRK Norge, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -72,12 +72,12 @@
           "lines": [
             {
               "id": "111-1",
-              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
+              "headline": "Eig tre eigedommar politiet meiner er cannabisplantasjar: – For meg er dette ei overrasking",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
-              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
-              "source": "NRK Norge, publisert 22.05 kl. 11:25"
+              "ingress": "Mannen frå Litauen hevdar han ikkje visste kva som gjekk føre seg på\neigedommane.",
+              "body": "AKSJON: Politiet gjekk onsdag til aksjon mot fleire stadar der dei meiner det\nhar blitt dyrka cannabis. – Han har ingen kjennskap til kven som bur i\neigedommane og kva dei blir brukt til, argumenterer Erik Fjeld. Han er\nforsvarar for ein av dei litauiske mennene som onsdag blei pågripne da\npolitiet slo til mot fleire adresser i Trøndelag og utanfor Bergen. Mannen eig\ntre eigedommar som politiet meiner har blitt brukt som cannabisplantasjar. –\nEg erkjenner ikkje skuld.",
+              "source": "NRK Norge, publisert 22.05 kl. 15:05"
             }
           ]
         },
@@ -88,12 +88,12 @@
           "lines": [
             {
               "id": "112-1",
-              "headline": "Bransje med frynsete rykte blir sett i korta",
+              "headline": "Nå skal folk slippe å dra på «fyllinga»: Vil kjøre rundt med stoff-poser",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Veksten i netthandel har ført til ein eksplosjon av varebilar på norske vegar.",
-              "body": "AKSJONERTE I BERGEN: Denne veka rykte A-krimsenteret ut saman med politiet,\nTolletaten og Arbeidstilsynet for å kontrollere app-baserte\nmatleveringstenester i Bergen. Kontrollørane avdekka mistanke om organisert\nsvart arbeid og at fleire sjåførar køyrer på lånt identitet. Skatteetaten,\nPolitiet, Arbeidstilsynet, Nav og Tolletaten har dei siste åra halde eit\nekstra godt auge med den norske varebilbransjen, og dokumentert fleire lovbrot\n. Ein felles rapport frå 2023 avdekka indikasjonar på svart arbeid i nesten\nkvar tredje kontrollerte varebil.",
-              "source": "NRK Norge, publisert 22.05 kl. 08:35"
+              "ingress": "Snart kan innbyggere i flere kommuner kvitte seg med ødelagte klær uten å\nforlate hjemmet.",
+              "body": "ØDELAGT TEKSTIL: På Solgård avfallsplass i Moss ser rådgiver Ann Christin\nSkjelvand i MOVAR på det som er kastet i konteinerne for ødelagte tekstiler.\nHva skal du gjøre med den brukte genseren du ikke vil ha lenger? Eller med de\nhullete sokkene som har gjort nytta si? – Dessverre så er det veldig mange som\nsynes det er litt forvirrende, sier rådgiver Ann Christin Skjelvand i MOVAR er\net interkommunalt selskap som blant annet håndterer avfall. \" data-\nterm=\"MOVAR\">Movar i Moss. Slik ser de grønne posene folk skal kunne bestille\nhjem ut.",
+              "source": "NRK Norge, publisert 22.05 kl. 13:55"
             }
           ]
         },
@@ -104,12 +104,12 @@
           "lines": [
             {
               "id": "113-1",
-              "headline": "Tradisjonsplagg har blitt populært: – Kan brukes til både hverdag og fest",
+              "headline": "SV vil ha beredskapskai til Rauma – håper å få gjennomslag i budsjettforhandlingane",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Nå fortsetter arbeidet med å gi nytt liv til den tradisjonelle kvenske\ndamelua.",
-              "body": "Tradisjonsplagget har blitt en populær identitetsmarkør, nå skal flere lære å\nsy riukkulakki på sykurs i Kvænangen. – Det blir som vanlig veldig trivelig å\narrangere sykurs, sier kulturarbeider Riinakaisa Laitila fra Kvensk institutt.\nHun er kursleder på sykurset hvor deltakerne skal lære å sy den kvenske\ndamelua, på kvensk: riukkulakki . Riinakaisa Laitila jobber som kulturarbeider\nhos Kväänin institutti – Kvensk institutt. Hun skal også være kursleder på\nsykorset i slutten av mai.",
-              "source": "NRK Norge, publisert 22.05 kl. 08:15"
+              "ingress": "SV håper at dragkampen om kronene i revidert statsbudsjett skal føre til at\nplanane om ei ny storkai i Rauma blir redda.",
+              "body": "Kaia på Åndalsnes i Rauma har sett betre dagar. No håper SV å få pengar til ny\nkai. Rauma- ordførar Yvonne Wold har ein finger med i spelet når SV no går til\nforhandlingsbordet med planane om ei ny kai i romsdalskommunen Rauma. Dei\nneste dagane forhandlar partia om korleis statsbudsjettet skal sjå ut, etter\nat forslaget blei lagt på bordet sist veke. Sosialistisk Venstreparti meiner\nei ny Roll-on-roll-off er ein laste- og lossemetode der godset blir køyrt om\nbord og frå borde på til dømes lastebilar og trailarar.",
+              "source": "NRK Norge, publisert 22.05 kl. 13:23"
             }
           ]
         },
@@ -120,12 +120,12 @@
           "lines": [
             {
               "id": "114-1",
-              "headline": "Dømt til forvaring for grov voldtekt av barn",
+              "headline": "Politikere sår tvil om svindeldømt forskers bidrag i høyesterettsdom",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Gudbrandsdal tingrett har dømt en mann i 30-årene til forvaring i ni år.",
-              "body": "BEHANDLET SAKEN: Rettssaken mot mannen startet her i Gudbrandsdal tingrett på\nLillehammer 13. april. Mannen dømmes for en rekke seksuallovbrudd, blant disse\nflere voldtekter av barn under 14 år. Han har en familierelasjon til de\nfornærmede. Dommen lyder ni års forvaring med en minstetid på seks år. Ifølge\ndommen oppbevarte mannen 70.136 unike bilder og 5.874 unike videoer som viste\novergrep mot barn. I retten forklarte han at han led av en samlemani. Barna\nvar mellom fire og sju år da overgrepene startet.",
-              "source": "NRK Norge, publisert 22.05 kl. 10:19"
+              "ingress": "Christian Nellemann sin reinforskning er en del av grunnlaget for Fosen-\ndommen.",
+              "body": "TVILER PÅ HØYESTERETTSDOM: Bjørn Blix i NKF mener at Høyesterettsdommen i\nFosen-saken er avsagt på sviktende faktagrunnlag. – Det er et overgrep om\nFosen-dommen blir stående. Det reinfaglige grunnlaget for Fosen-dommen er\nskrevet av en mann som senere er dømt for grovt bedrageri, sier Bjørn Blix i\nNordkalottfolket (NKF) til NRK. Christian Nellemann ble 29. april dømt i\nlagmannsretten til 5 års fengsel for grovt bedrageri for å ha misbrukt rundt\n42 millioner kroner i statlige bistandsmidler. Nellemanns reinforskning inngår\nikke i dommen.",
+              "source": "NRK Norge, publisert 22.05 kl. 11:50"
             }
           ]
         },
@@ -136,12 +136,12 @@
           "lines": [
             {
               "id": "115-1",
-              "headline": "Alvorlig ulykke i Vinje – èn person flydd til sykehus med luftambulanse",
+              "headline": "Fant flere ulovlige lasere på beslaglagt buss",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Nødetatene har rykket ut til en trafikkulykke.",
-              "body": "– Det fremstår som en alvorlig ulykke, opplyser operasjonsleder Ståle Olstad\nFuglaas i Sør-Øst politidistrikt. Nødetatene ble varslet om ulykken klokka\n12.00. En halvtime senere er første enhet fremme. De to involverte er skadet.\nEn av dem er flydd til sykehus med første luftambulanse. Klokka 13.15 er den\nandre luftambulansen på stedet, og vil ta med seg den andre personen til\nsykehus, opplyser operasjonslederen. Veien er stengt forbi ulykkesstedet og\nfører til kø. Ifølge vegvesenet vil veien være stengt frem til klokka 20 i\nkveld.",
-              "source": "NRK Norge, publisert 22.05 kl. 10:13"
+              "ingress": "Bildet har ingenting med denne saken å gjøre.",
+              "body": "Det viser en fest under et russefeiringen i 2025. Det er fortsatt ikke klart\nhvilken laser som forårsaket ulykken natt til 17. mai, men det er undersøkt\nlasere i forbindelse med en beslaglagt buss. – De foreløpige undersøkelsene\nviser at laserne ikke er merket på forskriftsmessig måte, slik lasere som\nselges i Norge skal være, og de er sånn sett ulovlige, sier politiadvokat\nHanna Hurv Nilsen. Hun forteller til NRK at laserne verken var merket med\nbølgelengde eller farge slik de skal være når de selges i Norge.",
+              "source": "NRK Norge, publisert 22.05 kl. 12:52"
             }
           ]
         },
@@ -152,12 +152,12 @@
           "lines": [
             {
               "id": "116-1",
-              "headline": "Andrea fra Larvik tømmer kontoen på «bridal era»: – Har mista helt oversikten",
+              "headline": "Knausgård blei æresdoktor: – Underleg og ganske fantastisk",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "BRUDEÆRA: Andrea Sveinsdottir har vært i sin brudeæra siden hun ble forlovet.",
-              "body": "– Idet vi satte bryllupsdatoen, startet min «bridal era». Influenser Andrea\nSveinsdottir skal gifte seg om få uker, og planleggingen har allerede pågått\nen stund. – Alt jeg tenker på er bryllupet mitt og brudeting. Det tar jo litt\nover livet, sier hun. Når man søker opp emneknaggen «bridal era» på sosiale\nmedier, møtes man av en strøm av videoer preget av hvit estetikk. Begrepet\nbrudeæra refererer til den spesifikke perioden fra man forlover seg og helt\nfrem til bryllupsdagen. Gjerne også den første tiden som nygift.",
-              "source": "NRK Norge, publisert 22.05 kl. 08:58"
+              "ingress": "Det synest han det er litt vanskeleg å forhalda seg til.",
+              "body": "DOKTOR KNAUSGÅRD: No kan Karl Ove Knausgård smykka seg med ein heilt ny tittel\nsom han har fått av Margareth Hagen og UiB. – Eg gjekk og trakka her i mange\når på 90-talet. Det var eigentleg ganske mislukka alt saman. Eg ville vel\naldri i min villaste fantasi tenkt at eg skulle koma tilbake hit og bli\næresdoktor, seier Knausgård. Det er ikkje hans akademiske prestasjonar som er\ngrunnen til utnemninga, men forfattarskapen hans. – Det kjennest underleg og\nganske fantastisk. Det er veldig gøy, og ærerikt, så klart.",
+              "source": "NRK Norge, publisert 21.05 kl. 19:24"
             }
           ]
         },
@@ -168,12 +168,12 @@
           "lines": [
             {
               "id": "117-1",
-              "headline": "Studentar vel skjerm framfor campus – ber rektorane sørge for snuoperasjon",
+              "headline": "Sammenstøt mellom syklist og bil",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Statsråden meiner rektorane må gjere campuslivet meir attraktivt, og ber dei\ngjere skulen meir freistande enn skjermen.",
-              "body": "MØTER OPP: Cordelia Monsen og Bodil Lerøy møter opp på campus, men det gjer\nikkje mange av medstudentane deira. Det er fullt oppmøte til førelesinga i\nauditoriet ved Høgskolen i Molde, men likevel ikkje fullt i salen. Årsaka er\nat mange studentar følgjer undervisninga digitalt. Cordelia Velde Monsen møter\ngladeleg opp, men ser ein trend ho meiner er urovekkande. – Eg har høyrt om\nstudentar som går eit heilt år utan å møte ein einaste medstudent. Det synest\neg er ganske trist, seier ho. Bodil Lerøy har studert både før, under og etter\nkoronapandemien.",
-              "source": "NRK Norge, publisert 22.05 kl. 09:03"
+              "ingress": "En bil og en syklist har vært i et sammenstøt i Tromsdalen.",
+              "body": "Både politi og ambulanse dro til en trafikkulykke mellom en syklist og en bil.\nSyklisten blir ivaretatt av ambulansepersonell på stedet.",
+              "source": "NRK Norge, publisert 22.05 kl. 12:39"
             }
           ]
         },
@@ -184,12 +184,12 @@
           "lines": [
             {
               "id": "118-1",
-              "headline": "Brukar solkrem kvar dag: – Vil unngå rynker",
+              "headline": "Melder Jon Helgheim til politiet etter deling av usladda valdsbilde",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Unge jenter bruker solfaktor 50 i ansiktet kvar einaste dag, året rundt.",
-              "body": "Tea Delic, Line Thorsen og Olivia Bådholm nyt sola. Men alle er beskytta med\nsolfaktor 50 i ansiktet. – Eg brukar solkrem kvar dag for ikkje å skade huda\nmi. Eg vil ikkje få rynker og pigmentflekkar. Eg vil eldast fint, seier Line\nThorsen (23). Dei tre venninnene brukar alltid solfaktor 50 i ansiktet, og er\nikkje åleine om det. – Eg trur absolutt alle venninnene mine brukar solkrem\nkvar dag. Det er veldig viktig, seier Olivia Bådholm (24). – Personleg brukar\neg det ikkje heile året, men det er veldig mange som gjer det, seier Tea Delic\n(24).",
-              "source": "NRK Norge, publisert 22.05 kl. 08:57"
+              "ingress": "DELTE: Jon Helgheim delte eit usensurert bilde av ei valdshending i Bergen.",
+              "body": "17. mai blei ein russ angripen av fire mindreårige gutar i Bergen sentrum.\nVideoen der russen får fleire slag og spark før han går i bakken, har blitt\ndelt i sosiale medium. I går delte leiar av justiskomiteen på Stortinget Jon\nHelgheim (Frp) eit usladda bilete på Facebook, der det var mogleg å\nidentifisere dei involverte. – Det er eit typisk mønster. Gjengar med\ninnvandrarbakgrunn, spesielt frå deler av Afrika, Asia og Midtøsten, angrip,\nranar og banker opp einslege norske gutar, skreiv han på Facebook-sida si.",
+              "source": "NRK Norge, publisert 22.05 kl. 12:10"
             }
           ]
         }
@@ -208,12 +208,12 @@
           "lines": [
             {
               "id": "130-1",
-              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
+              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
-              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:25"
+              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
+              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -224,12 +224,12 @@
           "lines": [
             {
               "id": "131-1",
-              "headline": "Gruveselskap truer med Kina om ikke Støre blar opp milliarder av kroner",
+              "headline": "Sammenstøt mellom syklist og bil",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det svenske gruveselskapet Grangex sier de vil gå i forhandlinger med Kina,\ndersom ikke Norge går inn som eiere av fremtidig gruve i Finnmark.",
-              "body": "Svenske Grangex overtok Sydvaranger for to år siden. Gruveområdene i\nBjørnevatn antas å ha noen av de største malmreservene i Europa. Men nå sliter\nde med å finne penger til å få drifta i gang. Gruveeventyret som igjen er på\ntrappene i Kirkenes, har begynt å slå sprekker. Eierne er i pengeknipe og ber\nom hjelp fra regjeringen. – For oss er det bedre å få et klart nei enn et evig\ntja. Da kan vi legge innsatsen inn mot å finne andre løsninger, herunder\nutenlandske stater som har meldt interesse.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:03"
+              "ingress": "En bil og en syklist har vært i et sammenstøt i Tromsdalen.",
+              "body": "Både politi og ambulanse dro til en trafikkulykke mellom en syklist og en bil.\nSyklisten blir ivaretatt av ambulansepersonell på stedet.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 12:39"
             }
           ]
         },
@@ -240,12 +240,12 @@
           "lines": [
             {
               "id": "132-1",
-              "headline": "Tradisjonsplagg har blitt populært: – Kan brukes til både hverdag og fest",
+              "headline": "Politikere sår tvil om svindeldømt forskers bidrag i høyesterettsdom",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Nå fortsetter arbeidet med å gi nytt liv til den tradisjonelle kvenske\ndamelua.",
-              "body": "Tradisjonsplagget har blitt en populær identitetsmarkør, nå skal flere lære å\nsy riukkulakki på sykurs i Kvænangen. – Det blir som vanlig veldig trivelig å\narrangere sykurs, sier kulturarbeider Riinakaisa Laitila fra Kvensk institutt.\nHun er kursleder på sykurset hvor deltakerne skal lære å sy den kvenske\ndamelua, på kvensk: riukkulakki . Riinakaisa Laitila jobber som kulturarbeider\nhos Kväänin institutti – Kvensk institutt. Hun skal også være kursleder på\nsykorset i slutten av mai.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 08:15"
+              "ingress": "Christian Nellemann sin reinforskning er en del av grunnlaget for Fosen-\ndommen.",
+              "body": "TVILER PÅ HØYESTERETTSDOM: Bjørn Blix i NKF mener at Høyesterettsdommen i\nFosen-saken er avsagt på sviktende faktagrunnlag. – Det er et overgrep om\nFosen-dommen blir stående. Det reinfaglige grunnlaget for Fosen-dommen er\nskrevet av en mann som senere er dømt for grovt bedrageri, sier Bjørn Blix i\nNordkalottfolket (NKF) til NRK. Christian Nellemann ble 29. april dømt i\nlagmannsretten til 5 års fengsel for grovt bedrageri for å ha misbrukt rundt\n42 millioner kroner i statlige bistandsmidler. Nellemanns reinforskning inngår\nikke i dommen.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:50"
             }
           ]
         },
@@ -256,12 +256,12 @@
           "lines": [
             {
               "id": "133-1",
-              "headline": "Her kan det bli sommartemperatur i dag – men så snur det",
+              "headline": "Nå starter jakten etter arvtakeren: Flere har meldt seg",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Sola skin over heile Troms, og i indre strøk kan det bli 20 varmegrader.",
-              "body": "Det blir nok ingen is på denne katta, men vakthavande meteorolog Kristine\nLyche anbefaler folk å nyte ein is i varmen før regnvêret kjem. – Eg ville ete\nis og nytt sola i dag, seier vakthavande meteorolog i Tromsø, Kristin Lyche. I\nTroms vakna dei fleste opp til strålande sol denne fredagsmorgonen. Sola vil\nfortsette å skine over fylket heile dagen. – Det er sjansar for 20 varmegrader\ni løpet av dagen, for eksempel på Bardufoss. Det er som ein sommardag, seier\nLyche.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 07:18"
+              "ingress": "Tromsø Ap ser etter en ny ordførerkandidat som kan representere hele\nlandsdelen.",
+              "body": "Her fra OD-dagen på rådhuset i Tromsø. Fire ungdommer fikk bli med ordfører\nGunnar Wilhelmsen på jobb. Tromsø-ordfører Gunnar Wilhelmsen kunngjorde\ntorsdag at han ikke stiller til gjenvalg til neste års kommunevalg. Med det\ngir han seg etter to perioder som byens ordfører. – Nå er det avklart, og nå\nkan vi gå i gang med å finne en toppkandidat, men vi skal også sette sammen et\ngodt lag, sier Magnar Nilsen, leder av nominasjonskomiteen i Tromsø\nArbeiderparti.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:25"
             }
           ]
         },
@@ -272,28 +272,12 @@
           "lines": [
             {
               "id": "134-1",
-              "headline": "Frykter hurtigruta kuttes",
+              "headline": "Gruveselskap truer med Kina om ikke Støre blar opp penger",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Havila, Hurtigruten og Sjømannsforbundet slår alarm om kystrutas fremtid, og\nfår støtte av Sp.",
-              "body": "MS Polarlys er blant syv skip fra rederiet Hurtigruten som seiler kystruta.\nOgså rederiet Havila har fem skip på ruta. Nå frykter rederiene at kystruta\nkuttes fra 2030. Kystruta mellom Bergen og Kirkenes kan bli kuttet etter 2030.\nDet frykter rederiene som seiler kystruta i dag, Hurtigruten og Havila. De får\nstøtte av Sjømannsforbundet og Senterpartiet. Rederiene hevder å ha fått\nnegative signaler fra staten om fremtida til den historiske ruta, som har gått\nlangs kysten siden 1800-tallet.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 05:22"
-            }
-          ]
-        },
-        {
-          "id": "135",
-          "number": "135",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "135-1",
-              "headline": "Russlands ambassadør truer Norge med fiskestraff",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Den russiske ambassadøren til Norge kommer med trusler mot Norge om\nfiskestraffer etter sanksjoner mot russiske fiskeriselskap.",
-              "body": "MER NORMALE TIDER: Russiske krabbetrålere ligger i vinteropplag i Kirkenes i\nSør-Varanger i 2016. Dette var før Russland gikk til fullskala krig mot\nUkraina og forholdet til vesten ble drastisk forverret. – Det er tegn på det\nvi er kjent med; at Russland har reagert på Godkjenning av fartøy og\neksportører som har tillatelse til å selge sjømat til spesifikke land. \" data-\nterm=\"listeføringen\">listeføringen av fartøy. Vi har jo hatt ulike syn i\nsaken.",
-              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 05:12"
+              "ingress": "Det svenske gruveselskapet Grangex sier de vil gå i forhandlinger med Kina,\ndersom ikke Norge går inn som eiere av fremtidig gruve i Finnmark.",
+              "body": "Svenske Grangex overtok Sydvaranger for to år siden. Gruveområdene i\nBjørnevatn antas å ha noen av de største malmreservene i Europa. Men nå sliter\nde med å finne penger til å få drifta i gang. Gruveeventyret som igjen er på\ntrappene i Kirkenes, har begynt å slå sprekker. Eierne er i pengeknipe og ber\nom hjelp fra regjeringen. – For oss er det bedre å få et klart nei enn et evig\ntja. Da kan vi legge innsatsen inn mot å finne andre løsninger, herunder\nutenlandske stater som har meldt interesse.",
+              "source": "NRK Troms og Finnmark, publisert 22.05 kl. 11:03"
             }
           ]
         }
@@ -312,12 +296,12 @@
           "lines": [
             {
               "id": "120-1",
-              "headline": "Barth Eide: – Vi skal nå bygge Nato 3.0",
+              "headline": "Hva er USAs neste trekk?",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det sa USAs utenriksminister Marco Rubio da han kom til et møte med Natos\nutenriksministre.",
-              "body": "Utenriksminister Espen Barth Eide er på plass på Nato-toppmøtet i Helsingborg.\nDer skal han og de andre utenriksministrene styrke Europa i Nato. Møtet i\nHelsingborg er første gang et høynivåmøte i Nato holdes på svensk jord etter\nat Sverige ble medlem av forsvarsalliansen for to år siden. USAs\nutenriksdepartement har på forhånd sagt at Rubio skal diskutere «større\nbyrdefordeling» innad i alliansen. Møtet på slottet Sofiero startet torsdag,\nmen Rubio er først med i dag. – Som for alle allianser, må det være bra for\nalle som er involvert.",
-              "source": "NRK Urix, publisert 22.05 kl. 05:59"
+              "ingress": "Var Nato-møtet i Helsingborg egentlig en stor redningsaksjon?",
+              "body": "SKUFFET: Marco Rubio gjentok flere ganger at Donald Trump er skuffet over\nflere av sine allierte. I bydelen Neuköln i Berlin sitter Petra Wermke og\nskroller på telefonen sin på en benk i vårsolen. Hun blir ikke helt enig med\nseg selv i om det er bekymringsfullt at USA vil trekke militære styrker ut av\nlandet. – Hvis katastrofen først skulle være ute, vil Tyskland være midt i\nkonflikten og da vil vi trenge disse missilene.",
+              "source": "NRK Urix, publisert 22.05 kl. 15:26"
             }
           ]
         },
@@ -328,12 +312,12 @@
           "lines": [
             {
               "id": "121-1",
-              "headline": "Landet Israel frykter mest i Midtøsten",
+              "headline": "Barth Eide: – Vi skal nå bygge Nato 3.0",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Israel har bombet fiendene sine i minst sju land i Midtøsten de siste tre\nårene.",
-              "body": "EN MILITÆRMAKT: Ett muslimsk land er så mektig at selv Israel sliter med å\nutfordre det. Dette er noen av landene i den muslimske verden Israel har\nangrepet bare de siste tre årene. Lille Israel, med en befolkning på 10\nmillioner, har gått til krig mot fiender som er langt større. Israel sier at\nde har blitt angrepet med raketter og droner fra disse landene og at dét er\nårsaken til at israelske militæret har bombet dem. Mens Israel er på randen av\nnok en krig med erkefienden Iran, har landet blingset ut et nytt land i\nMidtøsten de følger nøye med på.",
-              "source": "NRK Urix, publisert 21.05 kl. 16:29"
+              "ingress": "Det sa USAs utenriksminister Marco Rubio da han kom til et møte med Natos\nutenriksministre.",
+              "body": "Utenriksminister Espen Barth Eide er på plass på Nato-toppmøtet i Helsingborg.\nDer skal han og de andre utenriksministrene styrke Europa i Nato. Møtet i\nHelsingborg er første gang et høynivåmøte i Nato holdes på svensk jord etter\nat Sverige ble medlem av forsvarsalliansen for to år siden. USAs\nutenriksdepartement har på forhånd sagt at Rubio skal diskutere «større\nbyrdefordeling» innad i alliansen. Møtet på slottet Sofiero startet torsdag,\nmen Rubio er først med i dag. – Som for alle allianser, må det være bra for\nalle som er involvert.",
+              "source": "NRK Urix, publisert 22.05 kl. 05:59"
             }
           ]
         },
@@ -344,12 +328,12 @@
           "lines": [
             {
               "id": "122-1",
-              "headline": "Zelenskyj hevder angrep mot FSB rammet 100 russiske soldater",
+              "headline": "Landet Israel frykter mest i Midtøsten",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Ukrainas president hevder spesialstyrkene rammet et FSB-hovedkvarter i\nokkuperte Kherson.",
-              "body": "NRK har stedsverifisert lokasjonen, som var et hotellbygg før krigen.\nBranndata fra Nasa tyder på at angrepet skjedde natt til søndag. Det skriver\nVolodymyr Zelenskyj i et innlegg på X . – Et russisk Russlands føderale\ninterne etterretnings- og sikkerhetstjeneste. Etterfølgeren til det sovjetiske\nKGB. \" data-term=\"FSB\">FSB -hovedkvarter har blitt truffet, og et Pantsir-S1\nbakke-til-luft-missilsystem er ødelagt på vårt midlertidig okkuperte\nterritorium, skriver den ukrainske presidenten.",
-              "source": "NRK Urix, publisert 21.05 kl. 14:01"
+              "ingress": "Israel har bombet fiendene sine i minst sju land i Midtøsten de siste tre\nårene.",
+              "body": "EN MILITÆRMAKT: Ett muslimsk land er så mektig at selv Israel sliter med å\nutfordre det. Dette er noen av landene i den muslimske verden Israel har\nangrepet bare de siste tre årene. Lille Israel, med en befolkning på 10\nmillioner, har gått til krig mot fiender som er langt større. Israel sier at\nde har blitt angrepet med raketter og droner fra disse landene og at dét er\nårsaken til at israelske militæret har bombet dem. Mens Israel er på randen av\nnok en krig med erkefienden Iran, har landet blingset ut et nytt land i\nMidtøsten de følger nøye med på.",
+              "source": "NRK Urix, publisert 21.05 kl. 16:29"
             }
           ]
         },
@@ -360,12 +344,12 @@
           "lines": [
             {
               "id": "123-1",
-              "headline": "Air France og Airbus funne skuldige i aktlaust drap etter flystyrt i 2009",
+              "headline": "Zelenskyj hevder angrep mot FSB rammet 100 russiske soldater",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Selskapa vart frikjende i 2023, men no har ein ankedomstol i Paris funne dei\nskuldige.",
-              "body": "Først to år etter ulukka vart det funne vrakrestar etter flykatastrofen i\n2009. 228 menneske omkom. Kvart av selskapa er no dømd til å betale 225.000\neuro for flyulukka som kravde 228 menneskeliv, skriv Reuters. Både Air France\nog Airbus vart frikjende i 2023, men ein ankedomstol i Paris har funne begge\nselskapa skuldige i aktlaust drap etter flystyrten. Ifølgje Reuters, er det er\nforventa at saka vert anka vidare. Brasiliansk Hercules-pilot leter etter\nvrakdeler fra det savnede Air France-flyet. Et bilde offentliggjort 8.",
-              "source": "NRK Urix, publisert 21.05 kl. 12:24"
+              "ingress": "Ukrainas president hevder spesialstyrkene rammet et FSB-hovedkvarter i\nokkuperte Kherson.",
+              "body": "NRK har stedsverifisert lokasjonen, som var et hotellbygg før krigen.\nBranndata fra Nasa tyder på at angrepet skjedde natt til søndag. Det skriver\nVolodymyr Zelenskyj i et innlegg på X . – Et russisk Russlands føderale\ninterne etterretnings- og sikkerhetstjeneste. Etterfølgeren til det sovjetiske\nKGB. \" data-term=\"FSB\">FSB -hovedkvarter har blitt truffet, og et Pantsir-S1\nbakke-til-luft-missilsystem er ødelagt på vårt midlertidig okkuperte\nterritorium, skriver den ukrainske presidenten.",
+              "source": "NRK Urix, publisert 21.05 kl. 14:01"
             }
           ]
         },
@@ -376,12 +360,12 @@
           "lines": [
             {
               "id": "124-1",
-              "headline": "FN sier at stater kan stilles til ansvar for klimaendringer: – Historisk seier",
+              "headline": "Air France og Airbus funne skuldige i aktlaust drap etter flystyrt i 2009",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Vedtaket i FNs generalforsamling ble gjort med overveldende flertall.",
-              "body": "Varmekart fra Copernicus for april 2026 viste unormalt høye temperaturer mange\nsteder i verden. 431,1 ppm 1,5-gradersmålet +1,18 °C Les mer om klima Vedtaket\ni FN er en støtte til en kjennelse fra FN-domstolen i fjor sommer. Da sa\ndomstolen at «å ikke beskytte planeten fra klimaendringer kan være et brudd på\nfolkeretten». Domstolen sa at det kan være ulovlig å ikke gjennomføre tiltak\nfor å beskytte klimaet. Tavlen som viser resultatet av avstemningen i FN,\nOnsdag kveld ble resolusjonen som støttet kjennelsen vedtatt med stort\nflertall i New York.",
-              "source": "NRK Urix, publisert 21.05 kl. 09:17"
+              "ingress": "Selskapa vart frikjende i 2023, men no har ein ankedomstol i Paris funne dei\nskuldige.",
+              "body": "Først to år etter ulukka vart det funne vrakrestar etter flykatastrofen i\n2009. 228 menneske omkom. Kvart av selskapa er no dømd til å betale 225.000\neuro for flyulukka som kravde 228 menneskeliv, skriv Reuters. Både Air France\nog Airbus vart frikjende i 2023, men ein ankedomstol i Paris har funne begge\nselskapa skuldige i aktlaust drap etter flystyrten. Ifølgje Reuters, er det er\nforventa at saka vert anka vidare. Brasiliansk Hercules-pilot leter etter\nvrakdeler fra det savnede Air France-flyet. Et bilde offentliggjort 8.",
+              "source": "NRK Urix, publisert 21.05 kl. 12:24"
             }
           ]
         },
@@ -392,12 +376,12 @@
           "lines": [
             {
               "id": "125-1",
-              "headline": "Norske Gaza-aktivister deportert fra Israel",
+              "headline": "FN sier at stater kan stilles til ansvar for klimaendringer: – Historisk seier",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Gaza-aktivistene som ble pågrepet av israelske styrker i internasjonalt\nfarvann, ble i ettermiddag deportert.",
-              "body": "Chris O'Moore var en av de norske aktivistene som ble anholdt av israelsk\npoliti. Torsdag ettermiddag kom han til Istanbul. Alle aktivistene som ble\npågrepet i internasjonalt farvann av Israel ble løslatt i torsdag formiddag.\nDet opplyste organisasjonen Adalah i en pressemelding på WhatsApp . På\nettermiddagen bekreftet det israelske utenriksdepartementet at aktivistene var\ndeportert fra Israel. Rett før klokken 18.00 lokal tid landet de første flyene\nmed aktivistene på hovedflyplassen i Istanbul.",
-              "source": "NRK Urix, publisert 21.05 kl. 08:17"
+              "ingress": "Vedtaket i FNs generalforsamling ble gjort med overveldende flertall.",
+              "body": "Varmekart fra Copernicus for april 2026 viste unormalt høye temperaturer mange\nsteder i verden. 431,1 ppm 1,5-gradersmålet +1,18 °C Les mer om klima Vedtaket\ni FN er en støtte til en kjennelse fra FN-domstolen i fjor sommer. Da sa\ndomstolen at «å ikke beskytte planeten fra klimaendringer kan være et brudd på\nfolkeretten». Domstolen sa at det kan være ulovlig å ikke gjennomføre tiltak\nfor å beskytte klimaet. Tavlen som viser resultatet av avstemningen i FN,\nOnsdag kveld ble resolusjonen som støttet kjennelsen vedtatt med stort\nflertall i New York.",
+              "source": "NRK Urix, publisert 21.05 kl. 09:17"
             }
           ]
         },
@@ -408,12 +392,12 @@
           "lines": [
             {
               "id": "126-1",
-              "headline": "Nato i dyp krise foran toppmøte i Sverige",
+              "headline": "Norske Gaza-aktivister deportert fra Israel",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "USA trekker soldater ut av Europa mens Donald Trump fortsetter å så tvil om\nalliansens verdi.",
-              "body": "Generalsekretær Mark Rutte (bildet) har litt kreativt begynt å snakke om et\nNato 3.0. Nostalgi for de historiske forbindelsene har i hvert fall ingen\nverdi, skriver NRKs utenriksredaktør. Sverige vil vise muskler og historie. Da\ner Helsingborg det perfekte stedet for Natos utenriksministermøte. I dag og i\nmorgen samles Nato-utenriksministre i byen som sammen med sin danske\ntvillingby, Helsingør, kontrollerer Øresund. Sverige sloss hardt mot Danmark\nom kontrollen over byen.",
-              "source": "NRK Urix, publisert 21.05 kl. 05:09"
+              "ingress": "Gaza-aktivistene som ble pågrepet av israelske styrker i internasjonalt\nfarvann, ble i ettermiddag deportert.",
+              "body": "Chris O'Moore var en av de norske aktivistene som ble anholdt av israelsk\npoliti. Torsdag ettermiddag kom han til Istanbul. Alle aktivistene som ble\npågrepet i internasjonalt farvann av Israel ble løslatt i torsdag formiddag.\nDet opplyste organisasjonen Adalah i en pressemelding på WhatsApp . På\nettermiddagen bekreftet det israelske utenriksdepartementet at aktivistene var\ndeportert fra Israel. Rett før klokken 18.00 lokal tid landet de første flyene\nmed aktivistene på hovedflyplassen i Istanbul.",
+              "source": "NRK Urix, publisert 21.05 kl. 08:17"
             }
           ]
         }
@@ -432,12 +416,12 @@
           "lines": [
             {
               "id": "200-1",
-              "headline": "Tromsø-trener Jørgen Vik får én kamps karantene",
+              "headline": "Real Madrid-profil ferdig etter fem år",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Grunnen er uttalelser han kom med til TV 2 17.",
-              "body": "mai, dagen etter det hete rivaloppgjøret mot Bodø/Glimt. Det skriver Nordlys.\nNFF skal ha gitt Vik én kamps karantene for å ha trukket dommer Tore Hansens\nobjektivitet i tvil.",
-              "source": "NRK Sport, publisert 22.05 kl. 11:28"
+              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
+              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
+              "source": "NRK Sport, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -448,12 +432,12 @@
           "lines": [
             {
               "id": "201-1",
-              "headline": "Arbeloa bekrefter Real Madrid-avgang – baner vei for Mourinho",
+              "headline": "Fikk VM-billett – skademelding dagen etter",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Alvaro Arbeloa bekreftet fredag at han ikke fortsetter i Real Madrids\ntrenerteam etter årets sesong.",
-              "body": "Den spanske storklubben har vært sterkt koblet til profilerte José Mourinho\nden siste tiden. Arbeloa fikk opprykk som erstatter for sparkede Xabi Alonso i\njanuar, men får altså ikke fortsette til høsten. Det er spesielt å avslutte på\nhjemmebane, og det viktigste i morgen er å få alle til å nyte kampen, sa\nArbeloa.",
-              "source": "NRK Sport, publisert 22.05 kl. 11:19"
+              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
+              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
+              "source": "NRK Sport, publisert 22.05 kl. 15:39"
             }
           ]
         },
@@ -464,12 +448,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Vil vrake Nusa: – Alt handlar om å vinne den første kampen",
+              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Antonio Nusa eller Andreas Schjelderup mot Irak?",
-              "body": "NRK-ekspertane er splitta i spørsmålet få veker før VM.",
-              "source": "NRK Sport, publisert 22.05 kl. 11:04"
+              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
+              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:53"
             }
           ]
         },
@@ -480,12 +464,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Bekreftet: Pep Guardiola ferdig i klubben: – Ikke spør meg om hvorfor",
+              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pep Guardiolas dager som Manchester City-sjef er talte.",
-              "body": "Han gir seg i klubben etter søndagens serieavslutning mot Aston Villa.\nSpanjolens avgang markerer slutten på en ti år lang suksesshistorie for de\nlyseblå. Guardiola kom til City i 2016 og har ledet klubben til topps i både\nPremier League, Champions League, FA-cupen, ligacupen og klubb-VM.",
-              "source": "NRK Sport, publisert 22.05 kl. 10:13"
+              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
+              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:44"
             }
           ]
         },
@@ -496,12 +480,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Bekreftet: Michael Carrick ansatt som Manchester United-trener",
+              "headline": "Landslagsprofil avslører forlovelse",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Michael Carrick har fått Manchester United-jobben på fast basis.",
-              "body": "Det bekrefter klubben på sine kanaler. Han har signert en toårs-kontrakt. I\nkontrakten skal det også være en opsjon på ytterligere ett år.",
-              "source": "NRK Sport, publisert 22.05 kl. 10:01"
+              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
+              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:13"
             }
           ]
         },
@@ -512,12 +496,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Snakker ut om vrakingen: – Jeg er skuffet",
+              "headline": "Casper Ruud-smell i Genève – tapte semifinalen mot argentiner",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Hos de fleste eksperter var Brann-indreløperen på forhånd inne på\nlandslagssjef Ståle Solbakkens VM-tropp.",
-              "body": "– Jeg hadde ikke hørt noe på forhånd, og fulgte TV-sendingen som alle andre, innleder Felix\nHorn Myhre overfor NRK fredag. Men 27-åringen ble vraket til fordel for Rangers' Thelo\nAasgaard. Som betyr at han ikke skal til sommerens fotball-VM. – Jeg er selvfølgelig litt\nskuffet. Nå har jeg hatt noen timer til å komme meg over den verste skuffelsen. Man må bare\ngodta det som det er, og denne gangen ble jeg ikke veid til å være god nok, sier han til NRK.\nHan har stort sett har vært tatt ut i troppene de siste to årene.",
-              "source": "NRK Sport, publisert 22.05 kl. 10:01"
+              "ingress": "Casper Ruud tapte i jakten på sin fjerde finale i ATP-turneringen i Genève.",
+              "body": "Argentinske Mariano Navone vant semifinalekampen i to strake sett. Ruud tapte\nmed settsifrene 5-7, 2-6 på grusen i Sveits. Nordmannen vant turneringen i\nGenève både i 2021, 2022 og 2024.",
+              "source": "NRK Sport, publisert 22.05 kl. 13:54"
             }
           ]
         },
@@ -528,12 +512,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "England-treneren ut mot Manchester United-stjerne etter lekkasjer: – Jeg er overrasket",
+              "headline": "23 år etter er Caroline klar for det som var utenkelig: – Drømmen som aldri var min",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Samtidig som den norske troppen ble presentert torsdag kveld, ble ett og ett\nnavn av den engelske landslagstroppen lekket til pressen.",
-              "body": "Kommentarene til Harry Maguire imponerte ikke England-treneren.",
-              "source": "NRK Sport, publisert 22.05 kl. 09:01"
+              "ingress": "Da den åtte år gamle jenta med nummer åtte på ryggen marsjerte ut på Ullevaal\nsom maskot for Lyns herrelag, gikk det ikke an å drømme om det hun nå skal\noppleve.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "NRK Sport, publisert 22.05 kl. 13:23"
             }
           ]
         },
@@ -544,12 +528,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "VM-yndlingen Koblar (18) skifter klubb i Sverige – skal trenes av nordmann",
+              "headline": "Bodø/Glimts kamp mot Rosenborg flyttes ikke",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "18-åringen Tinus Luc Koblar, som har blomstret for Norges A-landslag,\nfortsetter ishockeykarrieren i SHL-klubben Rögle.",
-              "body": "Det melder Rögle på eget nettsted fredag. Koblar har undertegnet en\nettårskontrakt med den tapende finalisten fra SHL-sluttspillet i vår. Koblar\nhar markert seg sterkt det siste året med debutsesong på seniornivå for både\nLeksand i SHL og Norge.",
-              "source": "NRK Sport, publisert 22.05 kl. 08:10"
+              "ingress": "Bodø/Glimt kunne også kreve å få utsatt sin kamp i Eliteseriens siste runde\nfør VM-pausen.",
+              "body": "Grunnen er antall landslagsspillere som er kalt inn til VM. Torsdag ble Jens Petter Hauge,\nPatrick Berg og Fredrik Bjørkan tatt ut i den norske VM-troppen. Fredag i neste uke skal\nBodø/Glimt møte Rosenborg på Lerkendal. Glimt bekrefter at den kampen går som planlagt.\nLandslagstrioen Hauge, Berg og Bjørkan mister dermed oppgjøret mot RBK. (NTB)",
+              "source": "NRK Sport, publisert 22.05 kl. 13:02"
             }
           ]
         },
@@ -560,12 +544,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Thiago Alcantara forlater trenerstaben i Barcelona",
+              "headline": "Ønsket av «alle» storklubber i Europa",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det bekrefter klubben selv.",
+              "ingress": "Samuel Martinez er et ukjent navn for mange supportere, men 17-åringen stod\nhøyt på ønskelisten hos blant annet Barcelona.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 12:59"
+              "source": "Liverpool.no, publisert 22.05 kl. 17:00"
             }
           ]
         },
@@ -576,12 +560,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Ngumoha var den som kom nærmest – blir med på treningsleir",
+              "headline": "Troverdige kilder melder om enighet med om stortalentet!",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Rio Ngumoha skal trene sammen med resten av England-troppen før VM.",
+              "ingress": "Liverpool skal ha slått flere storklubber i jakten på Samuel Martinez.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 12:26"
+              "source": "Liverpool.no, publisert 22.05 kl. 15:55"
             }
           ]
         },
@@ -592,12 +576,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Michael Carrick blir permanent Manchester United-manager",
+              "headline": "Lijnders forlater Manchester City etter én sesong",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Manchester United bekrefter at Michael Carrick ansettes som permanent manager.",
+              "ingress": "Pep Lijnders takker nei til ny kontrakt og blir ikke en del av Enzo Marescas\nstøtteapparat ved Etihad.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 22.05 kl. 12:14"
+              "source": "Liverpool.no, publisert 22.05 kl. 15:51"
             }
           ]
         },
@@ -608,12 +592,28 @@
           "lines": [
             {
               "id": "233-1",
-              "headline": "Alisson og Isak tilbake i trening",
+              "headline": "Salah kåres til Liverpools spiller i april – for siste gang",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Arne Slot kom med oppmuntrende nyheter på fredagens pressekonferanse.",
-              "body": "Både Alexander Isak og Alisson Becker er tilbake i trening før søndagens\nsesongavslutning mot Brentford på Anfield.",
-              "source": "Liverpool.no, publisert 22.05 kl. 11:12"
+              "ingress": "Mohamed Salah mottar Standard Chartered Player of the Month-prisen for april,\nden 29.",
+              "body": "og siste gangen i sin ni år lange Liverpool-karriere.",
+              "source": "Liverpool.no, publisert 22.05 kl. 15:19"
+            }
+          ]
+        },
+        {
+          "id": "234",
+          "number": "234",
+          "title": "Liverpool",
+          "lines": [
+            {
+              "id": "234-1",
+              "headline": "Skal ha slått Barcelona og Dortmund i kamp om colombiansk stjerneskudd",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Det rapporteres at Liverpool har kommet til enighet om kjøp av 17-åring.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 22.05 kl. 15:11"
             }
           ]
         }
@@ -1128,7 +1128,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Alta            Klart, 13 grader, vind 2 m/s\nBørselv         Pent vær, 15 grader, vind 1 m/s\nČáhppiljohka    Delvis skyet, 12 grader, vind 2 m/s\nHeimdal         Delvis skyet, 16 grader, vind 2 m/s\nBø              Delvis skyet, 21 grader, vind 1 m/s\nKristiansand    Delvis skyet, 20 grader, vind 4 m/s\nSvalbard        Skyet, 4 grader, vind 2 m/s\nOs              Regn, 15 grader, vind 2 m/s\nFinnsnes        Delvis skyet, 15 grader, vind 5 m/s\nTorrevieja      Klart, 23 grader, vind 4 m/s",
+              "body": "Alta            Klart, 14 grader, vind 3 m/s\nBørselv         Klart, 16 grader, vind 2 m/s\nČáhppiljohka    Klart, 15 grader, vind 3 m/s\nHeimdal         Skyet, 18 grader, vind 2 m/s\nBø              Delvis skyet, 24 grader, vind 4 m/s\nKristiansand    Pent vær, 22 grader, vind 5 m/s\nOslo            Delvis skyet, 22 grader, vind 4 m/s\nSvalbard        Lett regn, 3 grader, vind 3 m/s\nOs              Skyet, 14 grader, vind 1 m/s\nFinnsnes        Delvis skyet, 15 grader, vind 6 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1144,7 +1144,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Torrevieja      Klart, 23 grader, vind 4 m/s\nLondon          Delvis skyet, 25 grader, vind 4 m/s\nParis           Klart, 24 grader, vind 2 m/s\nBerlin          Skyet, 22 grader, vind 3 m/s\nRoma            Klart, 28 grader, vind 5 m/s",
+              "body": "Torrevieja      Klart, 24 grader, vind 5 m/s\nLondon          Klart, 26 grader, vind 4 m/s\nParis           Pent vær, 26 grader, vind 2 m/s\nBerlin          Delvis skyet, 23 grader, vind 3 m/s\nRoma            Klart, 28 grader, vind 5 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1159,8 +1159,8 @@
               "headline": "Alta",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 13 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 12 til 15 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-12 grader, 2.9 mm nedbør. Søndag 24.05: lett regn, 6-9 grader, 11.1 mm nedbør. Mandag 25.05: skyet, 8-11 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 6-12 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 5-11 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Klart, 14 grader, vind 3 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 9 til 14 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-12 grader, 0.0 mm nedbør. Søndag 24.05: skyet, 6-10 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 5-11 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 6-12 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 5-11 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1175,8 +1175,8 @@
               "headline": "Børselv",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 15 grader, vind 1 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 16 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 8-14 grader, 0.0 mm nedbør. Søndag 24.05: skyet, 7-9 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 5-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 3-9 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 2-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Klart, 16 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 10 til 16 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 8-14 grader, 0.0 mm nedbør. Søndag 24.05: delvis skyet, 4-8 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 3-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 3-9 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 2-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1191,8 +1191,8 @@
               "headline": "Čáhppiljohka",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 12 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 13 til 14 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 8-13 grader, 0.6 mm nedbør. Søndag 24.05: skyet, 6-8 grader, 4.6 mm nedbør. Mandag 25.05: skyet, 6-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 5-10 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 4-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Klart, 15 grader, vind 3 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 10 til 15 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: pent vær, 7-13 grader, 0.0 mm nedbør. Søndag 24.05: skyet, 5-7 grader, 0.0 mm nedbør. Mandag 25.05: skyet, 4-10 grader, 0.0 mm nedbør. Tirsdag 26.05: skyet, 5-10 grader, 0.0 mm nedbør. Onsdag 27.05: skyet, 4-9 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1207,8 +1207,8 @@
               "headline": "Heimdal",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 16 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 18 grader, omtrent 4.3 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 11-17 grader, 53.5 mm nedbør. Søndag 24.05: skyet, 10-13 grader, 12.4 mm nedbør. Mandag 25.05: delvis skyet, 9-13 grader, 6.4 mm nedbør. Tirsdag 26.05: skyet, 9-10 grader, 13.6 mm nedbør. Onsdag 27.05: regn, 7-10 grader, 7.5 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Skyet, 18 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 13 til 17 grader, omtrent 0.5 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 10-18 grader, 66.2 mm nedbør. Søndag 24.05: skyet, 8-13 grader, 9.0 mm nedbør. Mandag 25.05: delvis skyet, 8-13 grader, 6.4 mm nedbør. Tirsdag 26.05: skyet, 9-10 grader, 13.6 mm nedbør. Onsdag 27.05: regn, 7-10 grader, 7.5 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1223,8 +1223,8 @@
               "headline": "Bø",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 21 grader, vind 1 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 20 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 10-21 grader, 38.9 mm nedbør. Søndag 24.05: delvis skyet, 9-20 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 12-22 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 10-19 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 9-19 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Delvis skyet, 24 grader, vind 4 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 24 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 10-21 grader, 18.7 mm nedbør. Søndag 24.05: delvis skyet, 8-20 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 11-22 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 10-19 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 9-19 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1239,8 +1239,8 @@
               "headline": "Kristiansand",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 20 grader, vind 4 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 17 til 21 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 12-20 grader, 23.1 mm nedbør. Søndag 24.05: klart, 12-20 grader, 0.0 mm nedbør. Mandag 25.05: pent vær, 12-19 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 12-18 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 11-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Pent vær, 22 grader, vind 5 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 21 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 12-21 grader, 11.6 mm nedbør. Søndag 24.05: klart, 12-21 grader, 0.0 mm nedbør. Mandag 25.05: pent vær, 14-19 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 12-18 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 11-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1248,15 +1248,15 @@
         {
           "id": "308",
           "number": "308",
-          "title": "Svalbard",
+          "title": "Oslo",
           "lines": [
             {
-              "id": "svalbard",
-              "headline": "Svalbard",
+              "id": "oslo",
+              "headline": "Oslo",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 4 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.2 mm. Neste døgn: 3 til 4 grader, omtrent 2.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 1-4 grader, 1.3 mm nedbør. Søndag 24.05: skyet, 0-3 grader, 0.8 mm nedbør. Mandag 25.05: skyet, 0-2 grader, 0.0 mm nedbør. Tirsdag 26.05: lett sludd, 1-1 grader, 0.7 mm nedbør. Onsdag 27.05: skyet, 0-1 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Delvis skyet, 22 grader, vind 4 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 15 til 22 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: pent vær, 14-21 grader, 20.2 mm nedbør. Søndag 24.05: delvis skyet, 12-23 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 15-21 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 14-20 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 12-19 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1264,15 +1264,15 @@
         {
           "id": "309",
           "number": "309",
-          "title": "Os",
+          "title": "Svalbard",
           "lines": [
             {
-              "id": "os",
-              "headline": "Os",
+              "id": "svalbard",
+              "headline": "Svalbard",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Regn, 15 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 1.0 mm. Neste døgn: 14 til 16 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 11-14 grader, 105.7 mm nedbør. Søndag 24.05: skyet, 11-14 grader, 9.7 mm nedbør. Mandag 25.05: regn, 12-13 grader, 12.8 mm nedbør. Tirsdag 26.05: regn, 10-13 grader, 7.7 mm nedbør. Onsdag 27.05: delvis skyet, 9-14 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Lett regn, 3 grader, vind 3 m/s",
+              "body": "Nedbør neste 6 timer: 1.0 mm. Neste døgn: 2 til 3 grader, omtrent 4.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 2-4 grader, 1.4 mm nedbør. Søndag 24.05: skyet, 0-2 grader, 1.7 mm nedbør. Mandag 25.05: delvis skyet, 0-2 grader, 0.0 mm nedbør. Tirsdag 26.05: lett sludd, 1-1 grader, 0.7 mm nedbør. Onsdag 27.05: skyet, 0-1 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1280,15 +1280,15 @@
         {
           "id": "310",
           "number": "310",
-          "title": "Finnsnes",
+          "title": "Os",
           "lines": [
             {
-              "id": "finnsnes",
-              "headline": "Finnsnes",
+              "id": "os",
+              "headline": "Os",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 15 grader, vind 5 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 11 til 15 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-11 grader, 37.4 mm nedbør. Søndag 24.05: regn, 8-10 grader, 41.9 mm nedbør. Mandag 25.05: regn, 10-12 grader, 3.6 mm nedbør. Tirsdag 26.05: regn, 9-12 grader, 1.6 mm nedbør. Onsdag 27.05: skyet, 8-10 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Skyet, 14 grader, vind 1 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 14 til 15 grader, omtrent 1.6 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 11-14 grader, 104.7 mm nedbør. Søndag 24.05: skyet, 10-13 grader, 4.7 mm nedbør. Mandag 25.05: regn, 10-13 grader, 12.8 mm nedbør. Tirsdag 26.05: regn, 10-13 grader, 7.7 mm nedbør. Onsdag 27.05: delvis skyet, 9-14 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1296,15 +1296,15 @@
         {
           "id": "311",
           "number": "311",
-          "title": "Torrevieja",
+          "title": "Finnsnes",
           "lines": [
             {
-              "id": "torrevieja",
-              "headline": "Torrevieja",
+              "id": "finnsnes",
+              "headline": "Finnsnes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 23 grader, vind 4 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 21 til 24 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 17-24 grader, 0.0 mm nedbør. Søndag 24.05: pent vær, 18-24 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 19-24 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 19-24 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 19-25 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Delvis skyet, 15 grader, vind 6 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 9 til 14 grader, omtrent 1.6 mm nedbør. Kommende dager: Lørdag 23.05: skyet, 8-11 grader, 13.0 mm nedbør. Søndag 24.05: lett regn, 8-11 grader, 39.6 mm nedbør. Mandag 25.05: regn, 8-12 grader, 3.6 mm nedbør. Tirsdag 26.05: regn, 9-12 grader, 1.6 mm nedbør. Onsdag 27.05: skyet, 8-10 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1312,15 +1312,15 @@
         {
           "id": "312",
           "number": "312",
-          "title": "London",
+          "title": "Torrevieja",
           "lines": [
             {
-              "id": "london",
-              "headline": "London",
+              "id": "torrevieja",
+              "headline": "Torrevieja",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 25 grader, vind 4 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 24 til 27 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 18-29 grader, 0.0 mm nedbør. Søndag 24.05: klart, 17-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 20-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 22-32 grader, 1.2 mm nedbør. Onsdag 27.05: klart, 12-20 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Klart, 24 grader, vind 5 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 19 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 17-24 grader, 0.0 mm nedbør. Søndag 24.05: delvis skyet, 17-24 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 18-24 grader, 0.0 mm nedbør. Tirsdag 26.05: pent vær, 19-24 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 19-25 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1328,15 +1328,15 @@
         {
           "id": "313",
           "number": "313",
-          "title": "Paris",
+          "title": "London",
           "lines": [
             {
-              "id": "paris",
-              "headline": "Paris",
+              "id": "london",
+              "headline": "London",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 24 grader, vind 2 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 23 til 26 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-28 grader, 0.0 mm nedbør. Søndag 24.05: klart, 17-29 grader, 0.0 mm nedbør. Mandag 25.05: delvis skyet, 20-29 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 19-29 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 19-26 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Klart, 26 grader, vind 4 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 20 til 26 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: delvis skyet, 18-29 grader, 0.5 mm nedbør. Søndag 24.05: klart, 17-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 19-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 22-32 grader, 1.2 mm nedbør. Onsdag 27.05: klart, 12-20 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1344,15 +1344,15 @@
         {
           "id": "314",
           "number": "314",
-          "title": "Berlin",
+          "title": "Paris",
           "lines": [
             {
-              "id": "berlin",
-              "headline": "Berlin",
+              "id": "paris",
+              "headline": "Paris",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 22 grader, vind 3 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 20 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-25 grader, 0.0 mm nedbør. Mandag 25.05: klart, 15-24 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 18-25 grader, 0.1 mm nedbør. Onsdag 27.05: klart, 12-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "ingress": "Pent vær, 26 grader, vind 2 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 17 til 26 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør. Søndag 24.05: klart, 17-29 grader, 0.0 mm nedbør. Mandag 25.05: klart, 19-29 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 19-29 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 17-24 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]
@@ -1360,6 +1360,22 @@
         {
           "id": "315",
           "number": "315",
+          "title": "Berlin",
+          "lines": [
+            {
+              "id": "berlin",
+              "headline": "Berlin",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Delvis skyet, 23 grader, vind 3 m/s",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 16 til 23 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 14-27 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-25 grader, 4.8 mm nedbør. Mandag 25.05: klart, 13-24 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 18-25 grader, 0.1 mm nedbør. Onsdag 27.05: klart, 12-18 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "source": "MET/Yr"
+            }
+          ]
+        },
+        {
+          "id": "316",
+          "number": "316",
           "title": "Roma",
           "lines": [
             {
@@ -1368,7 +1384,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Klart, 28 grader, vind 5 m/s",
-              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 23 til 29 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 15-30 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 19-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 20-32 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 21-31 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
+              "body": "Nedbør neste 6 timer: 0.0 mm. Neste døgn: 18 til 28 grader, omtrent 0.0 mm nedbør. Kommende dager: Lørdag 23.05: klart, 15-30 grader, 0.0 mm nedbør. Søndag 24.05: klart, 16-31 grader, 0.0 mm nedbør. Mandag 25.05: klart, 16-31 grader, 0.0 mm nedbør. Tirsdag 26.05: klart, 20-32 grader, 0.0 mm nedbør. Onsdag 27.05: klart, 21-31 grader, 0.0 mm nedbør. Værdata fra MET Norway / Yr.",
               "source": "MET/Yr"
             }
           ]

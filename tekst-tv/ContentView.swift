@@ -78,12 +78,14 @@ struct ContentView: View {
             Spacer(minLength: 24)
 
             VStack(alignment: .trailing, spacing: 6) {
-                Text(store.feed.updated)
-                    .font(.system(size: 21, weight: .bold))
-                    .foregroundStyle(.yellow)
+                TimelineView(.periodic(from: .now, by: 1)) { context in
+                    Text(Self.clockFormatter.string(from: context.date))
+                        .font(.system(size: 24, weight: .black))
+                        .foregroundStyle(.yellow)
+                }
 
                 Text(store.isLoading ? "Henter innhold" : store.statusMessage)
-                    .font(.system(size: 19, weight: .bold))
+                    .font(.system(size: 20, weight: .bold))
                     .foregroundStyle(.white.opacity(0.7))
 
                 Text("Side \(currentPageIndex + 1) av \(currentSection.pages.count)")
@@ -93,6 +95,13 @@ struct ContentView: View {
         }
         .padding(.bottom, 10)
     }
+
+    private static let clockFormatter: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.locale = Locale(identifier: "nb_NO")
+        formatter.dateFormat = "HH:mm:ss"
+        return formatter
+    }()
 
     private var pageBody: some View {
         HStack(alignment: .top, spacing: 28) {
@@ -269,7 +278,7 @@ private struct TeletextLineView: View {
                 VStack(alignment: .leading, spacing: 2) {
                     ForEach(line.bodyRows) { row in
                         Text(row.text)
-                            .font(.system(size: 25, weight: .semibold))
+                            .font(.system(size: 29, weight: .semibold))
                             .foregroundStyle(row.color)
                             .lineLimit(1)
                             .minimumScaleFactor(0.75)
@@ -310,7 +319,7 @@ private struct AlternatingBodyRows: View {
         VStack(alignment: .leading, spacing: 2) {
             ForEach(Array(rows.enumerated()), id: \.offset) { index, row in
                 Text(row)
-                    .font(.system(size: 25, weight: .semibold))
+                    .font(.system(size: 29, weight: .semibold))
                     .foregroundStyle(index.isMultiple(of: 2) ? .white.opacity(0.95) : TeletextTheme.cyan.opacity(0.82))
                     .lineLimit(1)
                     .minimumScaleFactor(0.74)
