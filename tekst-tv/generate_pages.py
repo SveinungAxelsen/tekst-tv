@@ -1048,10 +1048,14 @@ def build_feed(
     weather_forecasts: list[WeatherForecast],
 ) -> dict:
     now = datetime.now().strftime("%d.%m kl. %H:%M")
+    domestic_page_items = exclude_duplicate_news_items(
+        domestic_items,
+        local_items + world_items,
+    )
     domestic_pages = make_news_pages(
         start_page=110,
         title="Innland",
-        items=domestic_items[:9],
+        items=domestic_page_items[:9],
     )
     world_pages = make_news_pages(
         start_page=120,
@@ -1250,6 +1254,19 @@ def first_unique_title(items: list[SourceItem], used_keys: set[str]) -> str:
 
 def front_title_key(title: str) -> str:
     return re.sub(r"\W+", "", title.casefold())
+
+
+def exclude_duplicate_news_items(
+    items: list[SourceItem],
+    preferred_items: list[SourceItem],
+) -> list[SourceItem]:
+    preferred_keys = {news_item_key(item) for item in preferred_items}
+    preferred_keys.discard("")
+    return [item for item in items if news_item_key(item) not in preferred_keys]
+
+
+def news_item_key(item: SourceItem) -> str:
+    return front_title_key(item.title)
 
 
 def make_news_pages(start_page: int, title: str, items: list[SourceItem]) -> list[dict]:

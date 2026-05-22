@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 22.05 kl. 19:38",
+  "updated": "Oppdatert 22.05 kl. 19:49",
   "sections": [
     {
       "id": "front",
@@ -56,22 +56,6 @@
           "lines": [
             {
               "id": "110-1",
-              "headline": "Tromsø-væring aktuell for Sveriges landslag",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Suksess i Hammarby kan gi landslagsspill for Sverige for Elin Åhgren Sørum.",
-              "body": "Elin Åhgren Sørum opplever suksess i Hammarby. Nå er den tidligere Fløya-\nspilleren aktuell for det svenske A-landslaget. NRK prøver å få i gang en\nvideosamtale med Sørum, som bor i sentrum av Stockholm. – Det er litt\nvanskelig, jeg har en Ipad, skjønner du, sier hun når NRK ber henne justere\nbilledutsnittet. Men i sin første sesong med Stockholms-klubben Hammarby, har\ndet gått lekende lett for Elin Åhgren Sørum fra Tromsø. Midtbanespilleren har\nlevert tre mål og fire målgivende på fem kamper i Damallsvenskan.",
-              "source": "NRK Norge, publisert 22.05 kl. 17:09"
-            }
-          ]
-        },
-        {
-          "id": "111",
-          "number": "111",
-          "title": "Innland",
-          "lines": [
-            {
-              "id": "111-1",
               "headline": "Kommunen raser: – Vi kan ikke akseptere et slikt tap",
               "colorName": "yellow",
               "isImportant": false,
@@ -82,12 +66,12 @@
           ]
         },
         {
-          "id": "112",
-          "number": "112",
+          "id": "111",
+          "number": "111",
           "title": "Innland",
           "lines": [
             {
-              "id": "112-1",
+              "id": "111-1",
               "headline": "Spionfrykt stenger milliondo i Andøy: – Høres ganske paranoid ut",
               "colorName": "yellow",
               "isImportant": false,
@@ -98,34 +82,34 @@
           ]
         },
         {
-          "id": "113",
-          "number": "113",
+          "id": "112",
+          "number": "112",
           "title": "Innland",
           "lines": [
             {
-              "id": "113-1",
-              "headline": "Tilbyr gullkort i Finnmark: – Gullfeber er noe virkelig",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Gullgraver Frank Bakke skal ta med hele familien på jakt etter store\ngullklumper i Finnmark.",
-              "body": "GULL: Hvis du vil grave etter gull i Finnmark i år må du ordne deg et\ngullkort. – Vi skal ta hele familien med. Vi har noen barnebarn som er i den\nalderen at dette er spennende. Det sier Frank Bakke, som har drevet med\ngullgraving siden 2007. Han ser frem til årets graving, og mener selv\nsyvåringen i familien vil kunne finne gull. – Gullfeber er noe virkelig. Jeg\ntror det er iboende drøm hos alle mennesker, å finne så mye gull, bli rik og\nleve lykkelig i alle sine dager. Frank Bakke har gravd etter gull i Finnmark i\nnesten 20 år.",
-              "source": "NRK Norge, publisert 22.05 kl. 16:10"
-            }
-          ]
-        },
-        {
-          "id": "114",
-          "number": "114",
-          "title": "Innland",
-          "lines": [
-            {
-              "id": "114-1",
+              "id": "112-1",
               "headline": "Eig tre eigedommar politiet meiner er cannabisplantasjar: – For meg er dette ei overrasking",
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Mannen frå Litauen hevdar han ikkje visste kva som gjekk føre seg på\neigedommane.",
               "body": "AKSJON: Politiet gjekk onsdag til aksjon mot fleire stadar der dei meiner det\nhar blitt dyrka cannabis. – Han har ingen kjennskap til kven som bur i\neigedommane og kva dei blir brukt til, argumenterer Erik Fjeld. Han er\nforsvarar for ein av dei litauiske mennene som onsdag blei pågripne da\npolitiet slo til mot fleire adresser i Trøndelag og utanfor Bergen. Mannen eig\ntre eigedommar som politiet meiner har blitt brukt som cannabisplantasjar. –\nEg erkjenner ikkje skuld.",
               "source": "NRK Norge, publisert 22.05 kl. 15:05"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "number": "113",
+          "title": "Innland",
+          "lines": [
+            {
+              "id": "113-1",
+              "headline": "Nå skal folk slippe å dra på «fyllinga»: Vil kjøre rundt med stoff-poser",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Snart kan innbyggere i flere kommuner kvitte seg med ødelagte klær uten å\nforlate hjemmet.",
+              "body": "ØDELAGT TEKSTIL: På Solgård avfallsplass i Moss ser rådgiver Ann Christin\nSkjelvand i MOVAR på det som er kastet i konteinerne for ødelagte tekstiler.\nHva skal du gjøre med den brukte genseren du ikke vil ha lenger? Eller med de\nhullete sokkene som har gjort nytta si? – Dessverre så er det veldig mange som\nsynes det er litt forvirrende, sier rådgiver Ann Christin Skjelvand i MOVAR er\net interkommunalt selskap som blant annet håndterer avfall. \" data-\nterm=\"MOVAR\">Movar i Moss. Slik ser de grønne posene folk skal kunne bestille\nhjem ut.",
+              "source": "NRK Norge, publisert 22.05 kl. 13:55"
             }
           ]
         }
@@ -384,12 +368,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Real Madrid-profil ferdig etter fem år",
+              "headline": "Elin fra Tromsø aktuell for Sveriges landslag",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
-              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
-              "source": "NRK Sport, publisert 22.05 kl. 16:10"
+              "ingress": "Suksess i Hammarby kan gi landslagsspill for Sverige for Elin Åhgren Sørum.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "NRK Sport, publisert 22.05 kl. 17:09"
             }
           ]
         },
@@ -400,12 +384,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Fikk VM-billett – skademelding dagen etter",
+              "headline": "Real Madrid-profil ferdig etter fem år",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
-              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
-              "source": "NRK Sport, publisert 22.05 kl. 15:39"
+              "ingress": "David Alaba (33) forlater Real Madrid etter siste seriekamp i helgen.",
+              "body": "Real Madrid bekreftet fredag at østerrikeren ikke skriver ny kontrakt etter å\nha vært i klubben siden 2021. Alaba kom til spansk fotball etter å ha slått\ngjennom i Bayern München. I Real Madrid har forsvarsspilleren hatt flere\nskadeavbrekk, og han har fått 131 kamper.",
+              "source": "NRK Sport, publisert 22.05 kl. 16:10"
             }
           ]
         },
@@ -416,12 +400,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
+              "headline": "Fikk VM-billett – skademelding dagen etter",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
-              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:53"
+              "ingress": "Veterankeeperen Manuel Neuer (40) har leggtrøbbel og mister helgens cupfinale\nfor Bayern München.",
+              "body": "Nyheten kom dagen etter at han ble tatt ut i den tyske VM-troppen. Neuer har ikke spilt for\nTyskland siden EM i 2024. Bayern opplyser at han har et lite problem i venstreleggen. Det er\nventet at Jonas Urbig vokter buret i lørdagens finale mot Stuttgart på Olympiastadion i Berlin.\n– VM er ikke i fare. Det gir ingen mening å sette ham i mål med risikoen for at han kan pådra\nseg en enda mer alvorlig skade, sier Bayern-toppen Max Eberl. – Derfor bestemte vi alle sammen\nå trekke ham fra finalen – uansett hvor hardt det var for Manu, legger han til.",
+              "source": "NRK Sport, publisert 22.05 kl. 15:39"
             }
           ]
         },
@@ -432,12 +416,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
+              "headline": "Leknessund øynet etappeseier – slått av italiensk ringrev",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
-              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:44"
+              "ingress": "Andreas Leknessund satte inn et kjemperykk, men det holdt ikke i jakten på å\nbryte Norges seierstørke i Giro d'Italia.",
+              "body": "Leknessund ble med en drøy mil igjen av den 13. etappen frakjørt av Alberto\nBettiol. Italieneren var den eneste som greide å følge Leknessund da\nnordmannen satte inn et rykk i den siste stigningen, og Leknessund var\nsjanseløs på å følge Bettiol rett før toppen.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:53"
             }
           ]
         },
@@ -448,12 +432,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "Landslagsprofil avslører forlovelse",
+              "headline": "Norsk sykkelbragd: Rasmus Tiller vant i Dunkerque",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
-              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
-              "source": "NRK Sport, publisert 22.05 kl. 14:13"
+              "ingress": "Rasmus Tiller tok karrierens sjette profesjonelle seier da han vant 3.",
+              "body": "etappe av etapperittet Jours de Dunkerque i Frankrike fredag. Tiller tok\nseieren på den 157,7 kilometer lange etappen fra La Sentinelle til Wallers\nArenberg etter å ha rykket fra frontgruppen med få hundre meter igjen.\nUnderveis på etappen hadde Tiller hatt hjelp av lagkamerat Storm Ingebrigtsen\ni bruddet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:44"
             }
           ]
         },
@@ -464,12 +448,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "Casper Ruud-smell i Genève – tapte semifinalen mot argentiner",
+              "headline": "Landslagsprofil avslører forlovelse",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Casper Ruud tapte i jakten på sin fjerde finale i ATP-turneringen i Genève.",
-              "body": "Argentinske Mariano Navone vant semifinalekampen i to strake sett. Ruud tapte\nmed settsifrene 5-7, 2-6 på grusen i Sveits. Nordmannen vant turneringen i\nGenève både i 2021, 2022 og 2024.",
-              "source": "NRK Sport, publisert 22.05 kl. 13:54"
+              "ingress": "Den norske landslagsprofilen Leo Skiri Østigård er forlovet med sin partner\nAurora Eidmann.",
+              "body": "Det bekrefter paret på Instagram. Midtstopperen har mye å juble for om dagen. Han skal etter\nhvert bli far, han ble tatt ut i den norske VM-troppen og nå er han altså forlovet.",
+              "source": "NRK Sport, publisert 22.05 kl. 14:13"
             }
           ]
         },
