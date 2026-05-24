@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 24.05 kl. 13:11",
+  "updated": "Oppdatert 24.05 kl. 14:30",
   "sections": [
     {
       "id": "front",
@@ -37,7 +37,7 @@
               "headline": "Været",
               "colorName": "yellow",
               "isImportant": false,
-              "body": "Alta: Delvis skyet, 10 grader, vind 3 m/s\nBørselv: Delvis skyet, 8 grader, vind 4 m/s\nCahppiljohka: Delvis skyet, 8 grader, vind 4 m/s"
+              "body": "Alta: Delvis skyet, 10 grader, vind 3 m/s\nBørselv: Delvis skyet, 9 grader, vind 3 m/s\nCahppiljohka: Delvis skyet, 8 grader, vind 6 m/s"
             }
           ]
         }
@@ -416,12 +416,12 @@
           "lines": [
             {
               "id": "200-1",
-              "headline": "Iran flytter VM-basen fra USA til Mexico",
+              "headline": "TV 2: Innbrudd hos Hegerberg før Mesterligafinalen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Iran skal forberede seg til VM-sluttspillet i Tijuana i Mexico i stedet for i\nTucson i USA.",
-              "body": "Det internasjonale fotballforbundet (Fifa) har akseptert forflytningen fra\nArizona, opplyser Mehdi Taj, presidenten i Irans fotballforbund. Den nye basen\nligger på grensen mellom USA og Mexico. Det skjedde etter at vi har hatt møter\nmed Fifa som følge av problemene med å få visum.",
-              "source": "NRK Sport, publisert 24.05 kl. 08:28"
+              "ingress": "Den norske Lyonnes-spissen Ada Hegerberg ble utsatt for innbrudd i hjemmet\nsitt i Frankrike dagen før Mesterligafinalen mot Barcelona på Ullevaal.",
+              "body": "TV 2 har fått bekreftet innbruddet av en representant for Hegerberg i\nagentfirmaet A & V Sports. Det er ikke slik man ønsker å tilbringe kvelden før\nen finale i Champions League. Til syvende og sist får vi aldri vite hvilken\ninnvirkning dette hadde på henne, men slik er livet, forteller A & V Sports-\nrepresentanten til TV 2.",
+              "source": "NRK Sport, publisert 24.05 kl. 11:33"
             }
           ]
         },
@@ -432,12 +432,12 @@
           "lines": [
             {
               "id": "201-1",
-              "headline": "«Doping-OL»: Ekspert mener de satser liv og helse",
+              "headline": "Herman (14) klar for VM i døds",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Er fremtiden å slippe dopingen løs?",
-              "body": "Ekspert mener det er dødfødt.",
-              "source": "NRK Sport, publisert 24.05 kl. 08:13"
+              "ingress": "Herman Solstad (14) vant sesongåpningen av Døds Diving League i Tobago lørdag\nog er dermed sikret en plass i VM i Døds senere i år.",
+              "body": "Nordmannen var nummer fem både i kvalifiseringen og semifinalen, men i finalen\nvar han overlegen. At en 14-åring går inn og vinner en internasjonal World\nTour-konkurranse i Døds sier mye om både talentet hans og utviklingen i\nsporten, sier Paul Rigault, CEO i DØDS Diving League. På pallen fikk Solstad\nmed seg to landsmenn, Olav Eikenes og Tore Våge.",
+              "source": "NRK Sport, publisert 24.05 kl. 11:27"
             }
           ]
         },
@@ -448,12 +448,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Slutta å ete ultraprosessert mat – opplevde «supereffekt»",
+              "headline": "Harselerte med dødsfallet til Tom Lund: – Hvem synker så lavt?",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Øyvind Kjerpeset (34) og Hallgeir Martinsen (37) opplever kjempeform utan\nultraprosessert mat.",
-              "body": "Ekspertane ber folk passe på.",
-              "source": "NRK Sport, publisert 24.05 kl. 05:50"
+              "ingress": "Talsmann i Klanen, Sebastian Hytten, erkjenner å ha gått for langt etter å ha\nharselert med dødsfallet til Tom Lund.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "NRK Sport, publisert 24.05 kl. 11:00"
             }
           ]
         },
@@ -464,12 +464,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Uheldig Nyland i Sevilla-tap",
+              "headline": "Iran flytter VM-basen fra USA til Mexico",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Landslagskeeper Ørjan Håskjold Nyland (35) slapp inn et tabbemål da han lørdag\nfikk en etterlengtet kamp for Sevilla i siste serierunde i La Liga.",
-              "body": "Uhellet var ute for Norges førstekeeper etter 50 minutter borte mot Celta. Han feilvurderte et\nlangskudd fra Ilaix Moriba som spratt foran ham og gikk inn over keeperen. Det ble det eneste\nmålet i Sevillas siste kamp for sesongen, og Nyland klarte seg bra i resten av oppgjøret.\nNyland har kun spilt to kamper så langt i 2026, begge for landslaget. Med flagget på brystet\nsto han hele kampen mot Nederland (1-2) og en omgang mot Sveits i slutten av mars. Til VM er\nNyland tatt ut sammen med Egil Selvik og Sander Tangvik på keeperplass. (NTB)",
-              "source": "NRK Sport, publisert 23.05 kl. 21:40"
+              "ingress": "Iran skal forberede seg til VM-sluttspillet i Tijuana i Mexico i stedet for i\nTucson i USA.",
+              "body": "Det internasjonale fotballforbundet (Fifa) har akseptert forflytningen fra\nArizona, opplyser Mehdi Taj, presidenten i Irans fotballforbund. Den nye basen\nligger på grensen mellom USA og Mexico. Det skjedde etter at vi har hatt møter\nmed Fifa som følge av problemene med å få visum.",
+              "source": "NRK Sport, publisert 24.05 kl. 08:28"
             }
           ]
         },
@@ -480,12 +480,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Svenskene forbannet etter Norge-bragd i VM: – Kjempefiasko",
+              "headline": "«Doping-OL»: Ekspert mener de satser liv og helse",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Seieren gjør at den norske drømmen om kvartfinale lever i beste velgående.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "NRK Sport, publisert 23.05 kl. 20:43"
+              "ingress": "Er fremtiden å slippe dopingen løs?",
+              "body": "Ekspert mener det er dødfødt.",
+              "source": "NRK Sport, publisert 24.05 kl. 08:13"
             }
           ]
         },
@@ -496,12 +496,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Tom Lund – hjemme best og best hjemme",
+              "headline": "Slutta å ete ultraprosessert mat – opplevde «supereffekt»",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Tommy kunne vært større enn både Haaland og Ødegaard.",
-              "body": "Han ville bare ikke.",
-              "source": "NRK Sport, publisert 23.05 kl. 20:18"
+              "ingress": "Øyvind Kjerpeset (34) og Hallgeir Martinsen (37) opplever kjempeform utan\nultraprosessert mat.",
+              "body": "Ekspertane ber folk passe på.",
+              "source": "NRK Sport, publisert 24.05 kl. 05:50"
             }
           ]
         },
@@ -512,12 +512,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "Kane og Bayern rundet av kjempesesong med cupgull",
+              "headline": "Uheldig Nyland i Sevilla-tap",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Stjernespissen Harry Kane scoret alle målene da Bayern München slo Stuttgart\n3-0 i den tyske cupfinalen.",
-              "body": "Det er første gang på seks år at Bayern blir cupmester, og dermed ble det også\nstorlagets første dobbel (serie og cup) siden 2019/20-sesongen. Kane og\nlagkameratene har lagt bak seg en imponerende sesong selv om det ble exit i\nsemifinalen i mesterligaen mot Paris Saint-Germain. Bayern vant serien med 16\npoengs margin og scoret smått utrolige 122 mål på veien.",
-              "source": "NRK Sport, publisert 23.05 kl. 20:05"
+              "ingress": "Landslagskeeper Ørjan Håskjold Nyland (35) slapp inn et tabbemål da han lørdag\nfikk en etterlengtet kamp for Sevilla i siste serierunde i La Liga.",
+              "body": "Uhellet var ute for Norges førstekeeper etter 50 minutter borte mot Celta. Han feilvurderte et\nlangskudd fra Ilaix Moriba som spratt foran ham og gikk inn over keeperen. Det ble det eneste\nmålet i Sevillas siste kamp for sesongen, og Nyland klarte seg bra i resten av oppgjøret.\nNyland har kun spilt to kamper så langt i 2026, begge for landslaget. Med flagget på brystet\nsto han hele kampen mot Nederland (1-2) og en omgang mot Sveits i slutten av mars. Til VM er\nNyland tatt ut sammen med Egil Selvik og Sander Tangvik på keeperplass. (NTB)",
+              "source": "NRK Sport, publisert 23.05 kl. 21:40"
             }
           ]
         },
@@ -528,12 +528,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "Stenshorne kjørte seg opp til pallplass i Canada",
+              "headline": "Svenskene forbannet etter Norge-bragd i VM: – Kjempefiasko",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Martinius Stenshorne (20) avanserte tre plasser og ble nummer tre i\nsprintløpet i Formel 2-runden i Canada.",
-              "body": "Nordmannen kjørte et solid løp fra startspor seks og ble til slutt bare slått\nav Noel Leon (Campos) og Gabriele Mini (MP). Underveis var det flere\ndramatiske situasjoner og et noe rotete og oppstykket løp, men Stenshorne kom\nseg unna uten uhell. Derimot er Van Amersfoort-fører Rafael Villagomez under\netterforskning for å ha presset Stenshorne ut av banen.",
-              "source": "NRK Sport, publisert 23.05 kl. 19:49"
+              "ingress": "Seieren gjør at den norske drømmen om kvartfinale lever i beste velgående.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "NRK Sport, publisert 23.05 kl. 20:43"
             }
           ]
         },
@@ -544,12 +544,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Hvem kjemper om hva i den siste serierunden?",
+              "headline": "Vil ha Salah og Robertson fra start",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Alle de ti Premier League-kampene spilles samtidig, og det blir nok av drama å\nfølge med på.",
+              "ingress": "Det hersker liten tvil blant folket om hvem de mener burde starte i sesongens\nsiste kamp.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 24.05 kl. 13:00"
+              "source": "Liverpool.no, publisert 24.05 kl. 13:29"
             }
           ]
         },
@@ -560,12 +560,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Gråt etter Liverpool-trening",
+              "headline": "Hvem kjemper om hva i den siste serierunden?",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Sepp van den Berg avslører at Liverpool-tiden som 17-åring fikk ham til å\nslite mentalt, og at han takket nei da Arne Slot ba ham bli.",
+              "ingress": "Alle de ti Premier League-kampene spilles samtidig, og det blir nok av drama å\nfølge med på.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 24.05 kl. 12:07"
+              "source": "Liverpool.no, publisert 24.05 kl. 13:00"
             }
           ]
         },
@@ -576,12 +576,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Salahs siste beskjed til lagkameratene: – Dere må vinne neste år!",
+              "headline": "Gråt etter Liverpool-trening",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mohamed Salah forlater Liverpool med ni trofeer, utallige minner og et siste,\nkontant budskap til dem han etterlater seg: Standarden han og Robertson har\nsatt, må ikke falle.",
+              "ingress": "Sepp van den Berg avslører at Liverpool-tiden som 17-åring fikk ham til å\nslite mentalt, og at han takket nei da Arne Slot ba ham bli.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 24.05 kl. 11:39"
+              "source": "Liverpool.no, publisert 24.05 kl. 12:07"
             }
           ]
         },
@@ -592,6 +592,22 @@
           "lines": [
             {
               "id": "233-1",
+              "headline": "Salahs siste beskjed til lagkameratene: – Dere må vinne neste år!",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Mohamed Salah forlater Liverpool med ni trofeer, utallige minner og et siste,\nkontant budskap til dem han etterlater seg: Standarden han og Robertson har\nsatt, må ikke falle.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 24.05 kl. 11:39"
+            }
+          ]
+        },
+        {
+          "id": "234",
+          "number": "234",
+          "title": "Liverpool",
+          "lines": [
+            {
+              "id": "234-1",
               "headline": "Klopp mot Guardiola: Rivaleriet som løftet engelsk fotball til et helt nytt nivå",
               "colorName": "yellow",
               "isImportant": false,
@@ -1048,11 +1064,11 @@
         {
           "id": "272",
           "number": "272",
-          "title": "Europa: CL-tabell",
+          "title": "Europa: CL-tabell 1/2",
           "lines": [
             {
-              "id": "europa-cl-tabell",
-              "headline": "Europa: CL-tabell",
+              "id": "europa-cl-tabell-1-2",
+              "headline": "Europa: CL-tabell 1/2",
               "colorName": "yellow",
               "isImportant": false,
               "source": "ESPN",
@@ -1146,7 +1162,23 @@
                   "id": "table-18",
                   "text": "18. Olympiacos               K  8  +/-  -4  P  11",
                   "colorName": "white"
-                },
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "273",
+          "number": "273",
+          "title": "Europa: CL-tabell 2/2",
+          "lines": [
+            {
+              "id": "europa-cl-tabell-2-2",
+              "headline": "Europa: CL-tabell 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "source": "ESPN",
+              "bodyRows": [
                 {
                   "id": "table-19",
                   "text": "19. Club Brugge              K  8  +/-  -2  P  10",
@@ -1728,7 +1760,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Alta            Delvis skyet, 10 grader, vind 3 m/s\nBørselv         Delvis skyet, 8 grader, vind 4 m/s\nČáhppiljohka    Delvis skyet, 8 grader, vind 4 m/s\nHeimdal         Kraftig regn, 14 grader, vind 4 m/s\nBø              Delvis skyet, 17 grader, vind 4 m/s\nKristiansand    Delvis skyet, 20 grader, vind 4 m/s\nOslo            Skyet, 21 grader, vind 4 m/s\nSvalbard        Pent vær, 2 grader, vind 4 m/s\nOs              Skyet, 13 grader, vind 1 m/s\nFinnsnes        Lett regn, 10 grader, vind 2 m/s\nTorrevieja      Klart, 24 grader, vind 4 m/s",
+              "body": "Alta            Delvis skyet, 10 grader, vind 3 m/s\nBørselv         Delvis skyet, 9 grader, vind 3 m/s\nČáhppiljohka    Delvis skyet, 8 grader, vind 6 m/s\nHeimdal         Regn, 14 grader, vind 5 m/s\nBø              Delvis skyet, 19 grader, vind 4 m/s\nKristiansand    Delvis skyet, 21 grader, vind 5 m/s\nOslo            Delvis skyet, 21 grader, vind 6 m/s\nSvalbard        Pent vær, 2 grader, vind 5 m/s\nOs              Skyet, 14 grader, vind 1 m/s\nFinnsnes        Regn, 11 grader, vind 1 m/s\nTorrevieja      Klart, 24 grader, vind 4 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1744,7 +1776,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Torrevieja      Klart, 24 grader, vind 4 m/s\nLondon          Klart, 26 grader, vind 1 m/s\nParis           Pent vær, 28 grader, vind 2 m/s\nBerlin          Delvis skyet, 26 grader, vind 4 m/s\nRoma            Klart, 28 grader, vind 2 m/s",
+              "body": "Torrevieja      Klart, 24 grader, vind 4 m/s\nLondon          Klart, 29 grader, vind 1 m/s\nParis           Delvis skyet, 29 grader, vind 3 m/s\nBerlin          Delvis skyet, 27 grader, vind 5 m/s\nRoma            Klart, 30 grader, vind 3 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1771,10 +1803,10 @@
                 },
                 {
                   "id": "alta-weather-1",
-                  "text": "Neste døgn: 9 til 11 grader, omtrent 1.4 mm nedbør.",
+                  "text": "Neste døgn: 8 til 11 grader, omtrent 1.9 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "9 til 11 grader, omtrent 1.4 mm nedbør."
+                  "detail": "8 til 11 grader, omtrent 1.9 mm nedbør."
                 },
                 {
                   "id": "alta-weather-3",
@@ -1825,7 +1857,7 @@
               "headline": "Børselv",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 8 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 9 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -1837,17 +1869,17 @@
                 },
                 {
                   "id": "b-rselv-weather-1",
-                  "text": "Neste døgn: 8 til 10 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 7 til 10 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "8 til 10 grader, omtrent 0.0 mm nedbør."
+                  "detail": "7 til 10 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-3",
-                  "text": "Mandag 25.05: delvis skyet, 5-10 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 25.05: delvis skyet, 4-10 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
                   "label": "Mandag 25.05:",
-                  "detail": "delvis skyet, 5-10 grader, 0.0 mm nedbør."
+                  "detail": "delvis skyet, 4-10 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-4",
@@ -1891,7 +1923,7 @@
               "headline": "Čáhppiljohka",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 8 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 8 grader, vind 6 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -1917,10 +1949,10 @@
                 },
                 {
                   "id": "hppiljohka-weather-4",
-                  "text": "Tirsdag 26.05: skyet, 4-10 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 26.05: skyet, 5-10 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
                   "label": "Tirsdag 26.05:",
-                  "detail": "skyet, 4-10 grader, 0.0 mm nedbør."
+                  "detail": "skyet, 5-10 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "hppiljohka-weather-5",
@@ -1957,29 +1989,29 @@
               "headline": "Heimdal",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kraftig regn, 14 grader, vind 4 m/s",
+              "ingress": "Regn, 14 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "heimdal-weather-0",
-                  "text": "Nedbør neste 6 timer: 2.0 mm.",
+                  "text": "Nedbør neste 6 timer: 0.6 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "2.0 mm."
+                  "detail": "0.6 mm."
                 },
                 {
                   "id": "heimdal-weather-1",
-                  "text": "Neste døgn: 11 til 14 grader, omtrent 0.6 mm nedbør.",
+                  "text": "Neste døgn: 10 til 13 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "11 til 14 grader, omtrent 0.6 mm nedbør."
+                  "detail": "10 til 13 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-3",
-                  "text": "Mandag 25.05: skyet, 8-13 grader, 31.8 mm nedbør.",
+                  "text": "Mandag 25.05: skyet, 8-12 grader, 31.8 mm nedbør.",
                   "colorName": "cyan",
                   "label": "Mandag 25.05:",
-                  "detail": "skyet, 8-13 grader, 31.8 mm nedbør."
+                  "detail": "skyet, 8-12 grader, 31.8 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-4",
@@ -2023,7 +2055,7 @@
               "headline": "Bø",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 17 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 19 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2035,17 +2067,17 @@
                 },
                 {
                   "id": "b-weather-1",
-                  "text": "Neste døgn: 18 til 20 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 17 til 20 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "18 til 20 grader, omtrent 0.0 mm nedbør."
+                  "detail": "17 til 20 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "b-weather-3",
-                  "text": "Mandag 25.05: delvis skyet, 10-22 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 25.05: delvis skyet, 10-21 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
                   "label": "Mandag 25.05:",
-                  "detail": "delvis skyet, 10-22 grader, 0.0 mm nedbør."
+                  "detail": "delvis skyet, 10-21 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-weather-4",
@@ -2089,7 +2121,7 @@
               "headline": "Kristiansand",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 20 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 21 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2101,10 +2133,10 @@
                 },
                 {
                   "id": "kristiansand-weather-1",
-                  "text": "Neste døgn: 18 til 21 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 16 til 21 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "18 til 21 grader, omtrent 0.0 mm nedbør."
+                  "detail": "16 til 21 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-3",
@@ -2115,10 +2147,10 @@
                 },
                 {
                   "id": "kristiansand-weather-4",
-                  "text": "Tirsdag 26.05: pent vær, 12-19 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 26.05: pent vær, 12-20 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
                   "label": "Tirsdag 26.05:",
-                  "detail": "pent vær, 12-19 grader, 0.0 mm nedbør."
+                  "detail": "pent vær, 12-20 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-5",
@@ -2155,7 +2187,7 @@
               "headline": "Oslo",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 21 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 21 grader, vind 6 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2167,10 +2199,10 @@
                 },
                 {
                   "id": "oslo-weather-1",
-                  "text": "Neste døgn: 20 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 18 til 22 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "20 til 22 grader, omtrent 0.0 mm nedbør."
+                  "detail": "18 til 22 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-3",
@@ -2221,7 +2253,7 @@
               "headline": "Svalbard",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 2 grader, vind 4 m/s",
+              "ingress": "Pent vær, 2 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2233,17 +2265,17 @@
                 },
                 {
                   "id": "svalbard-weather-1",
-                  "text": "Neste døgn: 2 til 2 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 1 til 2 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "2 til 2 grader, omtrent 0.0 mm nedbør."
+                  "detail": "1 til 2 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-3",
-                  "text": "Mandag 25.05: skyet, 1-3 grader, 4.3 mm nedbør.",
+                  "text": "Mandag 25.05: skyet, 1-4 grader, 4.3 mm nedbør.",
                   "colorName": "cyan",
                   "label": "Mandag 25.05:",
-                  "detail": "skyet, 1-3 grader, 4.3 mm nedbør."
+                  "detail": "skyet, 1-4 grader, 4.3 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-4",
@@ -2287,7 +2319,7 @@
               "headline": "Os",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 13 grader, vind 1 m/s",
+              "ingress": "Skyet, 14 grader, vind 1 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2299,17 +2331,17 @@
                 },
                 {
                   "id": "os-weather-1",
-                  "text": "Neste døgn: 12 til 14 grader, omtrent 4.4 mm nedbør.",
+                  "text": "Neste døgn: 12 til 14 grader, omtrent 7.4 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "12 til 14 grader, omtrent 4.4 mm nedbør."
+                  "detail": "12 til 14 grader, omtrent 7.4 mm nedbør."
                 },
                 {
                   "id": "os-weather-3",
-                  "text": "Mandag 25.05: kraftig regn, 10-12 grader, 37.4 mm nedbør.",
+                  "text": "Mandag 25.05: kraftig regn, 11-12 grader, 37.4 mm nedbør.",
                   "colorName": "cyan",
                   "label": "Mandag 25.05:",
-                  "detail": "kraftig regn, 10-12 grader, 37.4 mm nedbør."
+                  "detail": "kraftig regn, 11-12 grader, 37.4 mm nedbør."
                 },
                 {
                   "id": "os-weather-4",
@@ -2353,22 +2385,22 @@
               "headline": "Finnsnes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Lett regn, 10 grader, vind 2 m/s",
+              "ingress": "Regn, 11 grader, vind 1 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "finnsnes-weather-0",
-                  "text": "Nedbør neste 6 timer: 2.7 mm.",
+                  "text": "Nedbør neste 6 timer: 3.4 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "2.7 mm."
+                  "detail": "3.4 mm."
                 },
                 {
                   "id": "finnsnes-weather-1",
-                  "text": "Neste døgn: 10 til 11 grader, omtrent 29.4 mm nedbør.",
+                  "text": "Neste døgn: 9 til 11 grader, omtrent 27.6 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "10 til 11 grader, omtrent 29.4 mm nedbør."
+                  "detail": "9 til 11 grader, omtrent 27.6 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-3",
@@ -2459,17 +2491,17 @@
                 },
                 {
                   "id": "torrevieja-weather-6",
-                  "text": "Torsdag 28.05: klart, 20-26 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 28.05: klart, 19-26 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
                   "label": "Torsdag 28.05:",
-                  "detail": "klart, 20-26 grader, 0.0 mm nedbør."
+                  "detail": "klart, 19-26 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "torrevieja-weather-7",
-                  "text": "Fredag 29.05: klart, 21-27 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 29.05: klart, 20-28 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
                   "label": "Fredag 29.05:",
-                  "detail": "klart, 21-27 grader, 0.0 mm nedbør."
+                  "detail": "klart, 20-28 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2485,7 +2517,7 @@
               "headline": "London",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 26 grader, vind 1 m/s",
+              "ingress": "Klart, 29 grader, vind 1 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2497,10 +2529,10 @@
                 },
                 {
                   "id": "london-weather-1",
-                  "text": "Neste døgn: 28 til 32 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 25 til 32 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "28 til 32 grader, omtrent 0.0 mm nedbør."
+                  "detail": "25 til 32 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-3",
@@ -2518,10 +2550,10 @@
                 },
                 {
                   "id": "london-weather-5",
-                  "text": "Onsdag 27.05: klart, 17-24 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 27.05: klart, 16-23 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
                   "label": "Onsdag 27.05:",
-                  "detail": "klart, 17-24 grader, 0.0 mm nedbør."
+                  "detail": "klart, 16-23 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-6",
@@ -2532,10 +2564,10 @@
                 },
                 {
                   "id": "london-weather-7",
-                  "text": "Fredag 29.05: klart, 20-32 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 29.05: klart, 16-25 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
                   "label": "Fredag 29.05:",
-                  "detail": "klart, 20-32 grader, 0.0 mm nedbør."
+                  "detail": "klart, 16-25 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2551,7 +2583,7 @@
               "headline": "Paris",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 28 grader, vind 2 m/s",
+              "ingress": "Delvis skyet, 29 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2563,10 +2595,10 @@
                 },
                 {
                   "id": "paris-weather-1",
-                  "text": "Neste døgn: 26 til 30 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 24 til 30 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "26 til 30 grader, omtrent 0.0 mm nedbør."
+                  "detail": "24 til 30 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-3",
@@ -2584,24 +2616,24 @@
                 },
                 {
                   "id": "paris-weather-5",
-                  "text": "Onsdag 27.05: klart, 20-29 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 27.05: klart, 20-30 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
                   "label": "Onsdag 27.05:",
-                  "detail": "klart, 20-29 grader, 0.0 mm nedbør."
+                  "detail": "klart, 20-30 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-6",
-                  "text": "Torsdag 28.05: klart, 17-27 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 28.05: klart, 18-28 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
                   "label": "Torsdag 28.05:",
-                  "detail": "klart, 17-27 grader, 0.0 mm nedbør."
+                  "detail": "klart, 18-28 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-7",
-                  "text": "Fredag 29.05: klart, 19-30 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 29.05: delvis skyet, 21-30 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
                   "label": "Fredag 29.05:",
-                  "detail": "klart, 19-30 grader, 0.0 mm nedbør."
+                  "detail": "delvis skyet, 21-30 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2617,22 +2649,22 @@
               "headline": "Berlin",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 26 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 27 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "berlin-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.1 mm.",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.1 mm."
+                  "detail": "0.0 mm."
                 },
                 {
                   "id": "berlin-weather-1",
-                  "text": "Neste døgn: 21 til 27 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 18 til 27 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "21 til 27 grader, omtrent 0.0 mm nedbør."
+                  "detail": "18 til 27 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-3",
@@ -2650,10 +2682,10 @@
                 },
                 {
                   "id": "berlin-weather-5",
-                  "text": "Onsdag 27.05: klart, 15-21 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 27.05: klart, 14-20 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
                   "label": "Onsdag 27.05:",
-                  "detail": "klart, 15-21 grader, 0.0 mm nedbør."
+                  "detail": "klart, 14-20 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-6",
@@ -2664,10 +2696,10 @@
                 },
                 {
                   "id": "berlin-weather-7",
-                  "text": "Fredag 29.05: klart, 15-24 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 29.05: klart, 14-25 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
                   "label": "Fredag 29.05:",
-                  "detail": "klart, 15-24 grader, 0.0 mm nedbør."
+                  "detail": "klart, 14-25 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2683,7 +2715,7 @@
               "headline": "Roma",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 28 grader, vind 2 m/s",
+              "ingress": "Klart, 30 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2695,10 +2727,10 @@
                 },
                 {
                   "id": "roma-weather-1",
-                  "text": "Neste døgn: 25 til 31 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 24 til 31 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "25 til 31 grader, omtrent 0.0 mm nedbør."
+                  "detail": "24 til 31 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "roma-weather-3",
@@ -2723,17 +2755,17 @@
                 },
                 {
                   "id": "roma-weather-6",
-                  "text": "Torsdag 28.05: klart, 21-30 grader, 2.9 mm nedbør.",
+                  "text": "Torsdag 28.05: klart, 22-29 grader, 0.9 mm nedbør.",
                   "colorName": "orange",
                   "label": "Torsdag 28.05:",
-                  "detail": "klart, 21-30 grader, 2.9 mm nedbør."
+                  "detail": "klart, 22-29 grader, 0.9 mm nedbør."
                 },
                 {
                   "id": "roma-weather-7",
-                  "text": "Fredag 29.05: klart, 21-27 grader, 0.6 mm nedbør.",
+                  "text": "Fredag 29.05: klart, 22-30 grader, 0.4 mm nedbør.",
                   "colorName": "magenta",
                   "label": "Fredag 29.05:",
-                  "detail": "klart, 21-27 grader, 0.6 mm nedbør."
+                  "detail": "klart, 22-30 grader, 0.4 mm nedbør."
                 }
               ]
             }

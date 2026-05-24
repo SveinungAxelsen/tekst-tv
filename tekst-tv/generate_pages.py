@@ -2031,7 +2031,7 @@ def make_tables_section(sports_data: SportsData) -> dict:
         "Europa: CL-tabell",
         sports_data.champions_league_table,
         "Champions League",
-        per_page=40,
+        per_page=18,
     )
     pages.extend(table_pages)
 
