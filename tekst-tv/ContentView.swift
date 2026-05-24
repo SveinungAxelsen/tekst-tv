@@ -34,7 +34,6 @@ struct ContentView: View {
                 header
                 Divider().overlay(TeletextTheme.blue)
                 pageBody
-                footer
             }
             .padding(.horizontal, 48)
             .padding(.vertical, 20)

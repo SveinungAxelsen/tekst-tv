@@ -18,6 +18,7 @@ from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
+from zoneinfo import ZoneInfo
 
 
 NRK_LATEST_RSS_URL = "https://www.nrk.no/nyheter/siste.rss"
@@ -132,10 +133,32 @@ class LeagueEvents:
 
 
 @dataclass
+class PlayerStat:
+    player: str
+    team: str
+    value: int
+    competition: str = ""
+
+
+@dataclass
+class LeagueLeaders:
+    title: str
+    source: str
+    goals: list[PlayerStat]
+    assists: list[PlayerStat]
+
+
+@dataclass
 class SportsData:
     sports_news: list[SourceItem]
     premier_league_table: LeagueTable | None
     eliteserien_table: LeagueTable | None
+    champions_league_table: LeagueTable | None
+    premier_league_leaders: LeagueLeaders | None
+    eliteserien_leaders: LeagueLeaders | None
+    champions_league_leaders: LeagueLeaders | None
+    liverpool_premier_league_leaders: LeagueLeaders | None
+    liverpool_all_leaders: LeagueLeaders | None
     premier_league_events: LeagueEvents | None
     eliteserien_events: LeagueEvents | None
     champions_league_events: LeagueEvents | None
@@ -156,6 +179,12 @@ class SportsData:
             sports_news=[],
             premier_league_table=None,
             eliteserien_table=None,
+            champions_league_table=None,
+            premier_league_leaders=None,
+            eliteserien_leaders=None,
+            champions_league_leaders=None,
+            liverpool_premier_league_leaders=None,
+            liverpool_all_leaders=None,
             premier_league_events=None,
             eliteserien_events=None,
             champions_league_events=None,
@@ -283,6 +312,29 @@ def looks_like_world_news(item: SourceItem) -> bool:
 
 
 def fetch_sports_data() -> SportsData:
+    premier_league_leaders = fetch_espn_leaders("eng.1", "Premier League")
+    eliteserien_leaders = fetch_espn_leaders("nor.1", "Eliteserien")
+    champions_league_leaders = fetch_espn_leaders("uefa.champions", "Champions League")
+    europa_league_leaders = fetch_espn_leaders("uefa.europa", "Europa League")
+    fa_cup_leaders = fetch_espn_leaders("eng.fa", "FA-cupen")
+    league_cup_leaders = fetch_espn_leaders("eng.league_cup", "Ligacupen")
+    liverpool_premier_league_leaders = filter_team_leaders(
+        premier_league_leaders,
+        team_name="Liverpool",
+        title="Liverpool PL",
+    )
+    liverpool_all_leaders = combine_team_leaders(
+        [
+            premier_league_leaders,
+            champions_league_leaders,
+            europa_league_leaders,
+            fa_cup_leaders,
+            league_cup_leaders,
+        ],
+        team_name="Liverpool",
+        title="Liverpool alle turneringer",
+    )
+
     return SportsData(
         sports_news=fetch_sports_news_items(),
         premier_league_table=fetch_espn_table(
@@ -293,6 +345,15 @@ def fetch_sports_data() -> SportsData:
             league_code="nor.1",
             title="Eliteserien",
         ),
+        champions_league_table=fetch_espn_table(
+            league_code="uefa.champions",
+            title="Champions League",
+        ),
+        premier_league_leaders=premier_league_leaders,
+        eliteserien_leaders=eliteserien_leaders,
+        champions_league_leaders=champions_league_leaders,
+        liverpool_premier_league_leaders=liverpool_premier_league_leaders,
+        liverpool_all_leaders=liverpool_all_leaders,
         premier_league_events=fetch_sportsdb_events(
             league_id="4328",
             season="2025-2026",
@@ -653,6 +714,94 @@ def fetch_espn_table(league_code: str, title: str) -> LeagueTable | None:
     if not rows:
         return None
     return LeagueTable(title=title, source="ESPN", rows=rows)
+
+
+def fetch_espn_leaders(league_code: str, title: str) -> LeagueLeaders | None:
+    url = f"{ESPN_SCOREBOARD_BASE_URL}/{league_code}/statistics"
+    data = fetch_json(url)
+    stats = data.get("stats") if isinstance(data, dict) else None
+    if not stats:
+        return None
+
+    goals: list[PlayerStat] = []
+    assists: list[PlayerStat] = []
+    for stat in stats:
+        name = clean_text(stat.get("name"))
+        leaders = stat.get("leaders") or []
+        if name == "goalsLeaders":
+            goals = parse_espn_player_stats(leaders, "Goals", title)
+        elif name == "assistsLeaders":
+            assists = parse_espn_player_stats(leaders, "Assists", title)
+
+    if not goals and not assists:
+        return None
+    return LeagueLeaders(title=title, source="ESPN", goals=goals, assists=assists)
+
+
+def parse_espn_player_stats(leaders: list[dict], label: str, competition: str) -> list[PlayerStat]:
+    rows: list[PlayerStat] = []
+    for leader in leaders:
+        athlete = leader.get("athlete") or {}
+        team = leader.get("team") or athlete.get("team") or {}
+        player_name = clean_text(athlete.get("displayName") or athlete.get("name"))
+        team_name = clean_text(team.get("displayName") or team.get("name"))
+        value = extract_stat_value(clean_text(leader.get("displayValue")), label)
+        if value is None:
+            raw_value = leader.get("value")
+            value = int(raw_value) if isinstance(raw_value, (int, float)) else None
+        if player_name and value is not None:
+            rows.append(PlayerStat(player=player_name, team=team_name, value=value, competition=competition))
+    return rows
+
+
+def extract_stat_value(display_value: str, label: str) -> int | None:
+    match = re.search(rf"{re.escape(label)}:\s*(\d+)", display_value)
+    if match:
+        return int(match.group(1))
+    return None
+
+
+def filter_team_leaders(leaders: LeagueLeaders | None, team_name: str, title: str) -> LeagueLeaders | None:
+    if not leaders:
+        return None
+    needle = team_name.casefold()
+    goals = [row for row in leaders.goals if needle in row.team.casefold()]
+    assists = [row for row in leaders.assists if needle in row.team.casefold()]
+    if not goals and not assists:
+        return None
+    return LeagueLeaders(title=title, source=leaders.source, goals=goals, assists=assists)
+
+
+def combine_team_leaders(
+    leader_sets: list[LeagueLeaders | None],
+    team_name: str,
+    title: str,
+) -> LeagueLeaders | None:
+    goal_totals: dict[str, PlayerStat] = {}
+    assist_totals: dict[str, PlayerStat] = {}
+    for leaders in leader_sets:
+        if not leaders:
+            continue
+        add_team_stats(goal_totals, leaders.goals, team_name)
+        add_team_stats(assist_totals, leaders.assists, team_name)
+
+    goals = sorted(goal_totals.values(), key=lambda row: (-row.value, row.player))
+    assists = sorted(assist_totals.values(), key=lambda row: (-row.value, row.player))
+    if not goals and not assists:
+        return None
+    return LeagueLeaders(title=title, source="ESPN", goals=goals, assists=assists)
+
+
+def add_team_stats(totals: dict[str, PlayerStat], rows: list[PlayerStat], team_name: str) -> None:
+    needle = team_name.casefold()
+    for row in rows:
+        if needle not in row.team.casefold():
+            continue
+        current = totals.get(row.player)
+        if current:
+            current.value += row.value
+        else:
+            totals[row.player] = PlayerStat(player=row.player, team=row.team, value=row.value, competition="Flere")
 
 
 def fetch_sportsdb_table(league_id: str, season: str, title: str) -> LeagueTable | None:
@@ -1103,6 +1252,7 @@ def build_feed(
             make_matches_section(sports_data),
             make_results_section(sports_data),
             make_tables_section(sports_data),
+            make_stats_section(sports_data),
             make_weather_section(weather_forecasts),
         ],
     }
@@ -1856,11 +2006,33 @@ def make_results_section(sports_data: SportsData) -> dict:
 
 def make_tables_section(sports_data: SportsData) -> dict:
     pages = []
-    table_pages = make_table_pages(270, "Engelsk: PL-tabell", sports_data.premier_league_table, "Premier League")
+    table_pages = make_table_pages(
+        270,
+        "Engelsk: PL-tabell",
+        sports_data.premier_league_table,
+        "Premier League",
+        per_page=24,
+    )
     pages.extend(table_pages)
     next_page = int(table_pages[-1]["number"]) + 1
 
-    table_pages = make_table_pages(next_page, "Norsk: ES-tabell", sports_data.eliteserien_table, "Eliteserien", per_page=8)
+    table_pages = make_table_pages(
+        next_page,
+        "Norsk: ES-tabell",
+        sports_data.eliteserien_table,
+        "Eliteserien",
+        per_page=18,
+    )
+    pages.extend(table_pages)
+    next_page = int(table_pages[-1]["number"]) + 1
+
+    table_pages = make_table_pages(
+        next_page,
+        "Europa: CL-tabell",
+        sports_data.champions_league_table,
+        "Champions League",
+        per_page=18,
+    )
     pages.extend(table_pages)
 
     return {
@@ -1870,6 +2042,100 @@ def make_tables_section(sports_data: SportsData) -> dict:
         "colorName": "white",
         "pages": pages,
     }
+
+
+def make_stats_section(sports_data: SportsData) -> dict:
+    pages = [
+        make_leaders_page(280, "PL-statistikk", sports_data.premier_league_leaders, "Premier League"),
+        make_leaders_page(281, "ES-statistikk", sports_data.eliteserien_leaders, "Eliteserien"),
+        make_leaders_page(282, "CL-statistikk", sports_data.champions_league_leaders, "Champions League"),
+        make_leaders_page(283, "Liverpool PL", sports_data.liverpool_premier_league_leaders, "Liverpool PL"),
+        make_leaders_page(284, "Liverpool alle", sports_data.liverpool_all_leaders, "Liverpool alle turneringer"),
+    ]
+    return {
+        "id": "stats",
+        "title": "Statistikk",
+        "startPage": "280",
+        "colorName": "cyan",
+        "pages": pages,
+    }
+
+
+def make_leaders_page(
+    page_number: int,
+    page_title: str,
+    leaders: LeagueLeaders | None,
+    fallback_title: str,
+) -> dict:
+    return {
+        "id": str(page_number),
+        "number": str(page_number),
+        "title": page_title,
+        "lines": [make_leaders_line(leaders, fallback_title)],
+    }
+
+
+def make_leaders_line(leaders: LeagueLeaders | None, fallback_title: str) -> dict:
+    if not leaders:
+        return make_line(
+            fallback_title,
+            "Spillerstatistikk kunne ikke hentes akkurat nå.",
+            "Når sportskilden svarer, fylles siden automatisk med mål og assists.",
+            source="Generator",
+        )
+
+    body_rows = []
+    body_rows.extend(make_stat_rows("Mål", leaders.goals[:7], "yellow", "goals"))
+    body_rows.extend(make_stat_rows("Assists", leaders.assists[:7], "cyan", "assists"))
+    line = make_line(
+        leaders.title,
+        "Topplister fra tilgjengelige turneringsdata.",
+        source=leaders.source,
+    )
+    line["bodyRows"] = body_rows
+    return line
+
+
+def make_stat_rows(title: str, rows: list[PlayerStat], color: str, row_id: str) -> list[dict]:
+    body_rows = [
+        {
+            "id": f"{row_id}-heading",
+            "text": title,
+            "colorName": color,
+        }
+    ]
+    if not rows:
+        body_rows.append(
+            {
+                "id": f"{row_id}-empty",
+                "text": "Ingen spillere funnet i lederlisten.",
+                "colorName": "white",
+            }
+        )
+        return body_rows
+
+    for index, row in enumerate(rows, start=1):
+        team = f" ({short_team_name(row.team)})" if row.team else ""
+        body_rows.append(
+            {
+                "id": f"{row_id}-{index}",
+                "text": f"{index:>2}. {row.player:<22} {row.value:>2}{team}",
+                "colorName": "white",
+            }
+        )
+    return body_rows
+
+
+def short_team_name(team: str) -> str:
+    replacements = {
+        "Manchester United": "Man United",
+        "Manchester City": "Man City",
+        "Nottingham Forest": "Nottm Forest",
+        "Tottenham Hotspur": "Tottenham",
+        "Newcastle United": "Newcastle",
+        "Bodo/Glimt": "Bodø/Glimt",
+    }
+    return replacements.get(team, team)
 
 
 def make_weather_section(forecasts: list[WeatherForecast]) -> dict:
@@ -2121,7 +2387,10 @@ def format_timestamp(value: str | None) -> str:
         parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
     except ValueError:
         return value
-    return parsed.strftime("%d.%m %H:%M")
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=ZoneInfo("UTC"))
+    norwegian_time = parsed.astimezone(ZoneInfo("Europe/Oslo"))
+    return norwegian_time.strftime("%d.%m %H:%M")
 
 
 def clean_text(value: str | None) -> str:
