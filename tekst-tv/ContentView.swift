@@ -125,7 +125,7 @@ struct ContentView: View {
     }
 
     private var sectionMenu: some View {
-        VStack(alignment: .leading, spacing: 8) {
+        VStack(alignment: .leading, spacing: 9) {
             ForEach(Array(sections.enumerated()), id: \.element.id) { index, section in
                 Button {
                     currentSectionIndex = index
@@ -133,16 +133,16 @@ struct ContentView: View {
                 } label: {
                     HStack(spacing: 10) {
                         Text(section.startPage)
-                            .font(.system(size: 22, weight: .black))
+                            .font(.system(size: 25, weight: .black))
                             .foregroundStyle(section.color)
 
                         Text(section.title.uppercased())
-                            .font(.system(size: 22, weight: .bold))
+                            .font(.system(size: 25, weight: .bold))
                             .foregroundStyle(index == currentSectionIndex ? .black : .white)
                     }
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .padding(.horizontal, 12)
-                    .padding(.vertical, 7)
+                    .padding(.vertical, 8)
                     .background(index == currentSectionIndex ? section.color : Color.white.opacity(0.08))
                     .clipShape(RoundedRectangle(cornerRadius: 6))
                 }
@@ -153,17 +153,17 @@ struct ContentView: View {
 
             Spacer(minLength: 20)
 
-            VStack(alignment: .leading, spacing: 6) {
+            VStack(alignment: .leading, spacing: 8) {
                 Text("FJERNKONTROLL")
                     .foregroundStyle(.yellow)
                 Text("Piler  flytt")
                 Text("OK     trykk knapp")
                 Text("Menu   avslutt")
             }
-            .font(.system(size: 15, weight: .bold))
+            .font(.system(size: 19, weight: .bold))
             .foregroundStyle(.white.opacity(0.75))
         }
-        .frame(width: 250)
+        .frame(width: 292)
         .padding(.top, 16)
     }
 

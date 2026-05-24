@@ -1278,7 +1278,7 @@ def make_front_page(
                 "lines": [
                     make_line(
                         "Mors tekst-TV",
-                        color="yellow",
+                        color="red",
                         important=True,
                     ),
                     make_line(
@@ -2031,7 +2031,7 @@ def make_tables_section(sports_data: SportsData) -> dict:
         "Europa: CL-tabell",
         sports_data.champions_league_table,
         "Champions League",
-        per_page=18,
+        per_page=40,
     )
     pages.extend(table_pages)
 

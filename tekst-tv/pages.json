@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 24.05 kl. 13:00",
+  "updated": "Oppdatert 24.05 kl. 13:11",
   "sections": [
     {
       "id": "front",
@@ -15,7 +15,7 @@
             {
               "id": "mors-tekst-tv",
               "headline": "Mors tekst-TV",
-              "colorName": "yellow",
+              "colorName": "red",
               "isImportant": true
             },
             {
@@ -23,7 +23,7 @@
               "headline": "Siste nytt",
               "colorName": "cyan",
               "isImportant": false,
-              "body": "110 Roper varsko i ny rapport: Hundretusenvis mangler elektroniske tilganger\n130 Sykehusene må forberede seg på krig\n120 Amsterdam forbyr reklame for bacon, bensin og burgere"
+              "body": "110 Ny person sikta etter valdshendinga på Tjensvoll i Stavanger\n130 Sykehusene må forberede seg på krig\n120 Amsterdam forbyr reklame for bacon, bensin og burgere"
             },
             {
               "id": "neste-kamp",
@@ -56,12 +56,12 @@
           "lines": [
             {
               "id": "110-1",
-              "headline": "Roper varsko i ny rapport: Hundretusenvis mangler elektroniske tilganger",
+              "headline": "Ny person sikta etter valdshendinga på Tjensvoll i Stavanger",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mange greier ikke å identifisere seg med elektronisk ID, noe man trenger for\nblant annet Digipost, Helsenorge, Nav og Vipps.",
-              "body": "MÅ FÅ BEDRE HJELP: Mange mennesker er ikke i stand til å bruke digitale\nplattformer for å identifisere seg selv, eller til å ta seg fram på internett\nfor å bruke grunnleggende tjenester. Det sier direktør i Norges institusjon\nfor menneskerettigheter (NIM), Kai Spurkland. Over to hundre tusen voksne\npersoner bosatt i Norge mangler tilgang til eID på høyeste sikkerhetsnivå,\nifølge Digitaliseringsdirektoratet (Digdir). – Vi ber regjeringen ta tak i hva\ndet innebærer å utelukke store deler av befolkningen fra det digitale\nhurtigtoget, sier han.",
-              "source": "NRK Norge, publisert 25.03 kl. 19:27"
+              "ingress": "Ein mann i 20-åra blei gripen seint laurdag kveld, sikta for forsøk på drap\netter valdshendinga på Tjensvoll i Stavanger laurdag ettermiddag.",
+              "body": "DRAPSFORSØK: Litt over to timar etter hendinga vart ein mann pågripen og sikta\nfor forsøk på drap. Laurdag ettermiddag klokka 15.43 rykte politiet ut med\nfleire patruljar til ei adresse på Tjensvoll i Stavanger, etter melding om ei\nalvorleg valdshending. Ein mann i 30-åra blei funnen med alvorlege skadar og\nfrakta til Stavanger universitetssjukehus (SUS), der han framleis er innlagd.\nLaurdag kveld arresterte politiet ein mann i 30-åra på ein buss. Han blei\nsikta for drapsforsøk.",
+              "source": "NRK Norge, publisert 23.05 kl. 17:50"
             }
           ]
         },
@@ -72,12 +72,12 @@
           "lines": [
             {
               "id": "111-1",
-              "headline": "Ti kamper uten seier: Men Start vurderer ikke mental hjelp",
+              "headline": "Roper varsko i ny rapport: Hundretusenvis mangler elektroniske tilganger",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Presset øker på Start etter ti kamper uten seier i Eliteserien.",
-              "body": "Start har opplevd massiv motgang i eliteserien. Her under det bitre tapet i\nStavanger 16. mai. • Start har spilt ti kamper uten seier i Eliteserien, og\npresset øker på spillerne. • Klubben har foreløpig ikke vurdert å hente inn\nmental hjelp, men fokuserer på sportslig utvikling. • Idrettspsykolog Erik\nHofseth peker på det mentale presset fra både manglende resultater og ytre\nfaktorer som media og supportere. • Start-spillerne har et sterkt samhold og\nstøtter hverandre gjennom den tøffe perioden.",
-              "source": "NRK Norge, publisert 24.05 kl. 09:18"
+              "ingress": "Mange greier ikke å identifisere seg med elektronisk ID, noe man trenger for\nblant annet Digipost, Helsenorge, Nav og Vipps.",
+              "body": "MÅ FÅ BEDRE HJELP: Mange mennesker er ikke i stand til å bruke digitale\nplattformer for å identifisere seg selv, eller til å ta seg fram på internett\nfor å bruke grunnleggende tjenester. Det sier direktør i Norges institusjon\nfor menneskerettigheter (NIM), Kai Spurkland. Over to hundre tusen voksne\npersoner bosatt i Norge mangler tilgang til eID på høyeste sikkerhetsnivå,\nifølge Digitaliseringsdirektoratet (Digdir). – Vi ber regjeringen ta tak i hva\ndet innebærer å utelukke store deler av befolkningen fra det digitale\nhurtigtoget, sier han.",
+              "source": "NRK Norge, publisert 25.03 kl. 19:27"
             }
           ]
         },
@@ -88,12 +88,12 @@
           "lines": [
             {
               "id": "112-1",
-              "headline": "Sakna mann funnen i live etter tre døgn i terrenget",
+              "headline": "Ti kamper uten seier: Men Start vurderer ikke mental hjelp",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Ein mann i 20-åra, som har vore sakna sidan natt til torsdag, blei funnen i\nlive i terrenget etter dryge tre døgn utandørs.",
-              "body": "EIKELANDSOSEN, VESTLAND: Det krevjande terrenget rundt Eikelandsosen har vore\nfinkjemma av over hundre leitemannskap dei siste dagane. Eit tips frå ein\nlokalbuear førte søndag formiddag til at den sakna mannen i 20-åra blei funnen\ni live i Bjørnafjorden. Leitemannskapa fann den unge mannen i terrenget ikkje\nlangt frå Eikelandsosen, der han sist blei sett då han forlét bustaden sin\nrundt klokka 03.00 natt til torsdag. – Vedkommande blei funnen i terrenget.",
-              "source": "NRK Norge, publisert 24.05 kl. 09:11"
+              "ingress": "Presset øker på Start etter ti kamper uten seier i Eliteserien.",
+              "body": "Start har opplevd massiv motgang i eliteserien. Her under det bitre tapet i\nStavanger 16. mai. • Start har spilt ti kamper uten seier i Eliteserien, og\npresset øker på spillerne. • Klubben har foreløpig ikke vurdert å hente inn\nmental hjelp, men fokuserer på sportslig utvikling. • Idrettspsykolog Erik\nHofseth peker på det mentale presset fra både manglende resultater og ytre\nfaktorer som media og supportere. • Start-spillerne har et sterkt samhold og\nstøtter hverandre gjennom den tøffe perioden.",
+              "source": "NRK Norge, publisert 24.05 kl. 09:18"
             }
           ]
         },
@@ -104,12 +104,12 @@
           "lines": [
             {
               "id": "113-1",
-              "headline": "Nytt håp for demenspasienter – medisin kan være klar om fem år",
+              "headline": "Sakna mann funnen i live etter tre døgn i terrenget",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Nye medisiner kan bremse utviklingen av demens, men prislappen er svimlende.",
-              "body": "Ingvar Haver har lettere kognitiv svikt og er fast bruker av demenstilbudet\n«Inn på tunet» på Torvholen gard i Klepp. Det er en setning som går igjen hos\nIngvar Haver. Han bruker turen til fryseren som et eksempel på hvordan\nhukommelsen svikter: Han får beskjed om å hente fire ting i kjelleren, og han\nkommer riktignok opp trappen med hendene fulle. Men det er kun tre ting. –\nFolk sier at vi glemmer mye mer nå. Det må være et eller annet som gjør det,\nsier han.",
-              "source": "NRK Norge, publisert 23.05 kl. 19:51"
+              "ingress": "Ein mann i 20-åra, som har vore sakna sidan natt til torsdag, blei funnen i\nlive i terrenget etter dryge tre døgn utandørs.",
+              "body": "EIKELANDSOSEN, VESTLAND: Det krevjande terrenget rundt Eikelandsosen har vore\nfinkjemma av over hundre leitemannskap dei siste dagane. Eit tips frå ein\nlokalbuear førte søndag formiddag til at den sakna mannen i 20-åra blei funnen\ni live i Bjørnafjorden. Leitemannskapa fann den unge mannen i terrenget ikkje\nlangt frå Eikelandsosen, der han sist blei sett då han forlét bustaden sin\nrundt klokka 03.00 natt til torsdag. – Vedkommande blei funnen i terrenget.",
+              "source": "NRK Norge, publisert 24.05 kl. 09:11"
             }
           ]
         },
@@ -120,12 +120,12 @@
           "lines": [
             {
               "id": "114-1",
-              "headline": "Sjå bileta: Vegen til Trolltunga stengd i vekevis",
+              "headline": "Nytt håp for demenspasienter – medisin kan være klar om fem år",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Vegen frå Tyssedal til Skjeggedal, som er hovudvegen til startpunktet for\nTrolltunga, blir stengd i fleire veker på grunn av rasrisiko.",
-              "body": "Nye bilete viser store skadar i den bratte fjellsida. Kommunen planlegg å\ndirigere trafikken på den smale vegen gjennom sommaren. Ullensvang kommune har\nbestemt å halde vegen stengd fram til 8. juni etter at fleire ras har råka\nfjellsida og vegen dei siste vekene. Nye bilete frå Norconsult viser dei store\nskadane i det bratte partiet med hårnålssvingar. Det har føregått\nsikringsarbeid på staden heilt sidan det første raset gjekk i midten av\ndesember i fjor.",
-              "source": "NRK Norge, publisert 24.05 kl. 08:31"
+              "ingress": "Nye medisiner kan bremse utviklingen av demens, men prislappen er svimlende.",
+              "body": "Ingvar Haver har lettere kognitiv svikt og er fast bruker av demenstilbudet\n«Inn på tunet» på Torvholen gard i Klepp. Det er en setning som går igjen hos\nIngvar Haver. Han bruker turen til fryseren som et eksempel på hvordan\nhukommelsen svikter: Han får beskjed om å hente fire ting i kjelleren, og han\nkommer riktignok opp trappen med hendene fulle. Men det er kun tre ting. –\nFolk sier at vi glemmer mye mer nå. Det må være et eller annet som gjør det,\nsier han.",
+              "source": "NRK Norge, publisert 23.05 kl. 19:51"
             }
           ]
         },
@@ -136,12 +136,12 @@
           "lines": [
             {
               "id": "115-1",
-              "headline": "Dansk sæd-ekspert skal berge hesterasen",
+              "headline": "Sjå bileta: Vegen til Trolltunga stengd i vekevis",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Eit knippe hingstar jobbar hardt for å sikre slekta til den kritisk truga\nhesterasen.",
-              "body": "TAPPING: Veterinæren nyttar ein plastskjede for å tappe hestesæden. Hingstane\npå Nordfjordeid er ikkje vanskelege å be. I ei vekes tid har fem staselege\nhestar vore i sving for å tappe sæd: Lukta av ei brunstig hoppe er ofte nok\ntil å hisse dei opp. No har Norsk fjordhestsenter fått hjelp av ein dansk\nekspert for å fryse ned sæden, slik at dei gode genane kan bli eksportert til\nutlandet. Noreg har nemleg ansvaret for å sikre at fjordhesten overlever –\ntrass i at under 10 prosent av fjordhestane i verda er her til lands.",
-              "source": "NRK Norge, publisert 24.05 kl. 07:53"
+              "ingress": "Vegen frå Tyssedal til Skjeggedal, som er hovudvegen til startpunktet for\nTrolltunga, blir stengd i fleire veker på grunn av rasrisiko.",
+              "body": "Nye bilete viser store skadar i den bratte fjellsida. Kommunen planlegg å\ndirigere trafikken på den smale vegen gjennom sommaren. Ullensvang kommune har\nbestemt å halde vegen stengd fram til 8. juni etter at fleire ras har råka\nfjellsida og vegen dei siste vekene. Nye bilete frå Norconsult viser dei store\nskadane i det bratte partiet med hårnålssvingar. Det har føregått\nsikringsarbeid på staden heilt sidan det første raset gjekk i midten av\ndesember i fjor.",
+              "source": "NRK Norge, publisert 24.05 kl. 08:31"
             }
           ]
         },
@@ -152,12 +152,12 @@
           "lines": [
             {
               "id": "116-1",
-              "headline": "Frykter hardere kamp om godbitene når hittegods­auksjonen flyttes til nett",
+              "headline": "Dansk sæd-ekspert skal berge hesterasen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Steffen Lehmann gjorde flere varp da politiet holdt sin siste fysiske auksjon\ni Bergen.",
-              "body": "KUPP: Steffen Lehmann sikret seg Playstation 5, Xbox-spill og en drone på den\nsiste hittegodsauksjonen i Bergen. – Det blir nok tøffere konkurranse på nett,\nsiden flere har muligheten til å by. Dessuten er det mye koseligere å være\nher, man møter gjerne de samme folkene, sier Lehmann. Han var en av de ivrige\nsom bød under den siste auksjonen i Bergen sentrum. Det er fjerde gang han\ndeltar på en slik auksjon, og denne gangen sikret han seg en Playstation 5,\nfem spill til Xbox, og en drone.",
-              "source": "NRK Norge, publisert 23.05 kl. 14:59"
+              "ingress": "Eit knippe hingstar jobbar hardt for å sikre slekta til den kritisk truga\nhesterasen.",
+              "body": "TAPPING: Veterinæren nyttar ein plastskjede for å tappe hestesæden. Hingstane\npå Nordfjordeid er ikkje vanskelege å be. I ei vekes tid har fem staselege\nhestar vore i sving for å tappe sæd: Lukta av ei brunstig hoppe er ofte nok\ntil å hisse dei opp. No har Norsk fjordhestsenter fått hjelp av ein dansk\nekspert for å fryse ned sæden, slik at dei gode genane kan bli eksportert til\nutlandet. Noreg har nemleg ansvaret for å sikre at fjordhesten overlever –\ntrass i at under 10 prosent av fjordhestane i verda er her til lands.",
+              "source": "NRK Norge, publisert 24.05 kl. 07:53"
             }
           ]
         },
@@ -168,12 +168,12 @@
           "lines": [
             {
               "id": "117-1",
-              "headline": "Frykter flere ras ved Gaustatoppen",
+              "headline": "Frykter hardere kamp om godbitene når hittegods­auksjonen flyttes til nett",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det er gått et stort leirras over veien som mange bruker til Gaustatoppen.",
-              "body": "STENGER VEI: Raset dekker flere hundre meter av Gaustavegen. Raset sperrer\nfylkesvei 3420 Gaustavegen begge veier. Nå melder politiet at også Gaustabanen\ner stengt for å hindre at folk beveger seg til fjells slik forholdene er nå.\nGaustabanen er en kabelbane som går i tunnel inne i fjellet Gaustatoppen.\nIfølge politiet stenges banen fordi det er gjort observasjoner med hjelp av\nhelikopter, som viser at det er ustabile bruddkanter i raset. Det\nsannsynliggjør at det kan komme flere ras.",
-              "source": "NRK Norge, publisert 24.05 kl. 07:23"
+              "ingress": "Steffen Lehmann gjorde flere varp da politiet holdt sin siste fysiske auksjon\ni Bergen.",
+              "body": "KUPP: Steffen Lehmann sikret seg Playstation 5, Xbox-spill og en drone på den\nsiste hittegodsauksjonen i Bergen. – Det blir nok tøffere konkurranse på nett,\nsiden flere har muligheten til å by. Dessuten er det mye koseligere å være\nher, man møter gjerne de samme folkene, sier Lehmann. Han var en av de ivrige\nsom bød under den siste auksjonen i Bergen sentrum. Det er fjerde gang han\ndeltar på en slik auksjon, og denne gangen sikret han seg en Playstation 5,\nfem spill til Xbox, og en drone.",
+              "source": "NRK Norge, publisert 23.05 kl. 14:59"
             }
           ]
         }
@@ -544,12 +544,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Gråt etter Liverpool-trening",
+              "headline": "Hvem kjemper om hva i den siste serierunden?",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Sepp van den Berg avslører at Liverpool-tiden som 17-åring fikk ham til å\nslite mentalt, og at han takket nei da Arne Slot ba ham bli.",
+              "ingress": "Alle de ti Premier League-kampene spilles samtidig, og det blir nok av drama å\nfølge med på.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 24.05 kl. 12:07"
+              "source": "Liverpool.no, publisert 24.05 kl. 13:00"
             }
           ]
         },
@@ -560,12 +560,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Salahs siste beskjed til lagkameratene: – Dere må vinne neste år!",
+              "headline": "Gråt etter Liverpool-trening",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mohamed Salah forlater Liverpool med ni trofeer, utallige minner og et siste,\nkontant budskap til dem han etterlater seg: Standarden han og Robertson har\nsatt, må ikke falle.",
+              "ingress": "Sepp van den Berg avslører at Liverpool-tiden som 17-åring fikk ham til å\nslite mentalt, og at han takket nei da Arne Slot ba ham bli.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 24.05 kl. 11:39"
+              "source": "Liverpool.no, publisert 24.05 kl. 12:07"
             }
           ]
         },
@@ -576,12 +576,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Klopp mot Guardiola: Rivaleriet som løftet engelsk fotball til et helt nytt nivå",
+              "headline": "Salahs siste beskjed til lagkameratene: – Dere må vinne neste år!",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "I nesten et tiår satte Jurgen Klopp og Pep Guardiola standarden for hva\nfotball kan være.",
-              "body": "To ulike filosofier, to ulike klubber, og et rivaleri som presset begge til å\nbli bedre enn de noen gang hadde trodd var mulig. Dette er historien om kampen\nsom formet en hel epoke i engelsk fotball.",
-              "source": "Liverpool.no, publisert 24.05 kl. 11:17"
+              "ingress": "Mohamed Salah forlater Liverpool med ni trofeer, utallige minner og et siste,\nkontant budskap til dem han etterlater seg: Standarden han og Robertson har\nsatt, må ikke falle.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 24.05 kl. 11:39"
             }
           ]
         },
@@ -592,12 +592,12 @@
           "lines": [
             {
               "id": "233-1",
-              "headline": "Slot takker av Salah og Robertson med lang hyllest",
+              "headline": "Klopp mot Guardiola: Rivaleriet som løftet engelsk fotball til et helt nytt nivå",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Liverpool-sjefen har fått sagt sine ord før duoens siste kamp sparkes i gang\nsøndag.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 23.05 kl. 23:03"
+              "ingress": "I nesten et tiår satte Jurgen Klopp og Pep Guardiola standarden for hva\nfotball kan være.",
+              "body": "To ulike filosofier, to ulike klubber, og et rivaleri som presset begge til å\nbli bedre enn de noen gang hadde trodd var mulig. Dette er historien om kampen\nsom formet en hel epoke i engelsk fotball.",
+              "source": "Liverpool.no, publisert 24.05 kl. 11:17"
             }
           ]
         }
@@ -1048,11 +1048,11 @@
         {
           "id": "272",
           "number": "272",
-          "title": "Europa: CL-tabell 1/2",
+          "title": "Europa: CL-tabell",
           "lines": [
             {
-              "id": "europa-cl-tabell-1-2",
-              "headline": "Europa: CL-tabell 1/2",
+              "id": "europa-cl-tabell",
+              "headline": "Europa: CL-tabell",
               "colorName": "yellow",
               "isImportant": false,
               "source": "ESPN",
@@ -1146,23 +1146,7 @@
                   "id": "table-18",
                   "text": "18. Olympiacos               K  8  +/-  -4  P  11",
                   "colorName": "white"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "273",
-          "number": "273",
-          "title": "Europa: CL-tabell 2/2",
-          "lines": [
-            {
-              "id": "europa-cl-tabell-2-2",
-              "headline": "Europa: CL-tabell 2/2",
-              "colorName": "yellow",
-              "isImportant": false,
-              "source": "ESPN",
-              "bodyRows": [
+                },
                 {
                   "id": "table-19",
                   "text": "19. Club Brugge              K  8  +/-  -2  P  10",
@@ -1744,7 +1728,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Alta            Delvis skyet, 10 grader, vind 3 m/s\nBørselv         Delvis skyet, 8 grader, vind 4 m/s\nČáhppiljohka    Delvis skyet, 8 grader, vind 4 m/s\nHeimdal         Kraftig regn, 14 grader, vind 4 m/s\nBø              Delvis skyet, 17 grader, vind 4 m/s\nKristiansand    Delvis skyet, 20 grader, vind 4 m/s\nOslo            Skyet, 20 grader, vind 4 m/s\nSvalbard        Pent vær, 2 grader, vind 4 m/s\nOs              Skyet, 13 grader, vind 1 m/s\nFinnsnes        Lett regn, 10 grader, vind 2 m/s\nTorrevieja      Klart, 24 grader, vind 4 m/s",
+              "body": "Alta            Delvis skyet, 10 grader, vind 3 m/s\nBørselv         Delvis skyet, 8 grader, vind 4 m/s\nČáhppiljohka    Delvis skyet, 8 grader, vind 4 m/s\nHeimdal         Kraftig regn, 14 grader, vind 4 m/s\nBø              Delvis skyet, 17 grader, vind 4 m/s\nKristiansand    Delvis skyet, 20 grader, vind 4 m/s\nOslo            Skyet, 21 grader, vind 4 m/s\nSvalbard        Pent vær, 2 grader, vind 4 m/s\nOs              Skyet, 13 grader, vind 1 m/s\nFinnsnes        Lett regn, 10 grader, vind 2 m/s\nTorrevieja      Klart, 24 grader, vind 4 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1760,7 +1744,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Torrevieja      Klart, 24 grader, vind 4 m/s\nLondon          Klart, 26 grader, vind 1 m/s\nParis           Klart, 27 grader, vind 2 m/s\nBerlin          Delvis skyet, 26 grader, vind 4 m/s\nRoma            Klart, 28 grader, vind 2 m/s",
+              "body": "Torrevieja      Klart, 24 grader, vind 4 m/s\nLondon          Klart, 26 grader, vind 1 m/s\nParis           Pent vær, 28 grader, vind 2 m/s\nBerlin          Delvis skyet, 26 grader, vind 4 m/s\nRoma            Klart, 28 grader, vind 2 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -2171,7 +2155,7 @@
               "headline": "Oslo",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 20 grader, vind 4 m/s",
+              "ingress": "Skyet, 21 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2183,10 +2167,10 @@
                 },
                 {
                   "id": "oslo-weather-1",
-                  "text": "Neste døgn: 21 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 20 til 22 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "21 til 22 grader, omtrent 0.0 mm nedbør."
+                  "detail": "20 til 22 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-3",
@@ -2567,7 +2551,7 @@
               "headline": "Paris",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 27 grader, vind 2 m/s",
+              "ingress": "Pent vær, 28 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2579,10 +2563,10 @@
                 },
                 {
                   "id": "paris-weather-1",
-                  "text": "Neste døgn: 27 til 30 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 26 til 30 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "27 til 30 grader, omtrent 0.0 mm nedbør."
+                  "detail": "26 til 30 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-3",
