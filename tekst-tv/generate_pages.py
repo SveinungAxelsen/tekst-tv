@@ -1235,18 +1235,18 @@ def build_feed(
                 "pages": domestic_pages,
             },
             {
-                "id": "local",
-                "title": "Lokal",
-                "startPage": "130",
-                "colorName": "magenta",
-                "pages": local_pages,
-            },
-            {
                 "id": "world",
                 "title": "Utland",
                 "startPage": "120",
                 "colorName": "green",
                 "pages": world_pages,
+            },
+            {
+                "id": "local",
+                "title": "Lokal",
+                "startPage": "130",
+                "colorName": "magenta",
+                "pages": local_pages,
             },
             make_sport_section(sports_data),
             make_matches_section(sports_data),
@@ -1317,8 +1317,8 @@ def front_news_summary(
     return "\n".join(
         [
             f"110 {domestic_title}",
-            f"130 {local_title}",
             f"120 {world_title}",
+            f"130 {local_title}",
         ]
     )
 

@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 18.06 kl. 11:41",
+  "updated": "Oppdatert 18.06 kl. 12:15",
   "sections": [
     {
       "id": "front",
@@ -23,7 +23,7 @@
               "headline": "Siste nytt",
               "colorName": "cyan",
               "isImportant": false,
-              "body": "110 NRK-tomta i Trondheim solgt\n130 Ny brigade i Finnmark får gamle stridsvogner\n120 Suppleringsvalg kan gi ny statsminister i Storbritannia"
+              "body": "110 Senterpartiet vil ha tidlegare statssekretær som ny fylkesordførar i Innlandet\n120 Suppleringsvalg kan gi ny statsminister i Storbritannia\n130 Ny brigade i Finnmark får gamle stridsvogner"
             },
             {
               "id": "neste-kamp",
@@ -37,7 +37,7 @@
               "headline": "Været",
               "colorName": "yellow",
               "isImportant": false,
-              "body": "Alta: Delvis skyet, 11 grader, vind 7 m/s\nBørselv: Skyet, 10 grader, vind 5 m/s\nCahppiljohka: Skyet, 11 grader, vind 6 m/s"
+              "body": "Alta: Delvis skyet, 11 grader, vind 7 m/s\nBørselv: Delvis skyet, 11 grader, vind 4 m/s\nCahppiljohka: Delvis skyet, 11 grader, vind 6 m/s"
             }
           ]
         }
@@ -56,12 +56,12 @@
           "lines": [
             {
               "id": "110-1",
-              "headline": "NRK-tomta i Trondheim solgt",
+              "headline": "Senterpartiet vil ha tidlegare statssekretær som ny fylkesordførar i Innlandet",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Obos ønsker å bygge rundt 650 boliger på tomta.",
-              "body": "Obos, Swiss Life Asset Managers og Rebus Midt-Norge AS har inngått avtale om\nkjøp av NRK- eiendommen på Tyholt i Trondheim. Området er under omregulering\ntil boligformål og det er anslått at tomta har et potensial på 650 boliger.\nObos tar sikte på å starte salget av de første boligene om tre år. – Dette er\nen viktig avtale for vår videre satsing i Trondheim. Tyholt er et stabilt og\ngodt bomiljø, og vi ser et betydelig potensial for å skape et nytt og levende\nnabolag her, sier Marianne Gjertsen Ebbesen, konsernsjef i Obos.",
-              "source": "NRK Norge, publisert 18.06 kl. 07:50"
+              "ingress": "Kjersti Bjørnstad blir Senterpartiets fylkesordførarkandidat til fylkesvalet i\nInnlandet neste år.",
+              "body": "KANDIDAT: Kjersti Bjørnstad er den nye ordførarkandidaten for Sp. No er ho\nvaraordførar i Gjøvik. Det blei klart da fylkeslaget torsdag presenterte laget\nsom skal sende partiet inn på fylkesordførarkontoret etter valet i 2027.\nSenterparitet gjer nå store endringar på laget som gjorde partiet til det\nneste største i fylket ved valet i fjor. Dei har valt Minde Storsnes frå\nEngerdal/Trysil på andreplass og Ola Tore Dokken frå Nordre Land på\ntredjeplass.",
+              "source": "NRK Norge, publisert 18.06 kl. 10:00"
             }
           ]
         },
@@ -72,12 +72,12 @@
           "lines": [
             {
               "id": "111-1",
-              "headline": "Stavanger skal søke om å arrangere Noregs første offisielle curling-VM",
+              "headline": "NRK-tomta i Trondheim solgt",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Søknaden blir send etter at Kulturdepartementet torsdag morgon løyvde 3,3\nmillionar kroner i støtte til meisterskapen.",
-              "body": "CURLING: Martin Sesaker og Bendik Ramsfjell slo verdseinar Storbritannia 7–6\nunder OL i Cortina. Det blei likevel ikkje medalje under meisterskapen. Noreg\nhar tidlegare berre arrangert VM i mixed double, og denne tildelinga gjer at\nStavanger nå kan ta opp kampen om den gjæve herremeisterskapen. – Desse\npengane gir oss høve til å søke og å arrangere, seier Pål Trulsen til NRK. Han\ner generalsekretær og sportssjef i Noregs curlingforbund.",
-              "source": "NRK Norge, publisert 18.06 kl. 07:00"
+              "ingress": "Obos ønsker å bygge rundt 650 boliger på tomta.",
+              "body": "Obos, Swiss Life Asset Managers og Rebus Midt-Norge AS har inngått avtale om\nkjøp av NRK- eiendommen på Tyholt i Trondheim. Området er under omregulering\ntil boligformål og det er anslått at tomta har et potensial på 650 boliger.\nObos tar sikte på å starte salget av de første boligene om tre år. – Dette er\nen viktig avtale for vår videre satsing i Trondheim. Tyholt er et stabilt og\ngodt bomiljø, og vi ser et betydelig potensial for å skape et nytt og levende\nnabolag her, sier Marianne Gjertsen Ebbesen, konsernsjef i Obos.",
+              "source": "NRK Norge, publisert 18.06 kl. 07:50"
             }
           ]
         },
@@ -88,12 +88,12 @@
           "lines": [
             {
               "id": "112-1",
-              "headline": "Mener sykehus brøt loven: Fant ulovlige spytthetter på psykiatrisk avdeling",
+              "headline": "Stavanger skal søke om å arrangere Noregs første offisielle curling-VM",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pasienter ble liggende fastspent i opptil 38 timer uten at lovens krav ble\nfulgt, viser en ny rapport.",
-              "body": "Dette er ei belteseng ved en av akuttpostene ved Nordlandssykehuset i Bodø.\nher skal en ung pasient blitt lagt i belter 16 ganger på litt over to måneder.\nSivilombudet besøkte Akuttpsykiatrisk avdeling ved Nordlandssykehuset i Bodø i\nfebruar i år. Formålet var å undersøke beltelegging av pasienter på to\nakuttposter i løpet av det siste året. Undersøkelsen har avdekka flere\nkritikkverdige forhold, skriver Sivilombudet i sin rapport. – Et eksempel på\ndette er pasienten som ble beltelagt 16 ganger.",
-              "source": "NRK Norge, publisert 18.06 kl. 06:46"
+              "ingress": "Søknaden blir send etter at Kulturdepartementet torsdag morgon løyvde 3,3\nmillionar kroner i støtte til meisterskapen.",
+              "body": "CURLING: Martin Sesaker og Bendik Ramsfjell slo verdseinar Storbritannia 7–6\nunder OL i Cortina. Det blei likevel ikkje medalje under meisterskapen. Noreg\nhar tidlegare berre arrangert VM i mixed double, og denne tildelinga gjer at\nStavanger nå kan ta opp kampen om den gjæve herremeisterskapen. – Desse\npengane gir oss høve til å søke og å arrangere, seier Pål Trulsen til NRK. Han\ner generalsekretær og sportssjef i Noregs curlingforbund.",
+              "source": "NRK Norge, publisert 18.06 kl. 07:00"
             }
           ]
         },
@@ -104,12 +104,12 @@
           "lines": [
             {
               "id": "113-1",
-              "headline": "Kontrollerte matleveringsbransjen i Bergen – avdekka moglege lovbrot og sosial dumping",
+              "headline": "Mener sykehus brøt loven: Fant ulovlige spytthetter på psykiatrisk avdeling",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kontrollar i Bergen styrker mistanken om alvorleg arbeidslivskriminalitet i\nmatleveringsbransjen.",
-              "body": "«HAR DU DET GREITT PÅ JOBB?» A-krimsenteret i Vestland under\nkartleggingsaksjonen i Bergen. Mange biler ble stoppet, NRK har ikke\ninformasjon om hvilke av bilene og sjåførene som ikke hadde papirene i orden.\n– Hei, vi er frå Arbeidstilsynet, og stiller deg ulike spørsmål for å forsikre\noss om at du har gode arbeidsforhold, seier Gro Marie Austdal og smiler. I\nregi av a-krimsenteret i Vestland blir det gjennomført ein to dagars aksjon på\nBontelabo i Bergen sentrum. Målet er å få ei oversikt over forholda i den app-\nbaserte matleveringsbransjen.",
-              "source": "NRK Norge, publisert 18.06 kl. 06:12"
+              "ingress": "Pasienter ble liggende fastspent i opptil 38 timer uten at lovens krav ble\nfulgt, viser en ny rapport.",
+              "body": "Dette er ei belteseng ved en av akuttpostene ved Nordlandssykehuset i Bodø.\nher skal en ung pasient blitt lagt i belter 16 ganger på litt over to måneder.\nSivilombudet besøkte Akuttpsykiatrisk avdeling ved Nordlandssykehuset i Bodø i\nfebruar i år. Formålet var å undersøke beltelegging av pasienter på to\nakuttposter i løpet av det siste året. Undersøkelsen har avdekka flere\nkritikkverdige forhold, skriver Sivilombudet i sin rapport. – Et eksempel på\ndette er pasienten som ble beltelagt 16 ganger.",
+              "source": "NRK Norge, publisert 18.06 kl. 06:46"
             }
           ]
         },
@@ -120,12 +120,12 @@
           "lines": [
             {
               "id": "114-1",
-              "headline": "Industribedrift får bot på 18 millioner for miljøkriminalitet",
+              "headline": "Kontrollerte matleveringsbransjen i Bergen – avdekka moglege lovbrot og sosial dumping",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Økokrim mener industribedriften Fiven i Lillesand bevisst gjorde målinger av\nutslipp som ikke var representative for de faktiske utslippene.",
-              "body": "Økokrim har gitt et forelegg på 18 millioner kroner til en Sørlandsbedrift.\nIndustribedriften Fiven har hatt tillatelse til å slippe ut en rekke stoffer,\nblant annet miljøgiften benzo (a) pyren. Stoffet er kreftfremkallende,\narvestoffskadelig og reproduksjonsskadelig. Men nå får bedriften en bot på 18\nmillioner kroner for å ha sluppet ut mer enn det de hadde tillatelse til og\nfor å ha gitt feil opplysninger til Miljødirektoratet. – Økokrim vurderer\nsaken som alvorlig.",
-              "source": "NRK Norge, publisert 18.06 kl. 06:00"
+              "ingress": "Kontrollar i Bergen styrker mistanken om alvorleg arbeidslivskriminalitet i\nmatleveringsbransjen.",
+              "body": "«HAR DU DET GREITT PÅ JOBB?» A-krimsenteret i Vestland under\nkartleggingsaksjonen i Bergen. Mange biler ble stoppet, NRK har ikke\ninformasjon om hvilke av bilene og sjåførene som ikke hadde papirene i orden.\n– Hei, vi er frå Arbeidstilsynet, og stiller deg ulike spørsmål for å forsikre\noss om at du har gode arbeidsforhold, seier Gro Marie Austdal og smiler. I\nregi av a-krimsenteret i Vestland blir det gjennomført ein to dagars aksjon på\nBontelabo i Bergen sentrum. Målet er å få ei oversikt over forholda i den app-\nbaserte matleveringsbransjen.",
+              "source": "NRK Norge, publisert 18.06 kl. 06:12"
             }
           ]
         },
@@ -136,12 +136,12 @@
           "lines": [
             {
               "id": "115-1",
-              "headline": "Vil sette nok en havvindsatsing på pause",
+              "headline": "Industribedrift får bot på 18 millioner for miljøkriminalitet",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Motbør fra Motvind og lokalsamfunn gjør at utbyggeren på Sørlige Nordsjø II\nber om utsettelse.",
-              "body": "Havvindprosjektet Sørlige Nordsjø II utenfor sørlandskysten kan, i likhet med\nUtsira nord, bli satt på pause. Her fra Jrea Nex bp sin havvindpark Arcadis\nOst utenfor kysten av Tyskland. Utbyggeren Ventyr har møtt en rekke uventede\nutfordringer i utviklingen og planleggingen av havvindprosjektet Sørlige\nNordsjø II er et havvindanlegg som etter planen skal bygges helt sør i\nNordsjøen, nær grensen til Danmark. Regjeringens mål er at den står ferdig i\n2030 og da vil gi strøm tilsvarende forbruket til cirka 600.000 husstander.",
-              "source": "NRK Norge, publisert 18.06 kl. 05:56"
+              "ingress": "Økokrim mener industribedriften Fiven i Lillesand bevisst gjorde målinger av\nutslipp som ikke var representative for de faktiske utslippene.",
+              "body": "Økokrim har gitt et forelegg på 18 millioner kroner til en Sørlandsbedrift.\nIndustribedriften Fiven har hatt tillatelse til å slippe ut en rekke stoffer,\nblant annet miljøgiften benzo (a) pyren. Stoffet er kreftfremkallende,\narvestoffskadelig og reproduksjonsskadelig. Men nå får bedriften en bot på 18\nmillioner kroner for å ha sluppet ut mer enn det de hadde tillatelse til og\nfor å ha gitt feil opplysninger til Miljødirektoratet. – Økokrim vurderer\nsaken som alvorlig.",
+              "source": "NRK Norge, publisert 18.06 kl. 06:00"
             }
           ]
         },
@@ -152,12 +152,12 @@
           "lines": [
             {
               "id": "116-1",
-              "headline": "Helena spiller i ny trollfilm",
+              "headline": "Vil sette nok en havvindsatsing på pause",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "10-åringen kapra hovedrollen når hun debuterer som filmskuespiller i\nTrollegget.",
-              "body": "FILMSETT: Helena Horge-Trømborg har tilbrakt mange timer på filmsettet under\nproduksjonen av Trollegget. – Hun der setter en liten mikrofon i håret mitt.\nHelena Horge-Trømborg sitter i sminken og blir gjort klar til neste scene.\nMens ei dame fester mikrofonen, holder en sminkør på å ordne fregner i\nansiktet på 10-åringen. Hun danka ut 400 andre for å få hovedrollen i filmen\nTrollegget. Nå har hun, og resten av filmcrewet vært i Oppdal og filma de\nsiste ukene. – Det har vært ganske slitsomt, men også ganske gøy.",
-              "source": "NRK Norge, publisert 18.06 kl. 05:41"
+              "ingress": "Motbør fra Motvind og lokalsamfunn gjør at utbyggeren på Sørlige Nordsjø II\nber om utsettelse.",
+              "body": "Havvindprosjektet Sørlige Nordsjø II utenfor sørlandskysten kan, i likhet med\nUtsira nord, bli satt på pause. Her fra Jrea Nex bp sin havvindpark Arcadis\nOst utenfor kysten av Tyskland. Utbyggeren Ventyr har møtt en rekke uventede\nutfordringer i utviklingen og planleggingen av havvindprosjektet Sørlige\nNordsjø II er et havvindanlegg som etter planen skal bygges helt sør i\nNordsjøen, nær grensen til Danmark. Regjeringens mål er at den står ferdig i\n2030 og da vil gi strøm tilsvarende forbruket til cirka 600.000 husstander.",
+              "source": "NRK Norge, publisert 18.06 kl. 05:56"
             }
           ]
         },
@@ -168,12 +168,12 @@
           "lines": [
             {
               "id": "117-1",
-              "headline": "Svakere krone igjen: – Det går litt i feil retning, rett og slett",
+              "headline": "Helena spiller i ny trollfilm",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kronen hadde en knallsterk start på året, men nå er den i ferd med å bli\nsvakere igjen.",
-              "body": "Sentralbanksjef Ida Wolden Bache vil torsdag avsløre om renten skal opp enda\nen gang før sommeren. Norges Bank hevet renten i mai for å bremse prisveksten\nsom i årevis har vært over målet på 2 prosent. De siste tallene for mai viser\nat prisveksten var 3,4 prosent, utenom avgifter og energivarer. – Det går litt\ni feil retning, rett og slett, sier sjeføkonom Kjersti Haugland i DNB\nCarnegie. Hun tror likevel Norges Bank holder renten uendret torsdag, i likhet\nmed Handelsbankens sjeføkonom Marius Gonsholt Hov.",
-              "source": "NRK Norge, publisert 18.06 kl. 03:14"
+              "ingress": "10-åringen kapra hovedrollen når hun debuterer som filmskuespiller i\nTrollegget.",
+              "body": "FILMSETT: Helena Horge-Trømborg har tilbrakt mange timer på filmsettet under\nproduksjonen av Trollegget. – Hun der setter en liten mikrofon i håret mitt.\nHelena Horge-Trømborg sitter i sminken og blir gjort klar til neste scene.\nMens ei dame fester mikrofonen, holder en sminkør på å ordne fregner i\nansiktet på 10-åringen. Hun danka ut 400 andre for å få hovedrollen i filmen\nTrollegget. Nå har hun, og resten av filmcrewet vært i Oppdal og filma de\nsiste ukene. – Det har vært ganske slitsomt, men også ganske gøy.",
+              "source": "NRK Norge, publisert 18.06 kl. 05:41"
             }
           ]
         },
@@ -184,132 +184,12 @@
           "lines": [
             {
               "id": "118-1",
-              "headline": "Nedslående funn: En av fire unge er «demokratisk frakoblet»",
+              "headline": "Svakere krone igjen: – Det går litt i feil retning, rett og slett",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Forskere: Gjør det vanskeligere for elevene å identifisere trusler mot\ndemokratiet.",
-              "body": "Bjørn Krosby Torsteinsen kan mer om demokrati enn mange jevnaldrende. –\nRegjeringen kan ikke opptre uten støtte fra Stortinget, og Stortinget lager\nlovene domstolene bruker. Og alle kan bli dømt, utenom Kongen. Bjørn Krosby\nTorsteinsen er inne i sin siste uke som VG2-elev på Stavanger katedralskole,\nKongsgård. Og han har mye bedre kunnskap om demokratiet og går ut på at\nstatsmakten skal fordeles på tre uavhengige institusjoner: en lovgivende\n(stortinget), en utøvende (regjeringen) og en dømmende (domstolen) makt.",
-              "source": "NRK Norge, publisert 18.06 kl. 04:30"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "local",
-      "title": "Lokal",
-      "startPage": "130",
-      "colorName": "magenta",
-      "pages": [
-        {
-          "id": "130",
-          "number": "130",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "130-1",
-              "headline": "Ny brigade i Finnmark får gamle stridsvogner",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Norges nyeste brigade står på grensa til Russland, men utstyres med\nstridsvogner som ellers skiftes ut.",
-              "body": "Finnmarksbrigaden skal de neste årene ruste kraftig opp i det nordligste\nfylket. Forsvaret offentliggjør i dag sin Konseptvalgutredning (KVU) for\nstatlige prosjekter med antatt kostnad over én milliard kroner er et annet\neksempel hvor det kreves utredning i offentlig sektor. Her er kravet at det\nskal gjennomføres en faglig utredning av alternative måter («konsepter») å\nimøtekomme et behov på, før et eventuelt prosjekt blir igangsatt. Slike\nutredninger er spesielt aktuelle for veiutbygginger og større byggeprosjekter.",
-              "source": "NRK Troms og Finnmark, publisert 18.06 kl. 04:59"
-            }
-          ]
-        },
-        {
-          "id": "131",
-          "number": "131",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "131-1",
-              "headline": "Mener langt flere dør av demens: – Riv ruskende galt",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Demenssykdommer er Norges tredje største dødsårsak, men kun halvparten av de\nsyke har en diagnose.",
-              "body": "Pårørende Kjerstin Haukland mener langt flere dør av sykdommen hennes mann\nhar, demens. Blant annet siden man mangler oversikt over hvor mange som har\nsykdommen i Norge. Det var de tre største dødsårssakene i Norge i 2025, ifølge\nDødsårsaksregisteret ved FHI. 5.313 døde av demenssykdom i fjor, ifølge\nregisterets foreløpige tall. Det reagerer flere demenssyke og pårørende på. –\nNoe er riv ruskende galt, sier Kjerstin Haukland, som er gift med demenssyke\nArnt Ryvold. – Det bor over 40.000 på sykehjem, og minst 80 % av dem har en\ndødelig demenssykdom.",
-              "source": "NRK Troms og Finnmark, publisert 18.06 kl. 03:37"
-            }
-          ]
-        },
-        {
-          "id": "132",
-          "number": "132",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "132-1",
-              "headline": "«All time high» for cruise­anløp i Tromsø",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "I høysesongen for cruiseturisme har det aldri før vært så mange anløp av skip\ni Tromsø.",
-              "body": "Det tyske cruiseskipet Aida Luna er ett av 220 cruiseanløp i Breivika havn i\når. Nysgjerrige cruiseturister kikker ned på havna i Breivika, i det den\nenorme flytende skyskraperen AIDA Luna klapper til kai i Tromsø. 2.050 sjeler\nom bord har muligheten til å spasere gjennom Tromsøs gater de neste 6 timene\nmens den ligger til kai, før de skal stevne videre sørover mot Leknes og\nLofoten. En massiv skipsfront som rommer 13 dekk innvendig, møter deg når Aida\nLuna klapper til kai.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 15:31"
-            }
-          ]
-        },
-        {
-          "id": "133",
-          "number": "133",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "133-1",
-              "headline": "Frontkollisjon i Måsøy – tre sendt til sykehus",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Vegen i Snefjord var stengt onsdag ettermiddag på grunn av ei bilulykke.",
-              "body": "Politiet meldte ved 17-tiden i dag om en front-mot-front-kollisjon mellom to\npersonbiler på fylkesvei 889, ca. 13 km fra Havøysund. – Det var til sammen\ntre personer i de to bilene. Samtlige er nå sendt til Hammerfest sykehus for\nvidere oppfølgning, opplyste operasjonsleder Tor Morten Noste til NRK onsdag\nkveld. To av de involverte var oppegående da hjelpemannskapene kom til stedet,\nmens en tredje person satt en stund fastklemt i bilen.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 15:12"
-            }
-          ]
-        },
-        {
-          "id": "134",
-          "number": "134",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "134-1",
-              "headline": "Abubacarr Sedi Kinteh solgt til Al-Ahli for rekordsum",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "19-åringen blir historiens dyreste salg for Tromsø IL.",
-              "body": "Tromsø ILs supertalent, Abubacarr Sedi Kinteh (19) melder overgang til den\nsaudiarabiske klubben Al-Ahli Saudi FC. – Jeg bekreftet at klubbene er enige,\nmen fortsatt er det et stykke igjen før det er en overgang, sier sportssjef\nLars Petter Kræmer-Andressen til NRK. iTromsø omtalte salget først. Tromsø og\nAl-Ahli er blitt enige om en overgangssum på om lag 70 millioner kroner for\nden unge spilleren fra Gambia. Kinteh kom til «Gutan» fra samarbeidsakademiet\nMawade Wade i begynnelsen av mars i fjor og har siden da gjort seg sterkt\nbemerket i Eliteserien.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 12:37"
-            }
-          ]
-        },
-        {
-          "id": "135",
-          "number": "135",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "135-1",
-              "headline": "Frykter ikke naboen i øst: – Kanskje vi er for naive i nord",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Rett over grensen til Pasvik pågår det en russisk opprustning.",
-              "body": "Lokalpolitiker Kurt Pasvikbamsen Wikan (Sp) mener at innbyggerne i\ngrensekommunen ikke har samme frykt for russisk aggresjon som innbyggerne\nlenger sør i landet. Han var en av deltakerne på folkemøtet i regi av\npolitiet, Jegerbataljonen GSV og Grensekommisariatet. Hvert år holdes det\nfolkemøte i Pasvik knyttet til den norsk-russiske grensen og nye\ngrenserelaterte problemstillinger. Hildonen frykter ikke Russland, selv om NRK\nhar omtalt at det rustes opp på andre siden av grensen. Han forteller at han\nukentlig krysser den russiske grensen.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 11:23"
-            }
-          ]
-        },
-        {
-          "id": "136",
-          "number": "136",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "136-1",
-              "headline": "Advarer lokalbefolkningen etter reveangrep: – Mistanke om skabb",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "En person ble bitt av rev i Hammerfest på tirsdag.",
-              "body": "Det er i Rypefjord i Hammerfest kommune at to rever angrep en mann i 20-årene.\nHan ble bitt i den ene foten. – Bakgrunnen for advarselen er en hendelse der\nen person ble bitt av en rev. Politiet mistenker at reven kan ha vært syk, og\ndet er også mistanke om skabb. Skriver Hammerfest kommune i en pressemelding.\n– Vi arbeider nå med å få oversikt over situasjonen i området. Dette gjør vi i\nsamarbeid med politiet og relevante fagmyndigheter.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 11:19"
+              "ingress": "Kronen hadde en knallsterk start på året, men nå er den i ferd med å bli\nsvakere igjen.",
+              "body": "Sentralbanksjef Ida Wolden Bache vil torsdag avsløre om renten skal opp enda\nen gang før sommeren. Norges Bank hevet renten i mai for å bremse prisveksten\nsom i årevis har vært over målet på 2 prosent. De siste tallene for mai viser\nat prisveksten var 3,4 prosent, utenom avgifter og energivarer. – Det går litt\ni feil retning, rett og slett, sier sjeføkonom Kjersti Haugland i DNB\nCarnegie. Hun tror likevel Norges Bank holder renten uendret torsdag, i likhet\nmed Handelsbankens sjeføkonom Marius Gonsholt Hov.",
+              "source": "NRK Norge, publisert 18.06 kl. 03:14"
             }
           ]
         }
@@ -436,6 +316,126 @@
       ]
     },
     {
+      "id": "local",
+      "title": "Lokal",
+      "startPage": "130",
+      "colorName": "magenta",
+      "pages": [
+        {
+          "id": "130",
+          "number": "130",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "130-1",
+              "headline": "Ny brigade i Finnmark får gamle stridsvogner",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Norges nyeste brigade står på grensa til Russland, men utstyres med\nstridsvogner som ellers skiftes ut.",
+              "body": "Finnmarksbrigaden skal de neste årene ruste kraftig opp i det nordligste\nfylket. Forsvaret offentliggjør i dag sin Konseptvalgutredning (KVU) for\nstatlige prosjekter med antatt kostnad over én milliard kroner er et annet\neksempel hvor det kreves utredning i offentlig sektor. Her er kravet at det\nskal gjennomføres en faglig utredning av alternative måter («konsepter») å\nimøtekomme et behov på, før et eventuelt prosjekt blir igangsatt. Slike\nutredninger er spesielt aktuelle for veiutbygginger og større byggeprosjekter.",
+              "source": "NRK Troms og Finnmark, publisert 18.06 kl. 04:59"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "number": "131",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "131-1",
+              "headline": "Mener langt flere dør av demens: – Riv ruskende galt",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Demenssykdommer er Norges tredje største dødsårsak, men kun halvparten av de\nsyke har en diagnose.",
+              "body": "Pårørende Kjerstin Haukland mener langt flere dør av sykdommen hennes mann\nhar, demens. Blant annet siden man mangler oversikt over hvor mange som har\nsykdommen i Norge. Det var de tre største dødsårssakene i Norge i 2025, ifølge\nDødsårsaksregisteret ved FHI. 5.313 døde av demenssykdom i fjor, ifølge\nregisterets foreløpige tall. Det reagerer flere demenssyke og pårørende på. –\nNoe er riv ruskende galt, sier Kjerstin Haukland, som er gift med demenssyke\nArnt Ryvold. – Det bor over 40.000 på sykehjem, og minst 80 % av dem har en\ndødelig demenssykdom.",
+              "source": "NRK Troms og Finnmark, publisert 18.06 kl. 03:37"
+            }
+          ]
+        },
+        {
+          "id": "132",
+          "number": "132",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "132-1",
+              "headline": "«All time high» for cruise­anløp i Tromsø",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "I høysesongen for cruiseturisme har det aldri før vært så mange anløp av skip\ni Tromsø.",
+              "body": "Det tyske cruiseskipet Aida Luna er ett av 220 cruiseanløp i Breivika havn i\når. Nysgjerrige cruiseturister kikker ned på havna i Breivika, i det den\nenorme flytende skyskraperen AIDA Luna klapper til kai i Tromsø. 2.050 sjeler\nom bord har muligheten til å spasere gjennom Tromsøs gater de neste 6 timene\nmens den ligger til kai, før de skal stevne videre sørover mot Leknes og\nLofoten. En massiv skipsfront som rommer 13 dekk innvendig, møter deg når Aida\nLuna klapper til kai.",
+              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 15:31"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "number": "133",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "133-1",
+              "headline": "Frontkollisjon i Måsøy – tre sendt til sykehus",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Vegen i Snefjord var stengt onsdag ettermiddag på grunn av ei bilulykke.",
+              "body": "Politiet meldte ved 17-tiden i dag om en front-mot-front-kollisjon mellom to\npersonbiler på fylkesvei 889, ca. 13 km fra Havøysund. – Det var til sammen\ntre personer i de to bilene. Samtlige er nå sendt til Hammerfest sykehus for\nvidere oppfølgning, opplyste operasjonsleder Tor Morten Noste til NRK onsdag\nkveld. To av de involverte var oppegående da hjelpemannskapene kom til stedet,\nmens en tredje person satt en stund fastklemt i bilen.",
+              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 15:12"
+            }
+          ]
+        },
+        {
+          "id": "134",
+          "number": "134",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "134-1",
+              "headline": "Abubacarr Sedi Kinteh solgt til Al-Ahli for rekordsum",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "19-åringen blir historiens dyreste salg for Tromsø IL.",
+              "body": "Tromsø ILs supertalent, Abubacarr Sedi Kinteh (19) melder overgang til den\nsaudiarabiske klubben Al-Ahli Saudi FC. – Jeg bekreftet at klubbene er enige,\nmen fortsatt er det et stykke igjen før det er en overgang, sier sportssjef\nLars Petter Kræmer-Andressen til NRK. iTromsø omtalte salget først. Tromsø og\nAl-Ahli er blitt enige om en overgangssum på om lag 70 millioner kroner for\nden unge spilleren fra Gambia. Kinteh kom til «Gutan» fra samarbeidsakademiet\nMawade Wade i begynnelsen av mars i fjor og har siden da gjort seg sterkt\nbemerket i Eliteserien.",
+              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 12:37"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "number": "135",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "135-1",
+              "headline": "Frykter ikke naboen i øst: – Kanskje vi er for naive i nord",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Rett over grensen til Pasvik pågår det en russisk opprustning.",
+              "body": "Lokalpolitiker Kurt Pasvikbamsen Wikan (Sp) mener at innbyggerne i\ngrensekommunen ikke har samme frykt for russisk aggresjon som innbyggerne\nlenger sør i landet. Han var en av deltakerne på folkemøtet i regi av\npolitiet, Jegerbataljonen GSV og Grensekommisariatet. Hvert år holdes det\nfolkemøte i Pasvik knyttet til den norsk-russiske grensen og nye\ngrenserelaterte problemstillinger. Hildonen frykter ikke Russland, selv om NRK\nhar omtalt at det rustes opp på andre siden av grensen. Han forteller at han\nukentlig krysser den russiske grensen.",
+              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 11:23"
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "number": "136",
+          "title": "Lokal",
+          "lines": [
+            {
+              "id": "136-1",
+              "headline": "Advarer lokalbefolkningen etter reveangrep: – Mistanke om skabb",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "En person ble bitt av rev i Hammerfest på tirsdag.",
+              "body": "Det er i Rypefjord i Hammerfest kommune at to rever angrep en mann i 20-årene.\nHan ble bitt i den ene foten. – Bakgrunnen for advarselen er en hendelse der\nen person ble bitt av en rev. Politiet mistenker at reven kan ha vært syk, og\ndet er også mistanke om skabb. Skriver Hammerfest kommune i en pressemelding.\n– Vi arbeider nå med å få oversikt over situasjonen i området. Dette gjør vi i\nsamarbeid med politiet og relevante fagmyndigheter.",
+              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 11:19"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "sport",
       "title": "Sport",
       "startPage": "200",
@@ -448,12 +448,12 @@
           "lines": [
             {
               "id": "200-1",
-              "headline": "Real Madrid signerer Liverpool-midtstopper",
+              "headline": "16-åring solgt til Porto",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Den franske midtstopperen Ibrahima Konaté (27) fortsetter karrieren i Real\nMadrid etter fem sesonger i Liverpool.",
-              "body": "Det opplyser Real Madrid på eget nettsted torsdag. Overgangen har vært ryktet\ni lang tid. Konaté har undertegnet en fireårskontrakt med sin nye klubb.",
-              "source": "NRK Sport, publisert 18.06 kl. 09:23"
+              "ingress": "Fredrikstad skal være enig med den portugisiske storklubben Porto om en\novergang for stortalentet Eirik Julius Granaas (16).",
+              "body": "Det melder TV 2 og portugisiske Foot Mercato. Fredrikstad FK ønsker ikke å\nkommentere påstandene om at Granaas selges. Ifølge TV 2 kan overgangen være\nverdt mellom 40 og 50 millioner kroner for østfoldklubben.",
+              "source": "NRK Sport, publisert 18.06 kl. 10:13"
             }
           ]
         },
@@ -464,12 +464,12 @@
           "lines": [
             {
               "id": "201-1",
-              "headline": "Fire mesterskap i Norge får millionstøtte fra regjeringen",
+              "headline": "«Alle» brukar denne fargen i VM: – Føler seg betre",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Regjeringen gir i alt 8,85 millioner kroner til fem internasjonale\nidrettsmesterskap på norsk jord de neste to årene.",
-              "body": "Det opplyser Kultur- og likestillingsdepartementet i en pressemelding.\nAllerede fra 28. juni er det VM-runde i seilflyging på Starmoen i Elverum.",
-              "source": "NRK Sport, publisert 18.06 kl. 07:58"
+              "ingress": "Kvart store meisterskap har sin eigen mote, og i fotball-VM er det éin\nspesiell farge som gjeld.",
+              "body": "Ekspert meiner det ikkje er tilfeldig.",
+              "source": "NRK Sport, publisert 18.06 kl. 09:59"
             }
           ]
         },
@@ -480,12 +480,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Stavanger skal søke om å arrangere Noregs første offisielle curling-VM",
+              "headline": "Sørafrikaner fikk tre kampers suspensjon – trolig ferdigspilt i VM",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Søknaden blir send etter at Kulturdepartementet torsdag morgon løyvde 3,3\nmillionar kroner i støtte til meisterskapen.",
-              "body": "Fire andre idrettsforbund for også støtte til å søke om meisterskap i Noreg.",
-              "source": "NRK Sport, publisert 18.06 kl. 07:00"
+              "ingress": "Zwane ble utvist i det 84.",
+              "body": "minuttet av kampen som Mexico vant 2-0. Han slengte ut armen mot ansiktet til\nMexicos Roberto Alvarado i det han var i ferd med å passere ham, og dommer\nWilton Sampaio var ikke i tvil etter å ha sett situasjonen i reprise.\nAvgjørelsen er rødt kort, sa dommeren i sin mikrofon.",
+              "source": "NRK Sport, publisert 18.06 kl. 09:49"
             }
           ]
         },
@@ -496,12 +496,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Tidligere OL-medaljevinner kollapset på friidrettsbanen",
+              "headline": "Real Madrid signerer Liverpool-midtstopper",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "OL-medaljevinneren og den tidligere verdensmesteren Jenny Simpson (39) måtte\nha livreddende førstehjelp da hun kollapset i et lokalt banestevne og ble\nsendt på sykehus.",
-              "body": "Simpson var med i et løp på en engelsk mil i Raleigh i North Carolina da hun\nfalt om. Simpson ble verdensmester på 1500 meter i 2011, og i OL i Rio de\nJaneiro i 2016 tok hun bronse på samme distanse. Hun tok også sølv på 1500\nmeter i VM i 2013 og 2017.",
-              "source": "NRK Sport, publisert 18.06 kl. 06:33"
+              "ingress": "Den franske midtstopperen Ibrahima Konaté (27) fortsetter karrieren i Real\nMadrid etter fem sesonger i Liverpool.",
+              "body": "Det opplyser Real Madrid på eget nettsted torsdag. Overgangen har vært ryktet\ni lang tid. Konaté har undertegnet en fireårskontrakt med sin nye klubb.",
+              "source": "NRK Sport, publisert 18.06 kl. 09:23"
             }
           ]
         },
@@ -512,12 +512,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Vill jubel etter scoring åtte minutter på overtid",
+              "headline": "Fire mesterskap i Norge får millionstøtte fra regjeringen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Colombia fikk en drømmestart på VM med 3–1 over Usbekistan.",
-              "body": "3-1-scoringen kom etter 98 minutter, og da ble det full jubel for hele det\ncolombianske laget. Søramerikanerne var store favoritter, og tok ledelsen rett\nfør pause etter scoring av Daniel Muñoz. Etter hvilen utnyttet Usbekistan en\nskrekkelig involvering av Colombias keeper, og talentet Abbosbek Fayzullaev\nsørget for elleville usbekiske jubelscener på arenaen i Mexico by.",
-              "source": "NRK Sport, publisert 18.06 kl. 04:01"
+              "ingress": "Regjeringen gir i alt 8,85 millioner kroner til fem internasjonale\nidrettsmesterskap på norsk jord de neste to årene.",
+              "body": "Det opplyser Kultur- og likestillingsdepartementet i en pressemelding.\nAllerede fra 28. juni er det VM-runde i seilflyging på Starmoen i Elverum.",
+              "source": "NRK Sport, publisert 18.06 kl. 07:58"
             }
           ]
         },
@@ -528,12 +528,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Måpar av drakt-tabbe: – Aldri sett før",
+              "headline": "Stavanger skal søke om å arrangere Noregs første offisielle curling-VM",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Landslagsstjerna Patrick Berg meiner det var vanskeleg å ikkje legge merke til\nfeilen på Noreg-drakta.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "NRK Sport, publisert 18.06 kl. 03:13"
+              "ingress": "Søknaden blir send etter at Kulturdepartementet torsdag morgon løyvde 3,3\nmillionar kroner i støtte til meisterskapen.",
+              "body": "Fire andre idrettsforbund for også støtte til å søke om meisterskap i Noreg.",
+              "source": "NRK Sport, publisert 18.06 kl. 07:00"
             }
           ]
         },
@@ -544,12 +544,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "Måtte bytte drakt etter ellevill feiring",
+              "headline": "Tidligere OL-medaljevinner kollapset på friidrettsbanen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det ble ingen stor kamp da Panama og Ghana møttes for aller første gang.",
-              "body": "Panama, som er med i sitt andre VM noensinne, yppet seg mot Ghana i første\nomgang uten at det resulterte i mål. Kampen gikk mot poengdeling da Thomas-\nAsante tok fart på venstrekanten på overtid. Han fant medspiller Caleb\nYirenkyi på mesterlig vis, som kunne trille ballen enkelt i mål.",
-              "source": "NRK Sport, publisert 18.06 kl. 01:07"
+              "ingress": "OL-medaljevinneren og den tidligere verdensmesteren Jenny Simpson (39) måtte\nha livreddende førstehjelp da hun kollapset i et lokalt banestevne og ble\nsendt på sykehus.",
+              "body": "Simpson var med i et løp på en engelsk mil i Raleigh i North Carolina da hun\nfalt om. Simpson ble verdensmester på 1500 meter i 2011, og i OL i Rio de\nJaneiro i 2016 tok hun bronse på samme distanse. Hun tok også sølv på 1500\nmeter i VM i 2013 og 2017.",
+              "source": "NRK Sport, publisert 18.06 kl. 06:33"
             }
           ]
         },
@@ -560,12 +560,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "Zlatan om Kane: – Gjør ting superstjerner vanligvis ikke gjør",
+              "headline": "Vill jubel etter scoring åtte minutter på overtid",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Harry Kane tangerte enda en målrekord, men får ros for noe helt annet etter\nkampen.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "NRK Sport, publisert 17.06 kl. 22:00"
+              "ingress": "Colombia fikk en drømmestart på VM med 3–1 over Usbekistan.",
+              "body": "3-1-scoringen kom etter 98 minutter, og da ble det full jubel for hele det\ncolombianske laget. Søramerikanerne var store favoritter, og tok ledelsen rett\nfør pause etter scoring av Daniel Muñoz. Etter hvilen utnyttet Usbekistan en\nskrekkelig involvering av Colombias keeper, og talentet Abbosbek Fayzullaev\nsørget for elleville usbekiske jubelscener på arenaen i Mexico by.",
+              "source": "NRK Sport, publisert 18.06 kl. 04:01"
             }
           ]
         },
@@ -576,12 +576,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Bekreftet: Konaté til Real Madrid",
+              "headline": "Går gratis til Championship-klubb",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Real Madrid har bekreftet signeringen av Ibrahima Konaté",
+              "ingress": "Carter Pinnington fortsetter karrieren i West Bromwich.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 11:23"
+              "source": "Liverpool.no, publisert 18.06 kl. 12:09"
             }
           ]
         },
@@ -592,12 +592,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Kjører eget opplegg for Isak under VM",
+              "headline": "Slik sikrer du deg Liverpool-turen når terminlisten slippes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Liverpool-spissen trente for seg selv onsdag.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 10:30"
+              "ingress": "I morgen kl.",
+              "body": "11.00 kommer terminlisten for Premier League 2026/27. Kort tid etter åpner\nVing salget av pakkereiser til Anfield. Alle som kjøper tur i juni, er\ngarantert samme pris som forrige sesong.",
+              "source": "Liverpool.no, publisert 18.06 kl. 11:57"
             }
           ]
         },
@@ -608,12 +608,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Det eneste som mangler er den offisielle bekreftelsen",
+              "headline": "Bekreftet: Konaté til Real Madrid",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Victor Munoz har bestått den medisinske sjekken og signert kontrakten med\nLiverpool FC.",
+              "ingress": "Real Madrid har bekreftet signeringen av Ibrahima Konaté",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 09:20"
+              "source": "Liverpool.no, publisert 18.06 kl. 11:23"
             }
           ]
         },
@@ -624,12 +624,12 @@
           "lines": [
             {
               "id": "233-1",
-              "headline": "– Liverpool er en underdog igjen!",
+              "headline": "Kjører eget opplegg for Isak under VM",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Forrige sesong lanserte mange Liverpool som favoritter til ligagull.",
-              "body": "Slik blir det neppe den kommende sesongen.",
-              "source": "Liverpool.no, publisert 18.06 kl. 08:24"
+              "ingress": "Liverpool-spissen trente for seg selv onsdag.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 18.06 kl. 10:30"
             }
           ]
         },
@@ -640,12 +640,12 @@
           "lines": [
             {
               "id": "234-1",
-              "headline": "Iraola skal ha vært pådriveren for overgangen",
+              "headline": "Det eneste som mangler er den offisielle bekreftelsen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Liverpools første kjøp under Andoni Iraola blir kantspilleren Victor Munoz.",
-              "body": "Real Madrid skal ha halve overgangssummen.",
-              "source": "Liverpool.no, publisert 18.06 kl. 08:15"
+              "ingress": "Victor Munoz har bestått den medisinske sjekken og signert kontrakten med\nLiverpool FC.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 18.06 kl. 09:20"
             }
           ]
         }
@@ -1979,7 +1979,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Alta            Delvis skyet, 11 grader, vind 7 m/s\nBørselv         Skyet, 10 grader, vind 5 m/s\nČáhppiljohka    Skyet, 11 grader, vind 6 m/s\nHeimdal         Regn, 13 grader, vind 2 m/s\nBø              Pent vær, 21 grader, vind 2 m/s\nKristiansand    Skyet, 18 grader, vind 4 m/s\nOslo            Pent vær, 20 grader, vind 3 m/s\nSvalbard        Snø, 0 grader, vind 7 m/s\nOs              Skyet, 15 grader, vind 1 m/s\nFinnsnes        Delvis skyet, 11 grader, vind 4 m/s\nTorrevieja      Klart, 25 grader, vind 9 m/s",
+              "body": "Alta            Delvis skyet, 11 grader, vind 7 m/s\nBørselv         Delvis skyet, 11 grader, vind 4 m/s\nČáhppiljohka    Delvis skyet, 11 grader, vind 6 m/s\nHeimdal         Regn, 13 grader, vind 2 m/s\nBø              Pent vær, 22 grader, vind 3 m/s\nKristiansand    Skyet, 19 grader, vind 4 m/s\nOslo            Pent vær, 19 grader, vind 3 m/s\nSvalbard        Snø, 0 grader, vind 7 m/s\nOs              Skyet, 16 grader, vind 2 m/s\nFinnsnes        Delvis skyet, 12 grader, vind 4 m/s\nTorrevieja      Klart, 26 grader, vind 8 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1995,7 +1995,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Torrevieja      Klart, 25 grader, vind 9 m/s\nLondon          Skyet, 21 grader, vind 3 m/s\nParis           Klart, 29 grader, vind 1 m/s\nBerlin          Lett regn, 25 grader, vind 4 m/s\nRoma            Klart, 31 grader, vind 2 m/s",
+              "body": "Torrevieja      Klart, 26 grader, vind 8 m/s\nLondon          Skyet, 23 grader, vind 4 m/s\nParis           Klart, 32 grader, vind 2 m/s\nBerlin          Lett regn, 26 grader, vind 4 m/s\nRoma            Klart, 33 grader, vind 2 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -2022,10 +2022,10 @@
                 },
                 {
                   "id": "alta-weather-1",
-                  "text": "Neste døgn: 11 til 12 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 10 til 12 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "11 til 12 grader, omtrent 0.0 mm nedbør."
+                  "detail": "10 til 12 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "alta-weather-3",
@@ -2076,7 +2076,7 @@
               "headline": "Børselv",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 10 grader, vind 5 m/s",
+              "ingress": "Delvis skyet, 11 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2088,10 +2088,10 @@
                 },
                 {
                   "id": "b-rselv-weather-1",
-                  "text": "Neste døgn: 11 til 12 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 10 til 12 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "11 til 12 grader, omtrent 0.0 mm nedbør."
+                  "detail": "10 til 12 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-3",
@@ -2142,7 +2142,7 @@
               "headline": "Čáhppiljohka",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 11 grader, vind 6 m/s",
+              "ingress": "Delvis skyet, 11 grader, vind 6 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2213,17 +2213,17 @@
               "bodyRows": [
                 {
                   "id": "heimdal-weather-0",
-                  "text": "Nedbør neste 6 timer: 1.3 mm.",
+                  "text": "Nedbør neste 6 timer: 0.8 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "1.3 mm."
+                  "detail": "0.8 mm."
                 },
                 {
                   "id": "heimdal-weather-1",
-                  "text": "Neste døgn: 13 til 16 grader, omtrent 1.3 mm nedbør.",
+                  "text": "Neste døgn: 14 til 16 grader, omtrent 0.5 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "13 til 16 grader, omtrent 1.3 mm nedbør."
+                  "detail": "14 til 16 grader, omtrent 0.5 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-3",
@@ -2274,7 +2274,7 @@
               "headline": "Bø",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 21 grader, vind 2 m/s",
+              "ingress": "Pent vær, 22 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2340,7 +2340,7 @@
               "headline": "Kristiansand",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 18 grader, vind 4 m/s",
+              "ingress": "Skyet, 19 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2352,10 +2352,10 @@
                 },
                 {
                   "id": "kristiansand-weather-1",
-                  "text": "Neste døgn: 19 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 20 til 22 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "19 til 22 grader, omtrent 0.0 mm nedbør."
+                  "detail": "20 til 22 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-3",
@@ -2406,7 +2406,7 @@
               "headline": "Oslo",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 20 grader, vind 3 m/s",
+              "ingress": "Pent vær, 19 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2425,17 +2425,17 @@
                 },
                 {
                   "id": "oslo-weather-3",
-                  "text": "Fredag 19.06: skyet, 16-23 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 19.06: delvis skyet, 16-23 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
                   "label": "Fredag 19.06:",
-                  "detail": "skyet, 16-23 grader, 0.0 mm nedbør."
+                  "detail": "delvis skyet, 16-23 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-4",
-                  "text": "Lørdag 20.06: delvis skyet, 18-22 grader, 0.6 mm nedbør.",
+                  "text": "Lørdag 20.06: skyet, 18-24 grader, 3.9 mm nedbør.",
                   "colorName": "yellow",
                   "label": "Lørdag 20.06:",
-                  "detail": "delvis skyet, 18-22 grader, 0.6 mm nedbør."
+                  "detail": "skyet, 18-24 grader, 3.9 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-5",
@@ -2477,10 +2477,10 @@
               "bodyRows": [
                 {
                   "id": "svalbard-weather-0",
-                  "text": "Nedbør neste 6 timer: 1.6 mm.",
+                  "text": "Nedbør neste 6 timer: 1.4 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "1.6 mm."
+                  "detail": "1.4 mm."
                 },
                 {
                   "id": "svalbard-weather-1",
@@ -2538,7 +2538,7 @@
               "headline": "Os",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 15 grader, vind 1 m/s",
+              "ingress": "Skyet, 16 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2550,10 +2550,10 @@
                 },
                 {
                   "id": "os-weather-1",
-                  "text": "Neste døgn: 16 til 19 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 17 til 19 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "16 til 19 grader, omtrent 0.0 mm nedbør."
+                  "detail": "17 til 19 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "os-weather-3",
@@ -2604,7 +2604,7 @@
               "headline": "Finnsnes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 11 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 12 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2616,10 +2616,10 @@
                 },
                 {
                   "id": "finnsnes-weather-1",
-                  "text": "Neste døgn: 12 til 12 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 11 til 12 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "12 til 12 grader, omtrent 0.0 mm nedbør."
+                  "detail": "11 til 12 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-3",
@@ -2670,7 +2670,7 @@
               "headline": "Torrevieja",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 25 grader, vind 9 m/s",
+              "ingress": "Klart, 26 grader, vind 8 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2736,7 +2736,7 @@
               "headline": "London",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 21 grader, vind 3 m/s",
+              "ingress": "Skyet, 23 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2802,7 +2802,7 @@
               "headline": "Paris",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 29 grader, vind 1 m/s",
+              "ingress": "Klart, 32 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2814,10 +2814,10 @@
                 },
                 {
                   "id": "paris-weather-1",
-                  "text": "Neste døgn: 32 til 36 grader, omtrent 0.9 mm nedbør.",
+                  "text": "Neste døgn: 32 til 36 grader, omtrent 0.7 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "32 til 36 grader, omtrent 0.9 mm nedbør."
+                  "detail": "32 til 36 grader, omtrent 0.7 mm nedbør."
                 },
                 {
                   "id": "paris-weather-3",
@@ -2868,22 +2868,22 @@
               "headline": "Berlin",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Lett regn, 25 grader, vind 4 m/s",
+              "ingress": "Lett regn, 26 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "berlin-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.9 mm.",
+                  "text": "Nedbør neste 6 timer: 0.8 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.9 mm."
+                  "detail": "0.8 mm."
                 },
                 {
                   "id": "berlin-weather-1",
-                  "text": "Neste døgn: 26 til 29 grader, omtrent 2.0 mm nedbør.",
+                  "text": "Neste døgn: 27 til 29 grader, omtrent 1.2 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "26 til 29 grader, omtrent 2.0 mm nedbør."
+                  "detail": "27 til 29 grader, omtrent 1.2 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-3",
@@ -2934,7 +2934,7 @@
               "headline": "Roma",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 31 grader, vind 2 m/s",
+              "ingress": "Klart, 33 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2946,10 +2946,10 @@
                 },
                 {
                   "id": "roma-weather-1",
-                  "text": "Neste døgn: 32 til 35 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 30 til 35 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "32 til 35 grader, omtrent 0.0 mm nedbør."
+                  "detail": "30 til 35 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "roma-weather-3",
