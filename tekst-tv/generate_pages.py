@@ -1364,10 +1364,28 @@ def find_liverpool_event(events: LeagueEvents | None) -> dict | None:
     if not events:
         return None
     for event in events.rows:
-        event_name = clean_text(event.get("strEvent")).lower()
-        if "liverpool" in event_name:
+        home_team = clean_text(event.get("strHomeTeam"))
+        away_team = clean_text(event.get("strAwayTeam"))
+        if is_liverpool_fc_team(home_team) or is_liverpool_fc_team(away_team):
             return event
     return None
+
+
+def is_liverpool_fc_team(team_name: str) -> bool:
+    normalized = re.sub(r"[^a-z0-9]+", " ", team_name.casefold()).strip()
+    if not normalized:
+        return False
+    blocked = {
+        "afc liverpool",
+        "liverpool afc",
+        "liverpool women",
+        "liverpool u21",
+        "liverpool u23",
+        "liverpool reserves",
+    }
+    if normalized in blocked:
+        return False
+    return normalized in {"liverpool", "liverpool fc"}
 
 
 def front_weather_summary(weather_forecasts: list[WeatherForecast]) -> str:
