@@ -60,11 +60,18 @@ final class TeletextStore {
     }
 
     private func fetchRemoteFeed(from url: URL) async throws -> Data {
-        var request = URLRequest(url: url)
-        request.cachePolicy = .reloadIgnoringLocalCacheData
+        let freshURL = url.withCacheBuster()
+        var request = URLRequest(url: freshURL)
+        request.cachePolicy = .reloadIgnoringLocalAndRemoteCacheData
+        request.setValue("no-cache", forHTTPHeaderField: "Cache-Control")
+        request.setValue("no-cache", forHTTPHeaderField: "Pragma")
         request.timeoutInterval = 12
 
-        let (data, response) = try await URLSession.shared.data(for: request)
+        let configuration = URLSessionConfiguration.ephemeral
+        configuration.requestCachePolicy = .reloadIgnoringLocalAndRemoteCacheData
+        configuration.urlCache = nil
+        let session = URLSession(configuration: configuration)
+        let (data, response) = try await session.data(for: request)
         guard let httpResponse = response as? HTTPURLResponse else {
             throw URLError(.badServerResponse)
         }
@@ -113,7 +120,11 @@ final class TeletextStore {
 
     private func decodeFeed(from data: Data) throws -> TeletextFeed {
         let decoder = JSONDecoder()
-        return try decoder.decode(TeletextFeed.self, from: data)
+        let feed = try decoder.decode(TeletextFeed.self, from: data)
+        guard !feed.sections.isEmpty, feed.sections.allSatisfy({ !$0.pages.isEmpty }) else {
+            throw TeletextFeedError.emptyFeed
+        }
+        return feed
     }
 
     private func saveCache(_ data: Data) throws {
@@ -134,6 +145,10 @@ final class TeletextStore {
     }()
 }
 
+private enum TeletextFeedError: Error {
+    case emptyFeed
+}
+
 enum TeletextConfiguration {
     static var remoteFeedURL: URL? {
         if let value = Bundle.main.object(forInfoDictionaryKey: "TeletextFeedURL") as? String,
@@ -149,6 +164,19 @@ enum TeletextConfiguration {
         }
 
         return URL(string: "https://sveinungaxelsen.github.io/tekst-tv/pages.json")
+    }
+}
+
+private extension URL {
+    func withCacheBuster() -> URL {
+        guard var components = URLComponents(url: self, resolvingAgainstBaseURL: false) else {
+            return self
+        }
+        var queryItems = components.queryItems ?? []
+        queryItems.removeAll { $0.name == "t" }
+        queryItems.append(URLQueryItem(name: "t", value: String(Int(Date().timeIntervalSince1970))))
+        components.queryItems = queryItems
+        return components.url ?? self
     }
 }
 

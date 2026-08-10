@@ -1,5 +1,5 @@
 {
-  "updated": "Oppdatert 18.06 kl. 12:15",
+  "updated": "Oppdatert 09.08 kl. 18:50",
   "sections": [
     {
       "id": "front",
@@ -23,21 +23,21 @@
               "headline": "Siste nytt",
               "colorName": "cyan",
               "isImportant": false,
-              "body": "110 Senterpartiet vil ha tidlegare statssekretær som ny fylkesordførar i Innlandet\n120 Suppleringsvalg kan gi ny statsminister i Storbritannia\n130 Ny brigade i Finnmark får gamle stridsvogner"
+              "body": "110 Franske turister fikk erstatning etter skrekkulykke – men må møte i retten på nytt\n120 Amnesty: Iranske demonstranter henrettes i økende omfang\n130 Tar vikingtiden tilbake fra Hollywood og høyreekstremister"
             },
             {
               "id": "neste-kamp",
               "headline": "Neste kamp",
               "colorName": "green",
               "isImportant": false,
-              "ingress": "15.08 21:00  Liverpool vs Bournemouth (English Premier League)"
+              "ingress": "23.08 17:30  Newcastle United vs Liverpool (English Premier League)"
             },
             {
               "id": "v-ret",
               "headline": "Været",
               "colorName": "yellow",
               "isImportant": false,
-              "body": "Alta: Delvis skyet, 11 grader, vind 7 m/s\nBørselv: Delvis skyet, 11 grader, vind 4 m/s\nCahppiljohka: Delvis skyet, 11 grader, vind 6 m/s"
+              "body": "Alta: Delvis skyet, 15 grader, vind 1 m/s\nBørselv: Skyet, 14 grader, vind 2 m/s\nCahppiljohka: Skyet, 17 grader, vind 1 m/s"
             }
           ]
         }
@@ -56,12 +56,12 @@
           "lines": [
             {
               "id": "110-1",
-              "headline": "Senterpartiet vil ha tidlegare statssekretær som ny fylkesordførar i Innlandet",
+              "headline": "Franske turister fikk erstatning etter skrekkulykke – men må møte i retten på nytt",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kjersti Bjørnstad blir Senterpartiets fylkesordførarkandidat til fylkesvalet i\nInnlandet neste år.",
-              "body": "KANDIDAT: Kjersti Bjørnstad er den nye ordførarkandidaten for Sp. No er ho\nvaraordførar i Gjøvik. Det blei klart da fylkeslaget torsdag presenterte laget\nsom skal sende partiet inn på fylkesordførarkontoret etter valet i 2027.\nSenterparitet gjer nå store endringar på laget som gjorde partiet til det\nneste største i fylket ved valet i fjor. Dei har valt Minde Storsnes frå\nEngerdal/Trysil på andreplass og Ola Tore Dokken frå Nordre Land på\ntredjeplass.",
-              "source": "NRK Norge, publisert 18.06 kl. 10:00"
+              "ingress": "Utbyggerne har betalt ut nesten en halv million kroner til fire franske\nturister som blåste på havet i Lofoten.",
+              "body": "KNUST TIL PINNEVED: Fire franske turister trodde de skulle dø da hytta blåste\npå havet i Lofoten. Nå har de fått dekket det økonomiske tapet, men nektes\noppreisning for tort og svie. En sen februarkveld i 2023 var turisthytta på Å\ni Moskenes leid ut til fire franske turister. De hadde lagt seg for kvelden da\net stormkast løftet hytta av fundamentet og feide både byggverket og turistene\npå havet. Til alt hell omkom ingen i ulykken, men to av turistene fikk til\ndels alvorlige skader. – Det er helt klart uaktsomt å plassere hyttene uten\nriktig sikring.",
+              "source": "NRK Norge, publisert 09.08 kl. 15:59"
             }
           ]
         },
@@ -72,12 +72,12 @@
           "lines": [
             {
               "id": "111-1",
-              "headline": "NRK-tomta i Trondheim solgt",
+              "headline": "Warholm la press på «ukjent» EM-håp: – Kynisk toppidrettstankegang",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Obos ønsker å bygge rundt 650 boliger på tomta.",
-              "body": "Obos, Swiss Life Asset Managers og Rebus Midt-Norge AS har inngått avtale om\nkjøp av NRK- eiendommen på Tyholt i Trondheim. Området er under omregulering\ntil boligformål og det er anslått at tomta har et potensial på 650 boliger.\nObos tar sikte på å starte salget av de første boligene om tre år. – Dette er\nen viktig avtale for vår videre satsing i Trondheim. Tyholt er et stabilt og\ngodt bomiljø, og vi ser et betydelig potensial for å skape et nytt og levende\nnabolag her, sier Marianne Gjertsen Ebbesen, konsernsjef i Obos.",
-              "source": "NRK Norge, publisert 18.06 kl. 07:50"
+              "ingress": "Karsten Warholm stiller ikke til EM-start i blandet stafett for moro skyld.",
+              "body": "NY PÅ ØVELSEN: Karsten Warholm skal løpe for tidenes første norske medalje på\n4x400 meter blandet stafett. – Jeg håper ikke at jeg har lagt et usunt press,\nsier Karsten Warholm. Mandag EM-åpner 30-åringen som en del av tidenes første\nnorske lag på EM-øvelsen 4x400 meter blandet stafett. Det har lenge vært\nusikkert hvilken herre som skulle løpe sammen med Warholm, Amalie Iuel og\nHenriette Jæger, men torsdag kom bekreftelsen på at andreetappen gikk til\nAndreas Ofstad Kulseng. En oppgave Warholm har sørget for at krever sitt.",
+              "source": "NRK Norge, publisert 09.08 kl. 11:34"
             }
           ]
         },
@@ -88,12 +88,12 @@
           "lines": [
             {
               "id": "112-1",
-              "headline": "Stavanger skal søke om å arrangere Noregs første offisielle curling-VM",
+              "headline": "Heidra Leah (16) med bil­kortesje: – Fortente ein siste køyretur",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Søknaden blir send etter at Kulturdepartementet torsdag morgon løyvde 3,3\nmillionar kroner i støtte til meisterskapen.",
-              "body": "CURLING: Martin Sesaker og Bendik Ramsfjell slo verdseinar Storbritannia 7–6\nunder OL i Cortina. Det blei likevel ikkje medalje under meisterskapen. Noreg\nhar tidlegare berre arrangert VM i mixed double, og denne tildelinga gjer at\nStavanger nå kan ta opp kampen om den gjæve herremeisterskapen. – Desse\npengane gir oss høve til å søke og å arrangere, seier Pål Trulsen til NRK. Han\ner generalsekretær og sportssjef i Noregs curlingforbund.",
-              "source": "NRK Norge, publisert 18.06 kl. 07:00"
+              "ingress": "16 år gamle Leah Grydeland omkom i ei alvorleg trafikkulykke i Molde tidlegare\ndenne veka.",
+              "body": "BILKORTESJE: Fleire hundre møtte opp for å minne Leah Grydeland (16). – Eg\nsynest markeringa blei fantastisk bra. Det kom overraskande mykje folk. Det\nvar ikkje planlagt så stort som det blei, men eg er ganske stolt over det vi\nhar fått til. Michael Valentin Bringslid-Kjezar (17) er av dei som har\narrangert bilkortesjen til minne for 16-år gamle Leah Grydeland som omkom i\ntrafikkulykka på Julsundvegen tidlegare denne veka. – Vi meinte at Leah\nfortente ein siste køyretur før vi lét ho gå. Det er vondt for oss alle, seier\nBringslid-Kjezar.",
+              "source": "NRK Norge, publisert 09.08 kl. 13:10"
             }
           ]
         },
@@ -104,12 +104,12 @@
           "lines": [
             {
               "id": "113-1",
-              "headline": "Mener sykehus brøt loven: Fant ulovlige spytthetter på psykiatrisk avdeling",
+              "headline": "Open for siste gong: – Trist",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pasienter ble liggende fastspent i opptil 38 timer uten at lovens krav ble\nfulgt, viser en ny rapport.",
-              "body": "Dette er ei belteseng ved en av akuttpostene ved Nordlandssykehuset i Bodø.\nher skal en ung pasient blitt lagt i belter 16 ganger på litt over to måneder.\nSivilombudet besøkte Akuttpsykiatrisk avdeling ved Nordlandssykehuset i Bodø i\nfebruar i år. Formålet var å undersøke beltelegging av pasienter på to\nakuttposter i løpet av det siste året. Undersøkelsen har avdekka flere\nkritikkverdige forhold, skriver Sivilombudet i sin rapport. – Et eksempel på\ndette er pasienten som ble beltelagt 16 ganger.",
-              "source": "NRK Norge, publisert 18.06 kl. 06:46"
+              "ingress": "POPULÆRT: Lågaros er ei populær turisthytte.",
+              "body": "Snart er det slutt. – Sjå, det er ein regnboge i regnet som går ned der borte.\nHyttevakt Siw Brekken nyt synet av stille vatn og grøn vidde. Sommaren har\nbydd på dei vakraste solnedgangane her. Turisthytta Lågaros er eit knutepunkt\npå Hardangervidda. Fire merka ruter går inn til denne folkekjære plassen, som\nfor mange er første etappe om ein tar turen frå Møsvatn og innover på vidda.",
+              "source": "NRK Norge, publisert 09.08 kl. 09:58"
             }
           ]
         },
@@ -120,12 +120,12 @@
           "lines": [
             {
               "id": "114-1",
-              "headline": "Kontrollerte matleveringsbransjen i Bergen – avdekka moglege lovbrot og sosial dumping",
+              "headline": "Kosepratuka",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kontrollar i Bergen styrker mistanken om alvorleg arbeidslivskriminalitet i\nmatleveringsbransjen.",
-              "body": "«HAR DU DET GREITT PÅ JOBB?» A-krimsenteret i Vestland under\nkartleggingsaksjonen i Bergen. Mange biler ble stoppet, NRK har ikke\ninformasjon om hvilke av bilene og sjåførene som ikke hadde papirene i orden.\n– Hei, vi er frå Arbeidstilsynet, og stiller deg ulike spørsmål for å forsikre\noss om at du har gode arbeidsforhold, seier Gro Marie Austdal og smiler. I\nregi av a-krimsenteret i Vestland blir det gjennomført ein to dagars aksjon på\nBontelabo i Bergen sentrum. Målet er å få ei oversikt over forholda i den app-\nbaserte matleveringsbransjen.",
-              "source": "NRK Norge, publisert 18.06 kl. 06:12"
+              "ingress": "Arendalsuka har blitt et sted for folk som ikke tåler uenighet.",
+              "body": "De kritiske spørsmålene filtreres bort, skriver kronikkforfatteren om\nArendalsuka. Bilde er fra et tidligere år. Jeg blir ikke å finne på\nArendalsuka i år. Jeg drar heller til fjells. Den norske Arendalsuka var\nopprinnelig en god idé. Inspirert av den svenske modellen skulle den være en\nmøteplass der politikere, næringsliv, akademia og sivilsamfunn kunne bryne\nargumenter MOT hverandre. I mange år fungerte det faktisk ganske godt, men\netter min mening har arrangementet gradvis utviklet seg til noe helt annet.",
+              "source": "NRK Norge, publisert 09.08 kl. 05:48"
             }
           ]
         },
@@ -136,12 +136,12 @@
           "lines": [
             {
               "id": "115-1",
-              "headline": "Industribedrift får bot på 18 millioner for miljøkriminalitet",
+              "headline": "Åpnet Nord-Norges første nasjonale turiststi – men ikke alle kom seg fram",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Økokrim mener industribedriften Fiven i Lillesand bevisst gjorde målinger av\nutslipp som ikke var representative for de faktiske utslippene.",
-              "body": "Økokrim har gitt et forelegg på 18 millioner kroner til en Sørlandsbedrift.\nIndustribedriften Fiven har hatt tillatelse til å slippe ut en rekke stoffer,\nblant annet miljøgiften benzo (a) pyren. Stoffet er kreftfremkallende,\narvestoffskadelig og reproduksjonsskadelig. Men nå får bedriften en bot på 18\nmillioner kroner for å ha sluppet ut mer enn det de hadde tillatelse til og\nfor å ha gitt feil opplysninger til Miljødirektoratet. – Økokrim vurderer\nsaken som alvorlig.",
-              "source": "NRK Norge, publisert 18.06 kl. 06:00"
+              "ingress": "To år etter autorisasjonen kunne Rødøyløva endelig feires med folkefest.",
+              "body": "Et skilt viser turgåerne retningen mot Rødøyløva, Nord-Norges første nasjonale\nturiststi. Utkledde løver og trommekorps gikk først da et eget løvetog beveget\nseg fra kaia på Rødøya til starten av turstien. Der ventet taler, sang og\nunderholdning før snora endelig kunne klippes. – Det er en liten lettelse,\nfaktisk, sier ordfører i Rødøy, Inger Monsen. Ordfører Inger Monsen mener et\nmer forutsigbart båt- og fergetilbud blir avgjørende dersom Rødøyløva skal\ntrekke flere besøkende.",
+              "source": "NRK Norge, publisert 09.08 kl. 08:00"
             }
           ]
         },
@@ -152,12 +152,12 @@
           "lines": [
             {
               "id": "116-1",
-              "headline": "Vil sette nok en havvindsatsing på pause",
+              "headline": "To pågrepet etter politi­aksjon - truet med våpen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Motbør fra Motvind og lokalsamfunn gjør at utbyggeren på Sørlige Nordsjø II\nber om utsettelse.",
-              "body": "Havvindprosjektet Sørlige Nordsjø II utenfor sørlandskysten kan, i likhet med\nUtsira nord, bli satt på pause. Her fra Jrea Nex bp sin havvindpark Arcadis\nOst utenfor kysten av Tyskland. Utbyggeren Ventyr har møtt en rekke uventede\nutfordringer i utviklingen og planleggingen av havvindprosjektet Sørlige\nNordsjø II er et havvindanlegg som etter planen skal bygges helt sør i\nNordsjøen, nær grensen til Danmark. Regjeringens mål er at den står ferdig i\n2030 og da vil gi strøm tilsvarende forbruket til cirka 600.000 husstander.",
-              "source": "NRK Norge, publisert 18.06 kl. 05:56"
+              "ingress": "To personer er pågrepet etter en politiaksjon på Ågerøya i Lillesand.",
+              "body": "De to skal ha truet en person med våpen og la på svøm da politiet kom til\nstedet. Politiet fikk melding klokken 08.00 om et pågående innbrudd i en hytte\npå Ågerøya i Lillesand. Mannen som meldte inn innbruddet til politiet skal ha\nblitt truet med et gevær. Til NRK forteller mannen som foretrekker å være\nanonym at han tok igjen tyvene i båt. – Jeg så en hvit båt med to personer om\nbord. Jeg tok dem igjen og prøve å stoppe dem, det var ikke noe sjakktrekk,\nsier mannen. Han forteller at han valgte å holde avstand til båten da han så\ngeværet.",
+              "source": "NRK Norge, publisert 09.08 kl. 07:50"
             }
           ]
         },
@@ -168,12 +168,12 @@
           "lines": [
             {
               "id": "117-1",
-              "headline": "Helena spiller i ny trollfilm",
+              "headline": "Frank og naboene frykter ulykker på grunn av «kø-snikere»",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "10-åringen kapra hovedrollen når hun debuterer som filmskuespiller i\nTrollegget.",
-              "body": "FILMSETT: Helena Horge-Trømborg har tilbrakt mange timer på filmsettet under\nproduksjonen av Trollegget. – Hun der setter en liten mikrofon i håret mitt.\nHelena Horge-Trømborg sitter i sminken og blir gjort klar til neste scene.\nMens ei dame fester mikrofonen, holder en sminkør på å ordne fregner i\nansiktet på 10-åringen. Hun danka ut 400 andre for å få hovedrollen i filmen\nTrollegget. Nå har hun, og resten av filmcrewet vært i Oppdal og filma de\nsiste ukene. – Det har vært ganske slitsomt, men også ganske gøy.",
-              "source": "NRK Norge, publisert 18.06 kl. 05:41"
+              "ingress": "For å unngå lange køer på E18 forbi Porsgrunn, velger mange å kjøre\nKorketrekkeren via Langangen sentrum.",
+              "body": "Frank Hansen er frustrert over all trafikken via Langangen i helgene. Han har\nveien tett inntil hagen sin. – Det er veldig tett. Det går lange køer, og det\ner konstant trafikk på fredager og søndager, forteller Frank Hansen. Han bor\nlangs veien mange bruker for å unnslippe køen på E18. Han er oppgitt over\nsjåførene som tror de sparer tid på å unngå europaveien. Veiarbeid i området\nskaper innsnevringer, og den smale lokalveien har rett og slett ikke\nkapasitet. – Det er fire lysreguleringer på veien, pluss omkjøringa under E18\nder oppe.",
+              "source": "NRK Norge, publisert 09.08 kl. 07:28"
             }
           ]
         },
@@ -184,12 +184,12 @@
           "lines": [
             {
               "id": "118-1",
-              "headline": "Svakere krone igjen: – Det går litt i feil retning, rett og slett",
+              "headline": "Utleigaren kravde 6000 kroner da Karianne flytta ut: – Heilt sinnssjukt",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kronen hadde en knallsterk start på året, men nå er den i ferd med å bli\nsvakere igjen.",
-              "body": "Sentralbanksjef Ida Wolden Bache vil torsdag avsløre om renten skal opp enda\nen gang før sommeren. Norges Bank hevet renten i mai for å bremse prisveksten\nsom i årevis har vært over målet på 2 prosent. De siste tallene for mai viser\nat prisveksten var 3,4 prosent, utenom avgifter og energivarer. – Det går litt\ni feil retning, rett og slett, sier sjeføkonom Kjersti Haugland i DNB\nCarnegie. Hun tror likevel Norges Bank holder renten uendret torsdag, i likhet\nmed Handelsbankens sjeføkonom Marius Gonsholt Hov.",
-              "source": "NRK Norge, publisert 18.06 kl. 03:14"
+              "ingress": "Talet på konfliktar i leigemarknaden har auka kraftig dei siste åra.",
+              "body": "KONFLIKT: Karianne Kongsparten hamna i konflikt med utleigaren. Det skulle ta\nover eit år før ho fekk depositumet sitt tilbake. – Eg fekk ingen bilete eller\nnoko. Eg fekk eigentleg berre beskjed om at eg måtte betale, fortel Karianne\nKongsparten. I juni i fjor vaska ho seg ut av studentbustaden i Trondheim og\nleverte nøklane. Ein og ein halv månad seinare kom kravet frå utleigaren. – Eg\nfekk ein utflyttingsprotokoll der det stod at eg måtte betale 6000 kroner for\nåtte timar med utvask. Kravet godtok ikkje Kongsparten.",
+              "source": "NRK Norge, publisert 09.08 kl. 06:24"
             }
           ]
         }
@@ -208,12 +208,12 @@
           "lines": [
             {
               "id": "120-1",
-              "headline": "Suppleringsvalg kan gi ny statsminister i Storbritannia",
+              "headline": "Amnesty: Iranske demonstranter henrettes i økende omfang",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "I dag skal noen tusen velgere i valgkretsen Makerfield i Nord-England velge én\npolitiker til parlamentet i Westminster.",
-              "body": "Louis vil bli kvitt Keir Starmer og stemmer på Andy Burnham i Makerfield for å\nfå ny statsminister. Louis vil bli kvitt Keir Starmer og stemmer på Andy\nBurnham i Makerfield for å få ny statsminister. En alvorlig mann med kort,\nmørkt hår og briller er å se overalt i småbyen Ashton-in-Makerfield. Tegningen\nav Manchesters ordfører Andy Burnham pryder folks vinduer, inngangspartier og\nogså en av byens mange nedstengte puber. I dag stemmer mange her på ham, for\nat han skal kunne bli Storbritannias nye statsminister.",
-              "source": "NRK Urix, publisert 18.06 kl. 09:24"
+              "ingress": "Antallet henrettelser i Iran har økt etter demonstrasjonene i vinter, ifølge\nAmnesty.",
+              "body": "SPIONASJE: Det iranske regimet tar i bruk spionasjelov i rettssaker mot\ndemonstranter, ifølge Amnesty Siden protestene mot det iranske regimet i\ndesember og januar har iranske myndigheter i økende omfang brukt henrettelse\nsom straff mot demonstranter, ifølge Amnesty . – Vi kan dokumentere at minst\n26 mennesker er henrettet i Iran i løpet av det første halvåret av 2026 i\nforbindelse med protestene i vinter. Og vi frykter at tallet er langt høyere.\nDet sier Sindre Stranden Tollefsen i Amnesty til NRK.",
+              "source": "NRK Urix, publisert 09.08 kl. 14:18"
             }
           ]
         },
@@ -224,12 +224,12 @@
           "lines": [
             {
               "id": "121-1",
-              "headline": "Massivt droneangrep mot Moskva: – Det største på to år",
+              "headline": "Tysk påtalemyndighet mener hensikten var at noe skulle eksplodere",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det russiske luftforsvaret skal ha skutt ned mer enn 190 droner på vei mot\nMoskva i løpet av åtte timer natt til torsdag, ifølge byens ordfører.",
-              "body": "Den russiske hovedstaden våknet i dag til et massivt droneangrep. Ifølge\nrussiske myndigheter skal det ha blitt skutt ned totalt 555 ukrainske droner\nrundt om i de russiske regionene, og over 190 av disse var på vei mot Moskva.\nDette skal være det største angrepet i Moskva-regionen på to år, ifølge det\nrussiske nyhetsbyrået Ria. Flere droner skal ha truffet et oljeraffineri\nsørøst i Moskva, opplyser Moskvas ordfører Sergej Sobjanin. – Luftvernstyrkene\nfortsetter arbeidet med å avverge angrepet, skrev Sobjanin.",
-              "source": "NRK Urix, publisert 18.06 kl. 08:16"
+              "ingress": "Situasjon der en drone lastet med sprengstoff ble oppdaget på en flyplass, bør\nogså bekymre Norge, mener førsteamanuensis ved Luftkrigsskolen.",
+              "body": "NRK TV NRK Radio NRK Super NRK P3 Yr Nyheter Sport Kultur Humor Distrikt Mer\nNyheter Nyhetssenter Norge Urix Debatten Kultur Nyttig Viten Dokumentar Ytring\nNRK Sápmi NRK Kvensk Sport Sportsnyheter Livesport Sendeplan Spill Quiz Former\nTvers Kula Distrikt Agder Akershus Buskerud Finnmark Innlandet Møre og Romsdal\nNordland Oslo Rogaland Telemark Troms Trøndelag Vestfold Vestland Østfold\nTemasider NRK Humor NRK Mat NRK Skole NRKbeta Ny i Norge Info Hjelp\nInformasjon Bærekraft Karriere Tysk påtalemyndighet mener hensikten var at noe\nskulle eksplodere",
+              "source": "NRK Urix, publisert 07.08 kl. 08:35"
             }
           ]
         },
@@ -240,12 +240,12 @@
           "lines": [
             {
               "id": "122-1",
-              "headline": "President Trump bekrefter at avtalen med Iran er signert",
+              "headline": "Thailand: Minst seks drept",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Både USAs president Donald Trump og Irans president Masoud Pezeshkian har\nsignert en historisk intensjonsavtale som tar sikte på en endelig fredsavtale.",
-              "body": "SIGNERT: USAs president Donald Trump bekreftet natt til torsdag at han hadde\nsignert intensjonsavtalen med Iran. USA og Iran signerte onsdag en elektronisk\nintensjonsavtale (MOU) om å avslutte krigen og gjenåpne Hormuzstredet. Avtalen\nhar nå trådt i kraft, melder det amerikanske nyhetsnettstedet Axios . USAs\npresident Donald Trump undertegnet avtalen under en middag med president\nEmmanuel Macron på slottet i Versailles i Frankrike, opplyste en\ntjenesteperson i Det hvite hus til Reuters.",
-              "source": "NRK Urix, publisert 17.06 kl. 22:42"
+              "ingress": "Minst sju personer er drept og 15 er såret i en skoleskyting i Thailand,\nopplyser politiet.",
+              "body": "Sju personer er drept etter at en elev åpnet ild på en skole nord for\nThailands hovedstad Bangkok fredag. Den antatte gjerningspersonen skal ha tatt\nsitt eget liv, sier politiet, ifølge BBC. En mann og en kvinne er funnet døde\ni hjemmet sitt. Politiet mener de er besteforeldrene til eleven, og at de ble\nskutt og drept før han gjennomførte skoleskytingen, melder Reuters. En lærer\nog flere elever er blant de drepte, sier Thailands utdanningsminister Prasert\nJantararuangtong til Reuters. Minst 15 personer er såret i angrepet.",
+              "source": "NRK Urix, publisert 07.08 kl. 04:11"
             }
           ]
         },
@@ -256,12 +256,12 @@
           "lines": [
             {
               "id": "123-1",
-              "headline": "Finske soldater trener på å skyte ned droner",
+              "headline": "Australia sliter med å håndheve sosiale medier-forbud",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "De mange dronene som har krenket europeisk luftrom den siste tiden har fått\nfinske soldater til å trene på nye måter.",
-              "body": "De finske reservist-soldatene retter blikket mot himmelen. For de siste ukene\nhar fremmede droner falt ned på finsk side av russergrensen.",
-              "source": "NRK Urix, publisert 17.06 kl. 20:04"
+              "ingress": "14 år gamle Evelyn forteller at det er enkelt å omgå forbudet.",
+              "body": "14 år gamle Evelyn skroller fortsatt på TikTok, selv om australske myndigheter\ninnførte et forbud for alle under 16 år. – Det er mange som ikke har blitt\nutestengt i det hele tatt, sier australske Evelyn til NRK. 14-åringen\nforteller om hva som skjedde da Australia innførte aldersgrense på sosiale\nmedier. I en periode mistet hun tilgang til Snapchat, men etter at hun skrev\ninn passordet sitt på nytt, fikk hun logget seg inn igjen. – Jeg har bare vært\nutestengt i kanskje en uke, sier Evelyn.",
+              "source": "NRK Urix, publisert 06.08 kl. 20:18"
             }
           ]
         },
@@ -272,12 +272,12 @@
           "lines": [
             {
               "id": "124-1",
-              "headline": "Khartoums dødelege familiepark blir rydda",
+              "headline": "Strandet i Ceuta: Barn må låne telefon for å ringe mamma",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Mange i Sudan har barndomsminne frå familieparken som under krigen er gjort om\ntil eit minefelt.",
-              "body": "Det høge graset rundt karusellane i Khartoums mest populære park kan skjule\ndødelege farar. Det er tidleg på morgonen, men mineryddarane er likevel snart\nferdige med første skift. For sola steiker såpass hardt i nakken at sjølv\nfullblods sudanarar må ta seg lang pause midt på dagen. Dei er kledde i blå\nvernedrakter og har eit tjukt pleksiglas hengande framfor ansiktet. Centimeter\nfor centimeter kryp dei seg framover på knea. Sjølv om arbeidet held på i\nskuggen er det likevel 44 varmegrader. Innanfor vernedrakta er det endå\nvarmare.",
-              "source": "NRK Urix, publisert 17.06 kl. 18:42"
+              "ingress": "STOPPET DEPORTASJON: En 12 år gammel gutt som hadde krysset grensen til Ceuta,\nblir ledet mot grensen av en spansk soldat.",
+              "body": "En 12 år gammel gutt gråter. Han føres mot den marokkanske grensa av spanske\nsoldater. Gutten trygler om å få bli. Få meter fra grenseovergangen, stopper\nen høyere offiser utsendingen. Lokale innbyggere har fortalt at han er\nmindreårig. Hendelsen ble filmet av nyhetsbyrået AP og har satt fokus på\nsituasjonen for de mindreårige migrantene som er igjen i Ceuta. Gutten blir så\ntatt hånd om av spanske myndigheter. Siden er det ikke kommet informasjon om\nhva som har skjedd med ham. Nyhetsbyrået AP filmet mens den 12 år gamle gutten\nble ledet mot grensen.",
+              "source": "NRK Urix, publisert 06.08 kl. 13:49"
             }
           ]
         },
@@ -288,12 +288,12 @@
           "lines": [
             {
               "id": "125-1",
-              "headline": "Fotballfeber i Erbil når Irak møter Norge: – En stor glede at Irak deltar",
+              "headline": "- De hadde med seg våpen, stein og brannbomber",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Det er høye forventninger i den kurdiske byen Erbil når Irak skal spille i VM\nfor første gang på 40 år.",
-              "body": "Innbyggerne gjør seg klare til fotballfest, og det vises fotball på hvert et\nhjørne i den kurdiske byen. Basarene er fylt opp med fotballdrakter fra alle\nmulige lag og i alle størrelser. Her kan både små og store finne seg en drakt\nmed sin fotballhelt på ryggen. Gutten NRK møtte i Erbil skal velge seg en\nfotballdrakt før Iraks første VM-kamp på 40 år. Med alle de forskjellige\nvalgene er det fint å få hjelp av kompisen Yad Bashar. Selgeren på basaren\ntror han hadde solgt flere Haaland-drakter dersom han hadde spilt for Real\nMadrid.",
-              "source": "NRK Urix, publisert 16.06 kl. 18:29"
+              "ingress": "NRKs team har vært i nabolaget utenfor Nablus som hundretalls israelske\nbosettere stormet.",
+              "body": "Så bryter helvete løs (function(){ //Inline to prevent flash of inccorect\nstyling var cover = document.querySelector('.article-feature__cover'); var\nmedia = cover.querySelector('.atlas,.gallery,.plugin,.sandbox,.video'); var\npicture = cover.querySelector('.picture'); if(media)cover.className+= ' has-\nmedia'; if(picture)cover.className+= ' has-picture'; })(); Volden har\neksplodert på okkuperte Vestbredden Publisert 05.08.2026, kl.",
+              "source": "NRK Urix, publisert 06.08 kl. 09:38"
             }
           ]
         },
@@ -304,12 +304,12 @@
           "lines": [
             {
               "id": "126-1",
-              "headline": "FBI: Avverget planlagt angrep mot Trump-arrangement",
+              "headline": "USA knytter Norge til pengesentral for terrorgruppa IS",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "FBI og Secret Service samarbeidet for å hindre et angrep på kampsport­stevnet\npå plenen ved Det hvite hus.",
-              "body": "FORNØYD: Tommel opp fra USAs president Donald Trump etter at kampene i\nsøndagens MMA-stevne var over. Her står han mellom kona Melania og UFC-sjef\nDana White. Turneringen i kampsporten «Mixed Martial Arts» (MMA) på plenen\nutenfor Det hvite hus på søndag, Trumps 80-årsdag, omtales som en suksess. Men\ntirsdag kunngjorde FBI-sjef Kash Patel at de bare fire dager før arrangementet\nhadde oppdaget planer om et alvorlig angrep. – 10.",
-              "source": "NRK Urix, publisert 16.06 kl. 18:01"
+              "ingress": "Bildet viser et medlem av terrorgruppa IS i den syriske byen Raqqa i juni\n2014, like etter at IS erklærte at de hadde opprettet et islamsk kalifat i\nSyria og Irak.",
+              "body": "NRK TV NRK Radio NRK Super NRK P3 Yr Nyheter Sport Kultur Humor Distrikt Mer\nNyheter Nyhetssenter Norge Urix Debatten Kultur Nyttig Viten Dokumentar Ytring\nNRK Sápmi NRK Kvensk Sport Sportsnyheter Livesport Sendeplan Spill Quiz Former\nTvers Kula Distrikt Agder Akershus Buskerud Finnmark Innlandet Møre og Romsdal\nNordland Oslo Rogaland Telemark Troms Trøndelag Vestfold Vestland Østfold\nTemasider NRK Humor NRK Mat NRK Skole NRKbeta Ny i Norge Info Hjelp\nInformasjon Bærekraft Karriere USA knytter Norge til pengesentral for\nterrorgruppa IS IS- tilhengere",
+              "source": "NRK Urix, publisert 06.08 kl. 09:31"
             }
           ]
         }
@@ -328,12 +328,12 @@
           "lines": [
             {
               "id": "130-1",
-              "headline": "Ny brigade i Finnmark får gamle stridsvogner",
+              "headline": "Tar vikingtiden tilbake fra Hollywood og høyreekstremister",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Norges nyeste brigade står på grensa til Russland, men utstyres med\nstridsvogner som ellers skiftes ut.",
-              "body": "Finnmarksbrigaden skal de neste årene ruste kraftig opp i det nordligste\nfylket. Forsvaret offentliggjør i dag sin Konseptvalgutredning (KVU) for\nstatlige prosjekter med antatt kostnad over én milliard kroner er et annet\neksempel hvor det kreves utredning i offentlig sektor. Her er kravet at det\nskal gjennomføres en faglig utredning av alternative måter («konsepter») å\nimøtekomme et behov på, før et eventuelt prosjekt blir igangsatt. Slike\nutredninger er spesielt aktuelle for veiutbygginger og større byggeprosjekter.",
-              "source": "NRK Troms og Finnmark, publisert 18.06 kl. 04:59"
+              "ingress": "Et steinkast fra Nordkapp har Tonje Lysfjord Sommerli sett seg lei på at den\nnorrøne kulturarven gjøres om til noe den aldri var.",
+              "body": "Tonje Lysfjord Sommerli mener Hollywood har tatt vikingtiden for langt. –\nPopulærkultur og høyreekstremisme er veldig glad i det norrøne og vikingtida,\nmen de forvrenger og bruker historien til sine egne formål, sier Tonje\nLysfjord Sommerli. Hun er utdannet lektor, jobber på Steinerskolen i Tromsø,\nog er en del av En frivillig organisasjon og et historielag i Tromsø \" data-\nterm=\"Straumeyjar Vikinglag\">Straumeyjar Vikinglag . Med en stor interesse for\nvikingtiden har hun denne helgen tatt turen til Gjesvær på Magerøya.",
+              "source": "NRK Troms og Finnmark, publisert 08.08 kl. 20:43"
             }
           ]
         },
@@ -344,12 +344,12 @@
           "lines": [
             {
               "id": "131-1",
-              "headline": "Mener langt flere dør av demens: – Riv ruskende galt",
+              "headline": "Støre vil samarbeide med unge fiskere: – Egentlig en fin historie",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Demenssykdommer er Norges tredje største dødsårsak, men kun halvparten av de\nsyke har en diagnose.",
-              "body": "Pårørende Kjerstin Haukland mener langt flere dør av sykdommen hennes mann\nhar, demens. Blant annet siden man mangler oversikt over hvor mange som har\nsykdommen i Norge. Det var de tre største dødsårssakene i Norge i 2025, ifølge\nDødsårsaksregisteret ved FHI. 5.313 døde av demenssykdom i fjor, ifølge\nregisterets foreløpige tall. Det reagerer flere demenssyke og pårørende på. –\nNoe er riv ruskende galt, sier Kjerstin Haukland, som er gift med demenssyke\nArnt Ryvold. – Det bor over 40.000 på sykehjem, og minst 80 % av dem har en\ndødelig demenssykdom.",
-              "source": "NRK Troms og Finnmark, publisert 18.06 kl. 03:37"
+              "ingress": "Den unge generasjonen fiskere ønsker seg forutsigbarhet, i et yrke preget av\nlave kvoter og høye avgifter.",
+              "body": "Støre fikk napp på kroken mens han besøkte unge fiskere på Senja. Samtidig tok\nde unge opp sine bekymringer om fremtida. Flere unge strømmer til med\nambisjoner om en jobb innen fiske. Samtidig runger det usikkerhet om\narbeidsplassenes fremtid, med lavere fiskekvoter og Trumps nye tollsatser.\nHvordan dette regnestykket skal gå opp i fremtiden, er blant spørsmålene under\nFolkefest på Husøy i Senja. Det er et møtested for debatter og seminarer for\nnæringsliv, sjømatnæringen og politikk. \" data- term=\"Husøydagan\">Husøydagan\npå Senja.",
+              "source": "NRK Troms og Finnmark, publisert 08.08 kl. 15:58"
             }
           ]
         },
@@ -360,12 +360,12 @@
           "lines": [
             {
               "id": "132-1",
-              "headline": "«All time high» for cruise­anløp i Tromsø",
+              "headline": "Vil halvere behandlingstiden for ny kraft: – Frykter å bli framstilt som bremsekloss",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "I høysesongen for cruiseturisme har det aldri før vært så mange anløp av skip\ni Tromsø.",
-              "body": "Det tyske cruiseskipet Aida Luna er ett av 220 cruiseanløp i Breivika havn i\når. Nysgjerrige cruiseturister kikker ned på havna i Breivika, i det den\nenorme flytende skyskraperen AIDA Luna klapper til kai i Tromsø. 2.050 sjeler\nom bord har muligheten til å spasere gjennom Tromsøs gater de neste 6 timene\nmens den ligger til kai, før de skal stevne videre sørover mot Leknes og\nLofoten. En massiv skipsfront som rommer 13 dekk innvendig, møter deg når Aida\nLuna klapper til kai.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 15:31"
+              "ingress": "Regjeringen vil få fart på utbyggingen av kraft og strømnett i Norge.",
+              "body": "Med kutt i byråkratiet skal det gå langt raskere å bygge ut nye kraftlinjer i\nNord-Norge. Oppsummeringen er laget av en KI-tjeneste fra OpenAI. Innholdet er\nkvalitetssikret av NRKs journalister før publisering. Regjeringen la fredag\nfram nye tiltak som skal halvere tiden det tar å bygge ut kraft og strømnett.\n– Når vi får raskere prosesser som helhet i behandlingen for kraft og nett,\nvil det også gå raskere i Finnmark, forteller stortingsrepresentant Sigurd\nKvammen Rafaelsen (Ap).",
+              "source": "NRK Troms og Finnmark, publisert 08.08 kl. 10:39"
             }
           ]
         },
@@ -376,60 +376,12 @@
           "lines": [
             {
               "id": "133-1",
-              "headline": "Frontkollisjon i Måsøy – tre sendt til sykehus",
+              "headline": "– Blir det krig, må vi også ha mat",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Vegen i Snefjord var stengt onsdag ettermiddag på grunn av ei bilulykke.",
-              "body": "Politiet meldte ved 17-tiden i dag om en front-mot-front-kollisjon mellom to\npersonbiler på fylkesvei 889, ca. 13 km fra Havøysund. – Det var til sammen\ntre personer i de to bilene. Samtlige er nå sendt til Hammerfest sykehus for\nvidere oppfølgning, opplyste operasjonsleder Tor Morten Noste til NRK onsdag\nkveld. To av de involverte var oppegående da hjelpemannskapene kom til stedet,\nmens en tredje person satt en stund fastklemt i bilen.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 15:12"
-            }
-          ]
-        },
-        {
-          "id": "134",
-          "number": "134",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "134-1",
-              "headline": "Abubacarr Sedi Kinteh solgt til Al-Ahli for rekordsum",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "19-åringen blir historiens dyreste salg for Tromsø IL.",
-              "body": "Tromsø ILs supertalent, Abubacarr Sedi Kinteh (19) melder overgang til den\nsaudiarabiske klubben Al-Ahli Saudi FC. – Jeg bekreftet at klubbene er enige,\nmen fortsatt er det et stykke igjen før det er en overgang, sier sportssjef\nLars Petter Kræmer-Andressen til NRK. iTromsø omtalte salget først. Tromsø og\nAl-Ahli er blitt enige om en overgangssum på om lag 70 millioner kroner for\nden unge spilleren fra Gambia. Kinteh kom til «Gutan» fra samarbeidsakademiet\nMawade Wade i begynnelsen av mars i fjor og har siden da gjort seg sterkt\nbemerket i Eliteserien.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 12:37"
-            }
-          ]
-        },
-        {
-          "id": "135",
-          "number": "135",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "135-1",
-              "headline": "Frykter ikke naboen i øst: – Kanskje vi er for naive i nord",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Rett over grensen til Pasvik pågår det en russisk opprustning.",
-              "body": "Lokalpolitiker Kurt Pasvikbamsen Wikan (Sp) mener at innbyggerne i\ngrensekommunen ikke har samme frykt for russisk aggresjon som innbyggerne\nlenger sør i landet. Han var en av deltakerne på folkemøtet i regi av\npolitiet, Jegerbataljonen GSV og Grensekommisariatet. Hvert år holdes det\nfolkemøte i Pasvik knyttet til den norsk-russiske grensen og nye\ngrenserelaterte problemstillinger. Hildonen frykter ikke Russland, selv om NRK\nhar omtalt at det rustes opp på andre siden av grensen. Han forteller at han\nukentlig krysser den russiske grensen.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 11:23"
-            }
-          ]
-        },
-        {
-          "id": "136",
-          "number": "136",
-          "title": "Lokal",
-          "lines": [
-            {
-              "id": "136-1",
-              "headline": "Advarer lokalbefolkningen etter reveangrep: – Mistanke om skabb",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "En person ble bitt av rev i Hammerfest på tirsdag.",
-              "body": "Det er i Rypefjord i Hammerfest kommune at to rever angrep en mann i 20-årene.\nHan ble bitt i den ene foten. – Bakgrunnen for advarselen er en hendelse der\nen person ble bitt av en rev. Politiet mistenker at reven kan ha vært syk, og\ndet er også mistanke om skabb. Skriver Hammerfest kommune i en pressemelding.\n– Vi arbeider nå med å få oversikt over situasjonen i området. Dette gjør vi i\nsamarbeid med politiet og relevante fagmyndigheter.",
-              "source": "NRK Troms og Finnmark, publisert 17.06 kl. 11:19"
+              "ingress": "I havgapet utenfor Andøya kjemper kystfiskere mot Nato-styrker og\nrakettoppskytinger om plassen.",
+              "body": "– Det vi ønsker oss, det er en helhetlig planlegging av Andøy-samfunnet, der\nfiskerne får være med og delta i å lage løsningene, sier jurist og rådgiver i\nNord Fiskarlag, Øyvind Arntzen. På kaikanten på Andenes står Øyvind Arntzen i\nNord Fiskarlag og peker ut over havet der det fiskes for 1,5 milliarder kroner\ni året. – Der ute ligger et av de viktigste fiskefeltene i Nord- Atlanteren.\nMen i akkurat samme område skal det skytes opp forskingsraketter og øves på\nkrig med forsvarets allierte i Nato.",
+              "source": "NRK Troms og Finnmark, publisert 08.08 kl. 06:31"
             }
           ]
         }
@@ -448,12 +400,12 @@
           "lines": [
             {
               "id": "200-1",
-              "headline": "16-åring solgt til Porto",
+              "headline": "Avslører sykdomstrøbbel før EM: – Setter andre ting på vent",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Fredrikstad skal være enig med den portugisiske storklubben Porto om en\novergang for stortalentet Eirik Julius Granaas (16).",
-              "body": "Det melder TV 2 og portugisiske Foot Mercato. Fredrikstad FK ønsker ikke å\nkommentere påstandene om at Granaas selges. Ifølge TV 2 kan overgangen være\nverdt mellom 40 og 50 millioner kroner for østfoldklubben.",
-              "source": "NRK Sport, publisert 18.06 kl. 10:13"
+              "ingress": "Kort nyhetsmelding fra kilden.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "NRK Sport, publisert 09.08 kl. 15:44"
             }
           ]
         },
@@ -464,12 +416,12 @@
           "lines": [
             {
               "id": "201-1",
-              "headline": "«Alle» brukar denne fargen i VM: – Føler seg betre",
+              "headline": "Hoppstjernen Anna Odine Strøm falt i Courchevel – måtte sys",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Kvart store meisterskap har sin eigen mote, og i fotball-VM er det éin\nspesiell farge som gjeld.",
-              "body": "Ekspert meiner det ikkje er tilfeldig.",
-              "source": "NRK Sport, publisert 18.06 kl. 09:59"
+              "ingress": "OL-mester Anna Odine Strøm slapp unna alvorlige skader, men måtte sy tre sting\ni albuen etter et fall i et hopprenn i Frankrike.",
+              "body": "Dressen er ødelagt, og Anna står over 2. omgang. Vi tar ingen risiko på\nsommerstid.",
+              "source": "NRK Sport, publisert 09.08 kl. 15:43"
             }
           ]
         },
@@ -480,12 +432,12 @@
           "lines": [
             {
               "id": "202-1",
-              "headline": "Sørafrikaner fikk tre kampers suspensjon – trolig ferdigspilt i VM",
+              "headline": "Ny Rosenborg-seier etter sjansedrama",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Zwane ble utvist i det 84.",
-              "body": "minuttet av kampen som Mexico vant 2-0. Han slengte ut armen mot ansiktet til\nMexicos Roberto Alvarado i det han var i ferd med å passere ham, og dommer\nWilton Sampaio var ikke i tvil etter å ha sett situasjonen i reprise.\nAvgjørelsen er rødt kort, sa dommeren i sin mikrofon.",
-              "source": "NRK Sport, publisert 18.06 kl. 09:49"
+              "ingress": "I et svært sjanserikt oppgjør var det Rosenborg som til slutt kunne juble for\ntre poeng borte mot Lillestrøm.",
+              "body": "Det endte til slutt med en 2-0-seier for trønderne på Åråsen. Det varmer mitt\nhjerte. Det er ikke så lenge siden vi ikke vant på bortebane og slet med å\nscore mål, sier RBK-trener Freyr Alexandersson til TV2.",
+              "source": "NRK Sport, publisert 09.08 kl. 14:26"
             }
           ]
         },
@@ -496,12 +448,12 @@
           "lines": [
             {
               "id": "203-1",
-              "headline": "Real Madrid signerer Liverpool-midtstopper",
+              "headline": "Ødegaard tilbake for Arsenal – byttet ut etter en halvtime",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Den franske midtstopperen Ibrahima Konaté (27) fortsetter karrieren i Real\nMadrid etter fem sesonger i Liverpool.",
-              "body": "Det opplyser Real Madrid på eget nettsted torsdag. Overgangen har vært ryktet\ni lang tid. Konaté har undertegnet en fireårskontrakt med sin nye klubb.",
-              "source": "NRK Sport, publisert 18.06 kl. 09:23"
+              "ingress": "Martin Ødegaard fikk 30 minutter på banen i sin første Arsenal-kamp etter\nsommerferien.",
+              "body": "Borussia Dortmund vant 3–2 i London. Sky Sports melder at det var et planlagt\nbytte. Ødegaard kom nylig tilbake fra ferie etter VM-eventyret.",
+              "source": "NRK Sport, publisert 09.08 kl. 13:52"
             }
           ]
         },
@@ -512,12 +464,12 @@
           "lines": [
             {
               "id": "204-1",
-              "headline": "Fire mesterskap i Norge får millionstøtte fra regjeringen",
+              "headline": "Høgh-sjokk i Skottland – hat trick før pause",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Regjeringen gir i alt 8,85 millioner kroner til fem internasjonale\nidrettsmesterskap på norsk jord de neste to årene.",
-              "body": "Det opplyser Kultur- og likestillingsdepartementet i en pressemelding.\nAllerede fra 28. juni er det VM-runde i seilflyging på Starmoen i Elverum.",
-              "source": "NRK Sport, publisert 18.06 kl. 07:58"
+              "ingress": "Kasper Høgh scoret tre mål allerede etter en drøy halvtime i Celtics kamp mot\nKilmarnock.",
+              "body": "Dansken gjorde nylig overgang fra Bodø/Glimt til den skotske storklubben og\nspilte sin andre kamp for Celtic søndag. Etter at han i debuten bommet på\nflere store sjanser, slo han hardt tilbake i bortekampen mot Kilmarnock. Det\ntok bare et minutt før han fra kloss hold stanget Celtic i føringen.",
+              "source": "NRK Sport, publisert 09.08 kl. 13:26"
             }
           ]
         },
@@ -528,12 +480,12 @@
           "lines": [
             {
               "id": "205-1",
-              "headline": "Stavanger skal søke om å arrangere Noregs første offisielle curling-VM",
+              "headline": "Solbakken og assistenten får hyllest i hjembygda",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Søknaden blir send etter at Kulturdepartementet torsdag morgon løyvde 3,3\nmillionar kroner i støtte til meisterskapen.",
-              "body": "Fire andre idrettsforbund for også støtte til å søke om meisterskap i Noreg.",
-              "source": "NRK Sport, publisert 18.06 kl. 07:00"
+              "ingress": "Ståle Solbakken og Kent Bergersen skal hedres av Grue kommune og Grue IL for\nsitt arbeid med det norske VM-laget.",
+              "body": "Det kommer fram i en pressemelding. Hedringen skal finne sted 20. august.",
+              "source": "NRK Sport, publisert 09.08 kl. 13:23"
             }
           ]
         },
@@ -544,12 +496,12 @@
           "lines": [
             {
               "id": "206-1",
-              "headline": "Tidligere OL-medaljevinner kollapset på friidrettsbanen",
+              "headline": "Anders Mol og Christian Sørum finaleklare i Hamburg etter thriller",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "OL-medaljevinneren og den tidligere verdensmesteren Jenny Simpson (39) måtte\nha livreddende førstehjelp da hun kollapset i et lokalt banestevne og ble\nsendt på sykehus.",
-              "body": "Simpson var med i et løp på en engelsk mil i Raleigh i North Carolina da hun\nfalt om. Simpson ble verdensmester på 1500 meter i 2011, og i OL i Rio de\nJaneiro i 2016 tok hun bronse på samme distanse. Hun tok også sølv på 1500\nmeter i VM i 2013 og 2017.",
-              "source": "NRK Sport, publisert 18.06 kl. 06:33"
+              "ingress": "Anders Mol og Christian Sørum slet innledningsvis, men en sterk snuoperasjon\nsørget for finaleplass i Hamburg.",
+              "body": "Semifinalen mot nederlenderne Steven van de Velde og Yorick de Groot ble\nvunnet med settsifrene 16-21, 24-22, 19–17. Mol og Sørum tok dermed sin femte\nstrake seier så langt i årets utgave av verdenstourturneringen i\nsandvolleyball. Mol og Sørum måtte se Van de Velde og De Groot starte sterkt.",
+              "source": "NRK Sport, publisert 09.08 kl. 12:34"
             }
           ]
         },
@@ -560,12 +512,12 @@
           "lines": [
             {
               "id": "207-1",
-              "headline": "Vill jubel etter scoring åtte minutter på overtid",
+              "headline": "Norsk stafettseier i verdenscupen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Colombia fikk en drømmestart på VM med 3–1 over Usbekistan.",
-              "body": "3-1-scoringen kom etter 98 minutter, og da ble det full jubel for hele det\ncolombianske laget. Søramerikanerne var store favoritter, og tok ledelsen rett\nfør pause etter scoring av Daniel Muñoz. Etter hvilen utnyttet Usbekistan en\nskrekkelig involvering av Colombias keeper, og talentet Abbosbek Fayzullaev\nsørget for elleville usbekiske jubelscener på arenaen i Mexico by.",
-              "source": "NRK Sport, publisert 18.06 kl. 04:01"
+              "ingress": "De norske kvinnene knuste konkurrentene under verdenscupen i orientering i\nTsjekkia.",
+              "body": "Norge stilte med to lag i kvinneklassen, der førstelaget løp inn nesten to\nminutter før vertsnasjonen Tsjekkia på andreplass og Sverige på tredjeplass.\nDet norske vinnerlaget bestod av Victoria Haestad Bjornstad, Marie Olaussen og\nPia Young Vik. Norges andrelag havnet til slutt på 9.",
+              "source": "NRK Sport, publisert 09.08 kl. 11:35"
             }
           ]
         },
@@ -576,12 +528,12 @@
           "lines": [
             {
               "id": "230-1",
-              "headline": "Går gratis til Championship-klubb",
+              "headline": "Denne duoen blir nøkkelen til suksess for Liverpool",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Carter Pinnington fortsetter karrieren i West Bromwich.",
+              "ingress": "Liverpool må sette sin lit til at rekordkjøpene fyrer på alle sylindre for å\nlykkes i den kommende sesongen.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 12:09"
+              "source": "Liverpool.no, publisert 09.08 kl. 17:30"
             }
           ]
         },
@@ -592,12 +544,12 @@
           "lines": [
             {
               "id": "231-1",
-              "headline": "Slik sikrer du deg Liverpool-turen når terminlisten slippes",
+              "headline": "Her er laget som starter mot Monaco",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "I morgen kl.",
-              "body": "11.00 kommer terminlisten for Premier League 2026/27. Kort tid etter åpner\nVing salget av pakkereiser til Anfield. Alle som kjøper tur i juni, er\ngarantert samme pris som forrige sesong.",
-              "source": "Liverpool.no, publisert 18.06 kl. 11:57"
+              "ingress": "Andoni Iraola stiller med et sterkt lag på Anfield.",
+              "body": "Flere detaljer kommer når kilden oppdateres.",
+              "source": "Liverpool.no, publisert 09.08 kl. 14:18"
             }
           ]
         },
@@ -608,44 +560,12 @@
           "lines": [
             {
               "id": "232-1",
-              "headline": "Bekreftet: Konaté til Real Madrid",
+              "headline": "Flick bekrefter at Araujo skal til Liverpool",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Real Madrid har bekreftet signeringen av Ibrahima Konaté",
+              "ingress": "Barcelona-manageren har sagt farvel til sin kaptein.",
               "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 11:23"
-            }
-          ]
-        },
-        {
-          "id": "233",
-          "number": "233",
-          "title": "Liverpool",
-          "lines": [
-            {
-              "id": "233-1",
-              "headline": "Kjører eget opplegg for Isak under VM",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Liverpool-spissen trente for seg selv onsdag.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 10:30"
-            }
-          ]
-        },
-        {
-          "id": "234",
-          "number": "234",
-          "title": "Liverpool",
-          "lines": [
-            {
-              "id": "234-1",
-              "headline": "Det eneste som mangler er den offisielle bekreftelsen",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Victor Munoz har bestått den medisinske sjekken og signert kontrakten med\nLiverpool FC.",
-              "body": "Flere detaljer kommer når kilden oppdateres.",
-              "source": "Liverpool.no, publisert 18.06 kl. 09:20"
+              "source": "Liverpool.no, publisert 09.08 kl. 12:28"
             }
           ]
         }
@@ -668,7 +588,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 1",
-              "body": "15.08 21:00  Liverpool vs Bournemouth\n16.08 13:30  Aston Villa vs Newcastle United\n16.08 16:00  Brighton and Hove Albion vs Fulham\n16.08 16:00  Sunderland vs West Ham United\n16.08 16:00  Tottenham Hotspur vs Burnley\n16.08 18:30  Wolverhampton Wanderers vs Manchester City\n17.08 15:00  Chelsea vs Crystal Palace\n17.08 15:00  Nottingham Forest vs Brentford\n17.08 17:30  Manchester United vs Arsenal\n18.08 21:00  Leeds United vs Everton",
+              "body": "21.08 21:00  Arsenal vs Coventry City\n22.08 13:30  Hull City vs Manchester United\n22.08 16:00  Everton vs Crystal Palace\n22.08 16:00  Ipswich Town vs Sunderland\n22.08 16:00  Nottingham Forest vs Leeds United\n22.08 18:30  Brentford vs Tottenham Hotspur\n23.08 15:00  Brighton and Hove Albion vs Aston Villa\n23.08 15:00  Manchester City vs Bournemouth\n23.08 17:30  Newcastle United vs Liverpool\n24.08 21:00  Fulham vs Chelsea",
               "source": "TheSportsDB"
             }
           ]
@@ -676,31 +596,31 @@
         {
           "id": "211",
           "number": "211",
-          "title": "Engelsk: FA-cup 1/2",
+          "title": "Engelsk: FA-cup",
           "lines": [
             {
-              "id": "engelsk-fa-cup-1-2",
-              "headline": "Engelsk: FA-cup 1/2",
+              "id": "fa-cupen",
+              "headline": "FA-cupen",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Runde 400",
-              "body": "01.08 20:45  Bootle vs 1874 Northwich\n01.08 20:45  Enfield vs Wormley Rovers\n01.08 20:45  Pickering Town vs Penrith\n01.08 20:45  Roman Glass St George vs Nailsea and Tickenham\n01.08 20:45  Stone Old Alleynians vs Sutton Coldfield Town\n01.08 21:00  Belper United vs Uttoxeter Town\n01.08 21:00  Wokingham Town vs Brislington\n02.08 13:00  Hamworthy Recreation vs Hartley Wintney",
-              "source": "TheSportsDB"
+              "ingress": "Kampprogram kunne ikke hentes akkurat nå.",
+              "body": "Denne siden fylles automatisk når sportskilden svarer.",
+              "source": "Generator"
             }
           ]
         },
         {
           "id": "212",
           "number": "212",
-          "title": "Engelsk: FA-cup 2/2",
+          "title": "Engelsk: Ligacup 1/5",
           "lines": [
             {
-              "id": "engelsk-fa-cup-2-2",
-              "headline": "Engelsk: FA-cup 2/2",
+              "id": "engelsk-ligacup-1-5",
+              "headline": "Engelsk: Ligacup 1/5",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Runde 400",
-              "body": "02.08 15:00  Guernsey vs Bedfont Sports\n02.08 16:00  Eastbourne Town vs Ashford Town Middlesex\n02.08 16:00  Edgware Town vs British Airways\n02.08 16:00  Ipswich Wanderers vs Lakenheath\n02.08 16:00  Lydney Town vs Royal Wootton Bassett Town\n02.08 16:00  South Park vs Newhaven\n02.08 16:00  Worcester Raiders vs Ashby Ivanhoe",
+              "ingress": "Runde 128",
+              "body": "06.08 20:45  Bristol City vs Walsall\n07.08 20:45  Wolverhampton Wanderers vs Port Vale\n07.08 20:45  Wycombe Wanderers vs Stevenage\n07.08 21:00  Middlesbrough vs Wrexham\n08.08 14:00  Cambridge United vs Barnet\n08.08 15:00  Queens Park Rangers vs Millwall\n08.08 16:00  AFC Wimbledon vs Newport County\n08.08 16:00  Barnsley vs Wigan Athletic",
               "source": "TheSportsDB"
             }
           ]
@@ -708,15 +628,15 @@
         {
           "id": "213",
           "number": "213",
-          "title": "Engelsk: Ligacup",
+          "title": "Engelsk: Ligacup 2/5",
           "lines": [
             {
-              "id": "engelsk-ligacup",
-              "headline": "Engelsk: Ligacup",
+              "id": "engelsk-ligacup-2-5",
+              "headline": "Engelsk: Ligacup 2/5",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Runde 400",
-              "body": "29.07 20:30  Barnet vs Newport County\n05.08 20:45  Accrington Stanley vs Oldham Athletic",
+              "ingress": "Runde 128",
+              "body": "08.08 16:00  Bradford City vs Rochdale\n08.08 16:00  Bristol Rovers vs Peterborough United\n08.08 16:00  Bromley vs Reading\n08.08 16:00  Burnley vs Notts County\n08.08 16:00  Burton Albion vs Blackburn Rovers\n08.08 16:00  Cardiff City vs Swindon Town\n08.08 16:00  Crewe Alexandra vs Accrington Stanley\n08.08 16:00  Derby County vs Lincoln City",
               "source": "TheSportsDB"
             }
           ]
@@ -724,15 +644,15 @@
         {
           "id": "214",
           "number": "214",
-          "title": "Norsk: Eliteserien",
+          "title": "Engelsk: Ligacup 3/5",
           "lines": [
             {
-              "id": "norsk-eliteserien",
-              "headline": "Norsk: Eliteserien",
+              "id": "engelsk-ligacup-3-5",
+              "headline": "Engelsk: Ligacup 3/5",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Runde 13",
-              "body": "11.07 14:00  Fredrikstad vs Lillestrøm\n11.07 16:00  Aalesund vs Molde\n11.07 18:00  Tromsø vs Vålerenga\n12.07 14:30  KFUM-Kameratene Oslo vs Bodø/Glimt\n12.07 17:00  Brann vs Start\n12.07 17:00  Rosenborg vs Kristiansund\n12.07 17:00  Sandefjord vs Hamarkameratene\n12.07 19:15  Sarpsborg 08 vs Viking",
+              "ingress": "Runde 128",
+              "body": "08.08 16:00  Fleetwood Town vs Chesterfield\n08.08 16:00  Gillingham vs Luton Town\n08.08 16:00  Grimsby Town vs Blackpool\n08.08 16:00  Leicester City vs Northampton Town\n08.08 16:00  Leyton Orient vs Oxford United\n08.08 16:00  Norwich City vs Milton Keynes Dons\n08.08 16:00  Preston North End vs Huddersfield Town\n08.08 16:00  Salford City vs Shrewsbury Town",
               "source": "TheSportsDB"
             }
           ]
@@ -740,6 +660,54 @@
         {
           "id": "215",
           "number": "215",
+          "title": "Engelsk: Ligacup 4/5",
+          "lines": [
+            {
+              "id": "engelsk-ligacup-4-5",
+              "headline": "Engelsk: Ligacup 4/5",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 128",
+              "body": "08.08 16:00  Sheffield Wednesday vs Bolton Wanderers\n08.08 16:00  Stockport County vs Doncaster Rovers\n08.08 16:00  Stoke City vs Oldham Athletic\n08.08 16:00  Swansea City vs Birmingham City\n08.08 16:00  Watford vs Crawley Town\n08.08 16:00  West Ham United vs Portsmouth\n08.08 18:30  Cheltenham Town vs Charlton Athletic\n08.08 18:30  Colchester United vs Southampton",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "216",
+          "number": "216",
+          "title": "Engelsk: Ligacup 5/5",
+          "lines": [
+            {
+              "id": "engelsk-ligacup-5-5",
+              "headline": "Engelsk: Ligacup 5/5",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 128",
+              "body": "08.08 18:30  Rotherham United vs West Bromwich Albion\n09.08 17:00  Mansfield Town vs Sheffield United\n10.08 21:00  Plymouth Argyle vs Exeter City",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "217",
+          "number": "217",
+          "title": "Norsk: Eliteserien",
+          "lines": [
+            {
+              "id": "norsk-eliteserien",
+              "headline": "Norsk: Eliteserien",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 17",
+              "body": "29.04 19:00  Tromsø vs Brann\n07.08 19:00  Sandefjord vs KFUM-Kameratene Oslo\n08.08 14:00  Vålerenga vs Bodø/Glimt\n08.08 16:00  Viking vs Sarpsborg 08\n08.08 18:00  Start vs Fredrikstad\n09.08 14:30  Lillestrøm vs Rosenborg\n09.08 17:00  Hamarkameratene vs Aalesund\n09.08 19:15  Kristiansund vs Molde",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "218",
+          "number": "218",
           "title": "Europa: Champions League 1/7",
           "lines": [
             {
@@ -748,14 +716,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "08.07 17:00  KuPS vs Milsami Orhei\n08.07 18:00  Iberia 1999 vs Malmö\n08.07 18:00  Noah vs Budućnost Podgorica\n08.07 18:30  Levadia Tallinn vs RFS\n08.07 19:00  Olimpija Ljubljana vs Kairat Almaty\n08.07 20:00  Drita vs Differdange 03\n08.07 20:00  The New Saints vs Shkëndija\n08.07 20:00  Víkingur Gøta vs Lincoln Red Imps",
+              "body": "07.07 18:00  Ararat-Armenia vs Riga FC\n07.07 18:00  Kauno Žalgiris vs Drita\n07.07 18:00  Lincoln Red Imps vs Inter Club d'Escaldes\n07.07 18:00  Sabah Baku vs The New Saints\n07.07 19:00  Vardar vs KuPS\n07.07 19:30  Floriana vs Shamrock Rovers\n07.07 20:30  Borac Banja Luka vs Levski Sofia\n07.07 20:30  Tre Fiori vs Larne",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "216",
-          "number": "216",
+          "id": "219",
+          "number": "219",
           "title": "Europa: Champions League 2/7",
           "lines": [
             {
@@ -764,14 +732,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "08.07 21:00  Egnatia vs Breiðablik\n08.07 21:00  Virtus vs Zrinjski Mostar\n09.07 18:00  Žalgiris Vilnius vs Ħamrun Spartans\n09.07 19:30  FCSB vs Inter Club d'Escaldes\n09.07 19:30  Ludogorets Razgrad vs Dinamo Minsk\n09.07 20:45  Shelbourne vs Linfield\n15.07 17:00  Kairat Almaty vs Olimpija Ljubljana\n15.07 17:30  Lincoln Red Imps vs Víkingur Gøta",
+              "body": "07.07 20:45  KÍ Klaksvík vs Atert Bissen\n07.07 21:00  Víkingur Reykjavík vs Győri ETO\n08.07 17:00  Kairat Almaty vs Sutjeska\n08.07 18:00  Flora Tallinn vs Iberia 1999\n08.07 19:00  Maxline Vitebsk vs Universitatea Craiova\n08.07 19:00  Petrocub Hîncești vs Egnatia\n14.07 17:00  KuPS vs Vardar\n14.07 18:00  Iberia 1999 vs Flora Tallinn",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "217",
-          "number": "217",
+          "id": "220",
+          "number": "220",
           "title": "Europa: Champions League 3/7",
           "lines": [
             {
@@ -780,14 +748,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "15.07 19:00  Malmö vs Iberia 1999\n15.07 19:00  Milsami Orhei vs KuPS\n15.07 19:00  RFS vs Levadia Tallinn\n15.07 19:00  Ħamrun Spartans vs Žalgiris Vilnius\n15.07 20:00  Differdange 03 vs Drita\n15.07 20:00  Shkëndija vs The New Saints\n15.07 20:30  Inter Club d'Escaldes vs FCSB\n15.07 21:00  Breiðablik vs Egnatia",
+              "body": "14.07 18:00  Inter Club d'Escaldes vs Lincoln Red Imps\n14.07 19:00  Győri ETO vs Víkingur Reykjavík\n14.07 19:00  Riga FC vs Ararat-Armenia\n14.07 19:30  Levski Sofia vs Borac Banja Luka\n14.07 19:30  The New Saints vs Sabah Baku\n14.07 20:00  Drita vs Kauno Žalgiris\n14.07 21:00  Larne vs Tre Fiori\n14.07 21:00  Shamrock Rovers vs Floriana",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "218",
-          "number": "218",
+          "id": "221",
+          "number": "221",
           "title": "Europa: Champions League 4/7",
           "lines": [
             {
@@ -796,14 +764,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "15.07 21:00  Budućnost Podgorica vs Noah\n15.07 21:00  Zrinjski Mostar vs Virtus\n16.07 20:45  Dinamo Minsk vs Ludogorets Razgrad\n16.07 20:45  Linfield vs Shelbourne\n22.07 17:00  KuPS vs Kairat Almaty\n22.07 18:00  Lincoln Red Imps vs Crvena Zvezda\n22.07 18:00  Noah vs Ferencváros\n22.07 19:00  FC Copenhagen vs Drita",
+              "body": "15.07 19:30  Universitatea Craiova vs Maxline Vitebsk\n15.07 20:15  Atert Bissen vs KÍ Klaksvík\n15.07 21:00  Egnatia vs Petrocub Hîncești\n15.07 21:00  Sutjeska vs Kairat Almaty\n21.07 18:00  Ararat-Armenia vs Shamrock Rovers\n21.07 18:00  Iberia 1999 vs Slovan Bratislava\n21.07 18:00  Mjällby vs Lincoln Red Imps\n21.07 18:00  Sabah Baku vs KuPS",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "219",
-          "number": "219",
+          "id": "222",
+          "number": "222",
           "title": "Europa: Champions League 5/7",
           "lines": [
             {
@@ -812,14 +780,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "22.07 19:00  Pafos vs Maccabi Tel Aviv\n22.07 19:00  RFS vs Malmö\n22.07 19:00  Viktoria Plzeň vs Servette\n22.07 19:00  Ħamrun Spartans vs Dynamo Kyiv\n22.07 20:00  Shkëndija vs FCSB\n22.07 20:15  Slovan Bratislava vs Zrinjski Mostar\n22.07 20:30  Lech Poznań vs Breiðablik\n22.07 20:45  Rangers vs Panathinaikos",
+              "body": "21.07 19:00  AGF Aarhus vs Lech Poznań\n21.07 20:00  Fenerbahçe vs Górnik Zabrze\n21.07 20:00  Thun vs Dinamo Zagreb\n21.07 20:30  Sturm Graz vs Heart of Midlothian\n21.07 20:45  KÍ Klaksvík vs Kauno Žalgiris\n21.07 21:00  Larne vs Crvena Zvezda\n21.07 21:00  Víkingur Reykjavík vs Hapoel Be'er Sheva\n22.07 19:00  Omonia Nicosia vs Kairat Almaty",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "220",
-          "number": "220",
+          "id": "223",
+          "number": "223",
           "title": "Europa: Champions League 6/7",
           "lines": [
             {
@@ -828,14 +796,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "22.07 20:45  Rijeka vs Ludogorets Razgrad\n23.07 19:00  Brann vs Red Bull Salzburg\n23.07 20:45  Shelbourne vs Qarabağ\n29.07 17:00  Kairat Almaty vs KuPS\n29.07 20:00  Drita vs FC Copenhagen\n29.07 20:00  Dynamo Kyiv vs Ħamrun Spartans\n29.07 21:00  Crvena Zvezda vs Lincoln Red Imps\n29.07 21:00  Zrinjski Mostar vs Slovan Bratislava",
+              "body": "22.07 19:30  Levski Sofia vs Universitatea Craiova\n22.07 21:00  Egnatia vs Celje\n28.07 17:00  KuPS vs Sabah Baku\n28.07 18:00  Lincoln Red Imps vs Mjällby\n28.07 20:00  Dinamo Zagreb vs Thun\n28.07 20:15  Celje vs Egnatia\n28.07 20:45  Heart of Midlothian vs Sturm Graz\n28.07 21:00  Shamrock Rovers vs Ararat-Armenia",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "221",
-          "number": "221",
+          "id": "224",
+          "number": "224",
           "title": "Europa: Champions League 7/7",
           "lines": [
             {
@@ -844,14 +812,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "30.07 20:00  Maccabi Tel Aviv vs Pafos\n30.07 20:00  Panathinaikos vs Rangers",
+              "body": "29.07 19:00  Lech Poznań vs AGF Aarhus\n29.07 20:00  Górnik Zabrze vs Fenerbahçe",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "222",
-          "number": "222",
+          "id": "225",
+          "number": "225",
           "title": "Europa: Europa League 1/7",
           "lines": [
             {
@@ -860,14 +828,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "10.07 18:00  Sabah Baku vs Celje\n10.07 18:30  AEK Larnaca vs Partizan Belgrade\n10.07 19:00  Paks vs CFR Cluj\n10.07 19:00  Sheriff Tiraspol vs Prishtina\n10.07 19:30  Levski Sofia vs Hapoel Be'er Sheva\n10.07 20:00  Shakhtar Donetsk vs Ilves\n10.07 20:15  Spartak Trnava vs Hacken\n10.07 21:00  Legia Warsaw vs Aktobe",
+              "body": "09.07 18:00  Qarabağ vs Vestri\n09.07 19:00  Dynamo Kyiv vs Universitatea Cluj\n09.07 19:00  Sheriff Tiraspol vs Aluminij\n09.07 20:00  CSKA Sofia vs Derry City\n09.07 20:00  Hajduk Split vs Žilina\n09.07 20:00  Vojvodina vs Ferencváros\n16.07 19:30  Derry City vs CSKA Sofia\n16.07 19:30  Universitatea Cluj vs Dynamo Kyiv",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "223",
-          "number": "223",
+          "id": "226",
+          "number": "226",
           "title": "Europa: Europa League 2/7",
           "lines": [
             {
@@ -876,14 +844,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "17.07 18:00  Aktobe vs Legia Warsaw\n17.07 18:00  Ilves vs Shakhtar Donetsk\n17.07 19:00  Hacken vs Spartak Trnava\n17.07 19:30  CFR Cluj vs Paks\n17.07 20:00  Celje vs Sabah Baku\n17.07 20:00  Hapoel Be'er Sheva vs Levski Sofia\n17.07 20:00  Prishtina vs Sheriff Tiraspol\n17.07 21:00  Partizan Belgrade vs AEK Larnaca",
+              "body": "16.07 20:00  Aluminij vs Sheriff Tiraspol\n16.07 20:15  Ferencváros vs Vojvodina\n16.07 20:30  Žilina vs Hajduk Split\n16.07 22:00  Vestri vs Qarabağ\n23.07 18:00  Qarabağ vs CSKA Sofia\n23.07 19:00  Dynamo Kyiv vs PAOK\n23.07 19:00  Hammarby vs Anderlecht\n23.07 19:00  Sheriff Tiraspol vs Maccabi Tel Aviv",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "224",
-          "number": "224",
+          "id": "227",
+          "number": "227",
           "title": "Europa: Europa League 3/7",
           "lines": [
             {
@@ -892,14 +860,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "24.07 19:00  Baník Ostrava vs Legia Warsaw\n24.07 19:00  Sheriff Tiraspol vs Utrecht\n24.07 19:30  FC Midtjylland vs Hibernian\n24.07 19:30  Levski Sofia vs Braga\n24.07 20:00  Anderlecht vs Hacken\n24.07 20:00  Beşiktaş vs Shakhtar Donetsk\n24.07 20:00  Celje vs AEK Larnaca\n24.07 20:30  Lugano vs CFR Cluj",
+              "body": "23.07 19:00  Tromsø vs Hradec Králové\n23.07 20:00  Beşiktaş vs FC Midtjylland\n23.07 20:00  St. Gallen vs Benfica\n23.07 20:00  Twente vs Ferencváros\n23.07 21:00  Hajduk Split vs Pafos\n30.07 18:00  Maccabi Tel Aviv vs Sheriff Tiraspol\n30.07 19:00  FC Midtjylland vs Beşiktaş\n30.07 19:00  Hradec Králové vs Tromsø",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "225",
-          "number": "225",
+          "id": "228",
+          "number": "228",
           "title": "Europa: Europa League 4/7",
           "lines": [
             {
@@ -908,14 +876,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "31.07 18:30  AEK Larnaca vs Celje\n31.07 19:00  Hacken vs Anderlecht\n31.07 19:30  CFR Cluj vs Lugano\n31.07 20:00  Shakhtar Donetsk vs Beşiktaş\n31.07 20:00  Utrecht vs Sheriff Tiraspol\n31.07 21:00  Braga vs Levski Sofia\n31.07 21:00  Hibernian vs FC Midtjylland\n31.07 21:00  Legia Warsaw vs Baník Ostrava",
+              "body": "30.07 19:00  Pafos vs Hajduk Split\n30.07 19:45  PAOK vs Dynamo Kyiv\n30.07 20:00  CSKA Sofia vs Qarabağ\n30.07 20:30  Anderlecht vs Hammarby\n30.07 20:30  Ferencváros vs Twente\n30.07 21:00  Benfica vs St. Gallen\n04.08 21:00  Larne vs Iberia 1999\n04.08 21:00  Shamrock Rovers vs Egnatia",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "226",
-          "number": "226",
+          "id": "229",
+          "number": "229",
           "title": "Europa: Europa League 5/7",
           "lines": [
             {
@@ -924,14 +892,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "05.08 19:00  Ħamrun Spartans vs Maccabi Tel Aviv\n06.08 19:00  RFS vs KuPS\n06.08 20:45  Rijeka vs Shelbourne\n07.08 18:00  Fredrikstad vs FC Midtjylland\n07.08 18:00  Lincoln Red Imps vs Noah\n07.08 18:30  AEK Larnaca vs Legia Warsaw\n07.08 18:30  CFR Cluj vs Braga\n07.08 19:00  Hacken vs Brann",
+              "body": "05.08 20:15  Ferencváros vs Górnik Zabrze\n06.08 17:00  KuPS vs Universitatea Craiova\n06.08 18:00  Jagiellonia Białystok vs Rangers\n06.08 18:00  Maccabi Tel Aviv vs CSKA Sofia\n06.08 19:00  Hradec Králové vs Beşiktaş\n06.08 19:00  Lech Poznań vs KÍ Klaksvík\n06.08 19:00  Lincoln Red Imps vs Omonia Nicosia\n06.08 19:00  Red Bull Salzburg vs Pafos",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "227",
-          "number": "227",
+          "id": "230",
+          "number": "230",
           "title": "Europa: Europa League 6/7",
           "lines": [
             {
@@ -940,14 +908,14 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "07.08 19:30  PAOK vs Wolfsberger AC\n07.08 20:00  Panathinaikos vs Shakhtar Donetsk\n07.08 20:00  Zrinjski Mostar vs Breiðablik\n07.08 20:30  FCSB vs Drita\n07.08 20:30  Servette vs Utrecht\n12.08 20:45  Shelbourne vs Rijeka\n14.08 19:00  Wolfsberger AC vs PAOK\n14.08 19:30  Breiðablik vs Zrinjski Mostar",
+              "body": "06.08 19:45  PAOK vs Anderlecht\n06.08 20:00  Thun vs Víkingur Reykjavík\n06.08 21:00  Benfica vs Heart of Midlothian\n11.08 18:00  Iberia 1999 vs Larne\n13.08 19:00  Omonia Nicosia vs Lincoln Red Imps\n13.08 19:00  Universitatea Craiova vs KuPS\n13.08 19:30  KÍ Klaksvík vs Lech Poznań\n13.08 19:30  Víkingur Reykjavík vs Thun",
               "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "228",
-          "number": "228",
+          "id": "231",
+          "number": "231",
           "title": "Europa: Europa League 7/7",
           "lines": [
             {
@@ -956,7 +924,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Runde 400",
-              "body": "14.08 20:00  Utrecht vs Servette\n14.08 21:00  Legia Warsaw vs AEK Larnaca",
+              "body": "13.08 20:30  Rangers vs Jagiellonia Białystok\n13.08 21:00  Egnatia vs Shamrock Rovers",
               "source": "TheSportsDB"
             }
           ]
@@ -979,31 +947,47 @@
               "headline": "Engelsk: Premier League",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Spilt 24.05",
-              "body": "24.05 17:00  Nottingham Forest 1-1 AFC Bournemouth\n24.05 17:00  Crystal Palace 1-2 Arsenal\n24.05 17:00  Manchester City 1-2 Aston Villa\n24.05 17:00  Liverpool 1-1 Brentford\n24.05 17:00  Sunderland 2-1 Chelsea\n24.05 17:00  Tottenham Hotspur 1-0 Everton\n24.05 17:00  West Ham United 3-0 Leeds United\n24.05 17:00  Brighton & Hove Albion 0-3 Manchester United\n24.05 17:00  Fulham 2-0 Newcastle United\n24.05 17:00  Burnley 1-1 Wolverhampton Wanderers",
-              "source": "ESPN"
+              "ingress": "Runde 2",
+              "body": "22.08 21:00  West Ham United 1-5 Chelsea\n23.08 16:00  Bournemouth 1-0 Wolverhampton Wanderers\n23.08 16:00  Brentford 1-0 Aston Villa\n23.08 16:00  Burnley 2-0 Sunderland\n23.08 18:30  Arsenal 5-0 Leeds United",
+              "source": "TheSportsDB"
             }
           ]
         },
         {
           "id": "241",
           "number": "241",
-          "title": "Engelsk: FA-cup",
+          "title": "Engelsk: FA-cup 1/2",
           "lines": [
             {
-              "id": "engelsk-fa-cup",
-              "headline": "Engelsk: FA-cup",
+              "id": "engelsk-fa-cup-1-2",
+              "headline": "Engelsk: FA-cup 1/2",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Spilt 16.05",
-              "body": "16.05 16:00  Chelsea 0-1 Manchester City",
-              "source": "ESPN"
+              "ingress": "Runde 400",
+              "body": "01.08 20:45  Bootle 4-0 1874 Northwich\n01.08 20:45  Enfield 0-0 Wormley Rovers\n01.08 20:45  Pickering Town 3-2 Penrith\n01.08 20:45  Roman Glass St George 7-0 Nailsea and Tickenham\n01.08 20:45  Stone Old Alleynians 0-2 Sutton Coldfield Town\n01.08 21:00  Belper United 2-1 Uttoxeter Town\n01.08 21:00  Wokingham Town 3-2 Brislington\n02.08 13:00  Hamworthy Recreation 1-2 Hartley Wintney",
+              "source": "TheSportsDB"
             }
           ]
         },
         {
           "id": "242",
           "number": "242",
+          "title": "Engelsk: FA-cup 2/2",
+          "lines": [
+            {
+              "id": "engelsk-fa-cup-2-2",
+              "headline": "Engelsk: FA-cup 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "02.08 15:00  Guernsey 1-1 Bedfont Sports\n02.08 16:00  Eastbourne Town 2-2 Ashford Town Middlesex\n02.08 16:00  Edgware Town 2-0 British Airways\n02.08 16:00  Ipswich Wanderers 2-1 Lakenheath\n02.08 16:00  Lydney Town 3-3 Royal Wootton Bassett Town\n02.08 16:00  South Park 2-1 Newhaven\n02.08 16:00  Worcester Raiders 1-0 Ashby Ivanhoe",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "243",
+          "number": "243",
           "title": "Engelsk: Ligacup",
           "lines": [
             {
@@ -1011,15 +995,15 @@
               "headline": "Engelsk: Ligacup",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Spilt 22.03",
-              "body": "22.03 17:30  Arsenal 0-2 Manchester City",
-              "source": "ESPN"
+              "ingress": "Runde 400",
+              "body": "29.07 20:30  Barnet 2-2 Newport County\n05.08 20:45  Accrington Stanley 3-1 Oldham Athletic",
+              "source": "TheSportsDB"
             }
           ]
         },
         {
-          "id": "243",
-          "number": "243",
+          "id": "244",
+          "number": "244",
           "title": "Norsk: Eliteserien",
           "lines": [
             {
@@ -1027,41 +1011,73 @@
               "headline": "Norsk: Eliteserien",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Spilt 25.05-30.05",
-              "body": "25.05 19:15  Sandefjord 1-1 Fredrikstad\n29.05 19:00  Rosenborg 2-2 Bodo/Glimt\n29.05 19:00  Aalesund 0-0 Hamarkameratene\n29.05 19:00  Fredrikstad 2-1 IK Start\n29.05 19:00  Vålerenga 0-0 Kristiansund BK\n29.05 19:00  SK Brann 1-2 Sarpsborg FK\n29.05 19:00  KFUM Oslo 0-0 Tromso\n30.05 16:00  Molde 2-1 Sandefjord",
-              "source": "ESPN"
-            }
-          ]
-        },
-        {
-          "id": "244",
-          "number": "244",
-          "title": "Europa: Champions League",
-          "lines": [
-            {
-              "id": "europa-champions-league",
-              "headline": "Europa: Champions League",
-              "colorName": "yellow",
-              "isImportant": false,
-              "ingress": "Spilt 05.05-30.05",
-              "body": "05.05 21:00  Arsenal 1-0 Atlético Madrid\n06.05 21:00  Bayern Munich 1-1 Paris Saint-Germain\n30.05 18:00  Paris Saint-Germain 1-1 Arsenal",
-              "source": "ESPN"
+              "ingress": "Runde 3",
+              "body": "06.04 14:30  Vålerenga 0-1 Viking\n06.04 17:00  Hamarkameratene 1-5 Brann",
+              "source": "TheSportsDB"
             }
           ]
         },
         {
           "id": "245",
           "number": "245",
-          "title": "Europa: Europa League",
+          "title": "Europa: Champions League 1/2",
           "lines": [
             {
-              "id": "europa-europa-league",
-              "headline": "Europa: Europa League",
+              "id": "europa-champions-league-1-2",
+              "headline": "Europa: Champions League 1/2",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Spilt 20.05",
-              "body": "20.05 21:00  SC Freiburg 0-3 Aston Villa",
-              "source": "ESPN"
+              "ingress": "Runde 400",
+              "body": "08.07 17:00  KuPS 1-0 Milsami Orhei\n08.07 18:00  Iberia 1999 1-3 Malmo FF\n08.07 18:00  Noah 1-0 Budućnost Podgorica\n08.07 18:30  Levadia Tallinn 0-1 RFS\n08.07 19:00  Olimpija Ljubljana 1-1 Kairat Almaty\n08.07 20:00  Drita 1-0 Differdange 03\n08.07 20:00  The New Saints 0-0 Shkëndija\n08.07 20:00  Víkingur Gøta 2-3 Lincoln Red Imps",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "246",
+          "number": "246",
+          "title": "Europa: Champions League 2/2",
+          "lines": [
+            {
+              "id": "europa-champions-league-2-2",
+              "headline": "Europa: Champions League 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "08.07 21:00  Egnatia 1-0 Breiðablik\n08.07 21:00  Virtus 0-2 Zrinjski Mostar\n09.07 18:00  Žalgiris Vilnius 2-0 Ħamrun Spartans\n09.07 19:30  FCSB 3-1 Inter Club d'Escaldes\n09.07 19:30  Ludogorets Razgrad 1-0 Dinamo Minsk\n09.07 20:45  Shelbourne 1-0 Linfield\n15.07 17:00  Kairat Almaty 2-0 Olimpija Ljubljana",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "247",
+          "number": "247",
+          "title": "Europa: Europa League 1/2",
+          "lines": [
+            {
+              "id": "europa-europa-league-1-2",
+              "headline": "Europa: Europa League 1/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "10.07 18:00  Sabah FC 2-3 Celje\n10.07 18:30  AEK Larnaca 1-0 Partizan Belgrade\n10.07 19:00  Paks 0-0 CFR Cluj\n10.07 19:00  Sheriff Tiraspol 4-0 Prishtina\n10.07 19:30  Levski Sofia 0-0 Hapoel Be'er Sheva\n10.07 20:00  Shakhtar Donetsk 6-0 Ilves\n10.07 20:15  Spartak Trnava 0-1 Hacken\n10.07 21:00  Legia Warsaw 1-0 Aktobe",
+              "source": "TheSportsDB"
+            }
+          ]
+        },
+        {
+          "id": "248",
+          "number": "248",
+          "title": "Europa: Europa League 2/2",
+          "lines": [
+            {
+              "id": "europa-europa-league-2-2",
+              "headline": "Europa: Europa League 2/2",
+              "colorName": "yellow",
+              "isImportant": false,
+              "ingress": "Runde 400",
+              "body": "17.07 18:00  Aktobe 0-1 Legia Warsaw\n17.07 18:00  Ilves 0-0 Shakhtar Donetsk\n17.07 19:00  Hacken 2-2 Spartak Trnava\n17.07 19:30  CFR Cluj 3-0 Paks\n17.07 20:00  Celje 3-3 Sabah FC\n17.07 20:00  Hapoel Be'er Sheva 0-0 Levski Sofia\n17.07 20:00  Prishtina 2-1 Sheriff Tiraspol",
+              "source": "TheSportsDB"
             }
           ]
         }
@@ -1087,102 +1103,102 @@
               "bodyRows": [
                 {
                   "id": "table-1",
-                  "text": " 1. Arsenal                  K 38  +/- +44  P  85",
+                  "text": " 1. AFC Bournemouth          K  0  +/-   0  P   0",
                   "colorName": "yellow"
                 },
                 {
                   "id": "table-2",
-                  "text": " 2. Manchester City          K 38  +/- +42  P  78",
+                  "text": " 2. Arsenal                  K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-3",
-                  "text": " 3. Manchester United        K 38  +/- +19  P  71",
+                  "text": " 3. Aston Villa              K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-4",
-                  "text": " 4. Aston Villa              K 38  +/-  +7  P  65",
+                  "text": " 4. Brentford                K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-5",
-                  "text": " 5. Liverpool                K 38  +/- +10  P  60",
+                  "text": " 5. Brighton & Hove Albion   K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-6",
-                  "text": " 6. AFC Bournemouth          K 38  +/-  +4  P  57",
+                  "text": " 6. Chelsea                  K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-7",
-                  "text": " 7. Sunderland               K 38  +/-  -6  P  54",
+                  "text": " 7. Coventry City            K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-8",
-                  "text": " 8. Brighton & Hove Albion   K 38  +/-  +6  P  53",
+                  "text": " 8. Crystal Palace           K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-9",
-                  "text": " 9. Brentford                K 38  +/-  +3  P  53",
+                  "text": " 9. Everton                  K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-10",
-                  "text": "10. Chelsea                  K 38  +/-  +6  P  52",
+                  "text": "10. Fulham                   K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-11",
-                  "text": "11. Fulham                   K 38  +/-  -4  P  52",
+                  "text": "11. Hull City                K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-12",
-                  "text": "12. Newcastle United         K 38  +/-  -2  P  49",
+                  "text": "12. Ipswich Town             K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-13",
-                  "text": "13. Everton                  K 38  +/-  -3  P  49",
+                  "text": "13. Leeds United             K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-14",
-                  "text": "14. Leeds United             K 38  +/-  -7  P  47",
+                  "text": "14. Liverpool                K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-15",
-                  "text": "15. Crystal Palace           K 38  +/- -10  P  45",
+                  "text": "15. Manchester City          K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-16",
-                  "text": "16. Nottingham Forest        K 38  +/-  -3  P  44",
+                  "text": "16. Manchester United        K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-17",
-                  "text": "17. Tottenham Hotspur        K 38  +/-  -9  P  41",
+                  "text": "17. Newcastle United         K  0  +/-   0  P   0",
                   "colorName": "white"
                 },
                 {
                   "id": "table-18",
-                  "text": "18. West Ham United          K 38  +/- -19  P  39",
+                  "text": "18. Nottingham Forest        K  0  +/-   0  P   0",
                   "colorName": "red"
                 },
                 {
                   "id": "table-19",
-                  "text": "19. Burnley                  K 38  +/- -37  P  22",
+                  "text": "19. Sunderland               K  0  +/-   0  P   0",
                   "colorName": "red"
                 },
                 {
                   "id": "table-20",
-                  "text": "20. Wolverhampton Wanderers  K 38  +/- -41  P  20",
+                  "text": "20. Tottenham Hotspur        K  0  +/-   0  P   0",
                   "colorName": "red"
                 }
               ]
@@ -1203,82 +1219,82 @@
               "bodyRows": [
                 {
                   "id": "table-1",
-                  "text": " 1. Viking FK                K 10  +/- +19  P  27",
+                  "text": " 1. Bodo/Glimt               K 17  +/- +31  P  41",
                   "colorName": "yellow"
                 },
                 {
                   "id": "table-2",
-                  "text": " 2. Tromso                   K 13  +/-  +4  P  25",
+                  "text": " 2. Viking FK                K 16  +/- +24  P  40",
                   "colorName": "white"
                 },
                 {
                   "id": "table-3",
-                  "text": " 3. Bodo/Glimt               K 11  +/- +17  P  23",
+                  "text": " 3. Tromso                   K 16  +/- +15  P  34",
                   "colorName": "white"
                 },
                 {
                   "id": "table-4",
-                  "text": " 4. Lillestrom               K 11  +/-  +6  P  19",
+                  "text": " 4. Lillestrom               K 15  +/-  +4  P  25",
                   "colorName": "white"
                 },
                 {
                   "id": "table-5",
-                  "text": " 5. Molde                    K 11  +/-  +5  P  19",
+                  "text": " 5. Molde                    K 15  +/-  +6  P  24",
                   "colorName": "white"
                 },
                 {
                   "id": "table-6",
-                  "text": " 6. Hamarkameratene          K 10  +/-  +1  P  17",
+                  "text": " 6. SK Brann                 K 16  +/-  +6  P  22",
                   "colorName": "white"
                 },
                 {
                   "id": "table-7",
-                  "text": " 7. Sarpsborg FK             K 11  +/-  -3  P  14",
+                  "text": " 7. Sarpsborg FK             K 16  +/-  -2  P  22",
                   "colorName": "white"
                 },
                 {
                   "id": "table-8",
-                  "text": " 8. Sandefjord               K 11  +/-  -3  P  14",
+                  "text": " 8. Hamarkameratene          K 15  +/-  -3  P  21",
                   "colorName": "white"
                 },
                 {
                   "id": "table-9",
-                  "text": " 9. Vålerenga                K 11  +/-  -4  P  14",
+                  "text": " 9. Vålerenga                K 16  +/-  -6  P  20",
                   "colorName": "white"
                 },
                 {
                   "id": "table-10",
-                  "text": "10. Fredrikstad              K 11  +/-  -5  P  14",
+                  "text": "10. Fredrikstad              K 16  +/- -10  P  20",
                   "colorName": "white"
                 },
                 {
                   "id": "table-11",
-                  "text": "11. SK Brann                 K 12  +/-  +4  P  13",
+                  "text": "11. Rosenborg                K 15  +/-   0  P  18",
                   "colorName": "white"
                 },
                 {
                   "id": "table-12",
-                  "text": "12. KFUM Oslo                K 11  +/-  -5  P  12",
+                  "text": "12. KFUM Oslo                K 16  +/-  -8  P  18",
                   "colorName": "white"
                 },
                 {
                   "id": "table-13",
-                  "text": "13. Aalesund                 K 11  +/-  -5  P  11",
+                  "text": "13. Sandefjord               K 16  +/-  -9  P  15",
                   "colorName": "white"
                 },
                 {
                   "id": "table-14",
-                  "text": "14. Kristiansund BK          K 11  +/-  -7  P  11",
+                  "text": "14. Aalesund                 K 15  +/- -14  P  13",
                   "colorName": "orange"
                 },
                 {
                   "id": "table-15",
-                  "text": "15. Rosenborg                K 11  +/-  -9  P   9",
+                  "text": "15. Kristiansund BK          K 15  +/- -12  P  12",
                   "colorName": "red"
                 },
                 {
                   "id": "table-16",
-                  "text": "16. IK Start                 K 12  +/- -15  P   7",
+                  "text": "16. IK Start                 K 17  +/- -22  P  10",
                   "colorName": "red"
                 }
               ]
@@ -1515,90 +1531,9 @@
               "headline": "Premier League",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Topplister fra tilgjengelige turneringsdata.",
-              "source": "ESPN",
-              "bodyRows": [
-                {
-                  "id": "goals-heading",
-                  "text": "Mål",
-                  "colorName": "yellow"
-                },
-                {
-                  "id": "goals-1",
-                  "text": " 1. Erling Haaland         27 (Man City)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-2",
-                  "text": " 2. Igor Thiago            22 (Brentford)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-3",
-                  "text": " 3. Antoine Semenyo        17 (Man City)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-4",
-                  "text": " 4. Ollie Watkins          16 (Aston Villa)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-5",
-                  "text": " 5. Morgan Gibbs-White     15 (Nottm Forest)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-6",
-                  "text": " 6. João Pedro             15 (Chelsea)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-7",
-                  "text": " 7. Viktor Gyökeres        14 (Arsenal)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-heading",
-                  "text": "Assists",
-                  "colorName": "cyan"
-                },
-                {
-                  "id": "assists-1",
-                  "text": " 1. Bruno Fernandes        21 (Man United)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-2",
-                  "text": " 2. Rayan Cherki           12 (Man City)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-3",
-                  "text": " 3. Jarrod Bowen           11 (West Ham United)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-4",
-                  "text": " 4. Erling Haaland          8 (Man City)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-5",
-                  "text": " 5. James Garner            7 (Everton)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-6",
-                  "text": " 6. Dominik Szoboszlai      7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-7",
-                  "text": " 7. Harry Wilson            7 (Fulham)",
-                  "colorName": "white"
-                }
-              ]
+              "ingress": "Spillerstatistikk kunne ikke hentes akkurat nå.",
+              "body": "Når sportskilden svarer, fylles siden automatisk med mål og assists.",
+              "source": "Generator"
             }
           ]
         },
@@ -1612,90 +1547,9 @@
               "headline": "Eliteserien",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Topplister fra tilgjengelige turneringsdata.",
-              "source": "ESPN",
-              "bodyRows": [
-                {
-                  "id": "goals-heading",
-                  "text": "Mål",
-                  "colorName": "yellow"
-                },
-                {
-                  "id": "goals-1",
-                  "text": " 1. Kasper Høgh             7 (Bodø/Glimt)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-2",
-                  "text": " 2. Emil Breivik            6 (Molde)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-3",
-                  "text": " 3. Peter Christiansen      6 (Viking FK)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-4",
-                  "text": " 4. Jens Hjerto Dahl        5 (Tromso)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-5",
-                  "text": " 5. Kristian Lonebu         5 (Aalesund)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-6",
-                  "text": " 6. Simen Kvia-Egeskog      5 (Viking FK)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-7",
-                  "text": " 7. Henrik Udahl            5 (Hamarkameratene)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-heading",
-                  "text": "Assists",
-                  "colorName": "cyan"
-                },
-                {
-                  "id": "assists-1",
-                  "text": " 1. Zlatko Tripic          13 (Viking FK)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-2",
-                  "text": " 2. Ruben Jenssen           5 (Tromso)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-3",
-                  "text": " 3. Vá                      4 (Lillestrom)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-4",
-                  "text": " 4. Kasper Høgh             4 (Bodø/Glimt)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-5",
-                  "text": " 5. Ole Didrik Blomberg     3 (Bodø/Glimt)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-6",
-                  "text": " 6. Peter Christiansen      3 (Viking FK)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-7",
-                  "text": " 7. Tom Strannegard         2 (IK Start)",
-                  "colorName": "white"
-                }
-              ]
+              "ingress": "Spillerstatistikk kunne ikke hentes akkurat nå.",
+              "body": "Når sportskilden svarer, fylles siden automatisk med mål og assists.",
+              "source": "Generator"
             }
           ]
         },
@@ -1709,90 +1563,9 @@
               "headline": "Champions League",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Topplister fra tilgjengelige turneringsdata.",
-              "source": "ESPN",
-              "bodyRows": [
-                {
-                  "id": "goals-heading",
-                  "text": "Mål",
-                  "colorName": "yellow"
-                },
-                {
-                  "id": "goals-1",
-                  "text": " 1. Kylian Mbappé          15 (Real Madrid)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-2",
-                  "text": " 2. Harry Kane             14 (Bayern Munich)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-3",
-                  "text": " 3. Khvicha Kvaratskhelia  10 (Paris Saint-Germain)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-4",
-                  "text": " 4. Julián Álvarez         10 (Atlético Madrid)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-5",
-                  "text": " 5. Anthony Gordon         10 (Newcastle)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-6",
-                  "text": " 6. Ousmane Dembélé         8 (Paris Saint-Germain)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-7",
-                  "text": " 7. Erling Haaland          8 (Man City)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-heading",
-                  "text": "Assists",
-                  "colorName": "cyan"
-                },
-                {
-                  "id": "assists-1",
-                  "text": " 1. Khvicha Kvaratskhelia   6 (Paris Saint-Germain)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-2",
-                  "text": " 2. Achraf Hakimi           6 (Paris Saint-Germain)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-3",
-                  "text": " 3. Michael Olise           6 (Bayern Munich)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-4",
-                  "text": " 4. Vinícius Júnior         5 (Real Madrid)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-5",
-                  "text": " 5. Serge Gnabry            5 (Bayern Munich)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-6",
-                  "text": " 6. Bradley Barcola         4 (Paris Saint-Germain)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-7",
-                  "text": " 7. Julián Álvarez          4 (Atlético Madrid)",
-                  "colorName": "white"
-                }
-              ]
+              "ingress": "Spillerstatistikk kunne ikke hentes akkurat nå.",
+              "body": "Når sportskilden svarer, fylles siden automatisk med mål og assists.",
+              "source": "Generator"
             }
           ]
         },
@@ -1806,65 +1579,9 @@
               "headline": "Liverpool PL",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Topplister fra tilgjengelige turneringsdata.",
-              "source": "ESPN",
-              "bodyRows": [
-                {
-                  "id": "goals-heading",
-                  "text": "Mål",
-                  "colorName": "yellow"
-                },
-                {
-                  "id": "goals-1",
-                  "text": " 1. Hugo Ekitike           11 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-2",
-                  "text": " 2. Cody Gakpo              7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-3",
-                  "text": " 3. Mohamed Salah           7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-4",
-                  "text": " 4. Virgil van Dijk         6 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-5",
-                  "text": " 5. Dominik Szoboszlai      6 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-heading",
-                  "text": "Assists",
-                  "colorName": "cyan"
-                },
-                {
-                  "id": "assists-1",
-                  "text": " 1. Dominik Szoboszlai      7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-2",
-                  "text": " 2. Mohamed Salah           7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-3",
-                  "text": " 3. Cody Gakpo              5 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-4",
-                  "text": " 4. Alexis Mac Allister     4 (Liverpool)",
-                  "colorName": "white"
-                }
-              ]
+              "ingress": "Spillerstatistikk kunne ikke hentes akkurat nå.",
+              "body": "Når sportskilden svarer, fylles siden automatisk med mål og assists.",
+              "source": "Generator"
             }
           ]
         },
@@ -1878,85 +1595,9 @@
               "headline": "Liverpool alle turneringer",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Topplister fra tilgjengelige turneringsdata.",
-              "source": "ESPN",
-              "bodyRows": [
-                {
-                  "id": "goals-heading",
-                  "text": "Mål",
-                  "colorName": "yellow"
-                },
-                {
-                  "id": "goals-1",
-                  "text": " 1. Hugo Ekitike           14 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-2",
-                  "text": " 2. Dominik Szoboszlai     13 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-3",
-                  "text": " 3. Mohamed Salah          12 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-4",
-                  "text": " 4. Cody Gakpo              7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-5",
-                  "text": " 5. Virgil van Dijk         6 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-6",
-                  "text": " 6. Alexis Mac Allister     3 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "goals-7",
-                  "text": " 7. Curtis Jones            2 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-heading",
-                  "text": "Assists",
-                  "colorName": "cyan"
-                },
-                {
-                  "id": "assists-1",
-                  "text": " 1. Dominik Szoboszlai     11 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-2",
-                  "text": " 2. Mohamed Salah           7 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-3",
-                  "text": " 3. Alexis Mac Allister     6 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-4",
-                  "text": " 4. Cody Gakpo              5 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-5",
-                  "text": " 5. Florian Wirtz           3 (Liverpool)",
-                  "colorName": "white"
-                },
-                {
-                  "id": "assists-6",
-                  "text": " 6. Virgil van Dijk         3 (Liverpool)",
-                  "colorName": "white"
-                }
-              ]
+              "ingress": "Spillerstatistikk kunne ikke hentes akkurat nå.",
+              "body": "Når sportskilden svarer, fylles siden automatisk med mål og assists.",
+              "source": "Generator"
             }
           ]
         }
@@ -1979,7 +1620,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Alta            Delvis skyet, 11 grader, vind 7 m/s\nBørselv         Delvis skyet, 11 grader, vind 4 m/s\nČáhppiljohka    Delvis skyet, 11 grader, vind 6 m/s\nHeimdal         Regn, 13 grader, vind 2 m/s\nBø              Pent vær, 22 grader, vind 3 m/s\nKristiansand    Skyet, 19 grader, vind 4 m/s\nOslo            Pent vær, 19 grader, vind 3 m/s\nSvalbard        Snø, 0 grader, vind 7 m/s\nOs              Skyet, 16 grader, vind 2 m/s\nFinnsnes        Delvis skyet, 12 grader, vind 4 m/s\nTorrevieja      Klart, 26 grader, vind 8 m/s",
+              "body": "Alta            Delvis skyet, 15 grader, vind 1 m/s\nBørselv         Skyet, 14 grader, vind 2 m/s\nČáhppiljohka    Skyet, 17 grader, vind 1 m/s\nHeimdal         Lett regn, 14 grader, vind 2 m/s\nBø              Skyet, 21 grader, vind 5 m/s\nKristiansand    Skyet, 20 grader, vind 5 m/s\nOslo            Skyet, 20 grader, vind 7 m/s\nSvalbard        Skyet, 6 grader, vind 4 m/s\nOs              Lett regn, 14 grader, vind 3 m/s\nFinnsnes        Lett regn, 14 grader, vind 7 m/s\nTorrevieja      Delvis skyet, 30 grader, vind 4 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -1995,7 +1636,7 @@
               "colorName": "yellow",
               "isImportant": false,
               "ingress": "Kort oversikt over utvalgte steder.",
-              "body": "Torrevieja      Klart, 26 grader, vind 8 m/s\nLondon          Skyet, 23 grader, vind 4 m/s\nParis           Klart, 32 grader, vind 2 m/s\nBerlin          Lett regn, 26 grader, vind 4 m/s\nRoma            Klart, 33 grader, vind 2 m/s",
+              "body": "Torrevieja      Delvis skyet, 30 grader, vind 4 m/s\nLondon          Pent vær, 31 grader, vind 5 m/s\nParis           Pent vær, 33 grader, vind 2 m/s\nBerlin          Delvis skyet, 31 grader, vind 3 m/s\nRoma            Klart, 34 grader, vind 4 m/s",
               "source": "MET/Yr"
             }
           ]
@@ -2010,7 +1651,7 @@
               "headline": "Alta",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 11 grader, vind 7 m/s",
+              "ingress": "Delvis skyet, 15 grader, vind 1 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2022,45 +1663,45 @@
                 },
                 {
                   "id": "alta-weather-1",
-                  "text": "Neste døgn: 10 til 12 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 10 til 14 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "10 til 12 grader, omtrent 0.0 mm nedbør."
+                  "detail": "10 til 14 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "alta-weather-3",
-                  "text": "Fredag 19.06: delvis skyet, 7-15 grader, 9.1 mm nedbør.",
+                  "text": "Mandag 10.08: delvis skyet, 7-13 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "delvis skyet, 7-15 grader, 9.1 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "delvis skyet, 7-13 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "alta-weather-4",
-                  "text": "Lørdag 20.06: pent vær, 10-16 grader, 36.7 mm nedbør.",
+                  "text": "Tirsdag 11.08: delvis skyet, 6-11 grader, 2.8 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "pent vær, 10-16 grader, 36.7 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "delvis skyet, 6-11 grader, 2.8 mm nedbør."
                 },
                 {
                   "id": "alta-weather-5",
-                  "text": "Søndag 21.06: kraftig regn, 11-13 grader, 14.8 mm nedbør.",
+                  "text": "Onsdag 12.08: delvis skyet, 6-12 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "kraftig regn, 11-13 grader, 14.8 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "delvis skyet, 6-12 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "alta-weather-6",
-                  "text": "Mandag 22.06: rainshowers, 10-12 grader, 3.7 mm nedbør.",
+                  "text": "Torsdag 13.08: skyet, 8-14 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "rainshowers, 10-12 grader, 3.7 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "skyet, 8-14 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "alta-weather-7",
-                  "text": "Tirsdag 23.06: skyet, 9-11 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 14.08: skyet, 10-15 grader, 4.6 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "skyet, 9-11 grader, 0.0 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "skyet, 10-15 grader, 4.6 mm nedbør."
                 }
               ]
             }
@@ -2076,7 +1717,7 @@
               "headline": "Børselv",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 11 grader, vind 4 m/s",
+              "ingress": "Skyet, 14 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2088,45 +1729,45 @@
                 },
                 {
                   "id": "b-rselv-weather-1",
-                  "text": "Neste døgn: 10 til 12 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 10 til 14 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "10 til 12 grader, omtrent 0.0 mm nedbør."
+                  "detail": "10 til 14 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-3",
-                  "text": "Fredag 19.06: klart, 6-15 grader, 15.7 mm nedbør.",
+                  "text": "Mandag 10.08: delvis skyet, 8-13 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "klart, 6-15 grader, 15.7 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "delvis skyet, 8-13 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-4",
-                  "text": "Lørdag 20.06: delvis skyet, 10-15 grader, 24.5 mm nedbør.",
+                  "text": "Tirsdag 11.08: delvis skyet, 7-11 grader, 3.7 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "delvis skyet, 10-15 grader, 24.5 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "delvis skyet, 7-11 grader, 3.7 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-5",
-                  "text": "Søndag 21.06: regn, 11-12 grader, 15.7 mm nedbør.",
+                  "text": "Onsdag 12.08: delvis skyet, 7-11 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "regn, 11-12 grader, 15.7 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "delvis skyet, 7-11 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-6",
-                  "text": "Mandag 22.06: skyet, 10-12 grader, 5.8 mm nedbør.",
+                  "text": "Torsdag 13.08: delvis skyet, 8-13 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "skyet, 10-12 grader, 5.8 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "delvis skyet, 8-13 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-rselv-weather-7",
-                  "text": "Tirsdag 23.06: regn, 8-10 grader, 2.7 mm nedbør.",
+                  "text": "Fredag 14.08: skyet, 10-14 grader, 3.4 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "regn, 8-10 grader, 2.7 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "skyet, 10-14 grader, 3.4 mm nedbør."
                 }
               ]
             }
@@ -2142,7 +1783,7 @@
               "headline": "Čáhppiljohka",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 11 grader, vind 6 m/s",
+              "ingress": "Skyet, 17 grader, vind 1 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2154,45 +1795,45 @@
                 },
                 {
                   "id": "hppiljohka-weather-1",
-                  "text": "Neste døgn: 11 til 13 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 13 til 17 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "11 til 13 grader, omtrent 0.0 mm nedbør."
+                  "detail": "13 til 17 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "hppiljohka-weather-3",
-                  "text": "Fredag 19.06: klart, 8-15 grader, 10.7 mm nedbør.",
+                  "text": "Mandag 10.08: skyet, 8-14 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "klart, 8-15 grader, 10.7 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "skyet, 8-14 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "hppiljohka-weather-4",
-                  "text": "Lørdag 20.06: pent vær, 10-16 grader, 30.1 mm nedbør.",
+                  "text": "Tirsdag 11.08: pent vær, 6-13 grader, 3.1 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "pent vær, 10-16 grader, 30.1 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "pent vær, 6-13 grader, 3.1 mm nedbør."
                 },
                 {
                   "id": "hppiljohka-weather-5",
-                  "text": "Søndag 21.06: regn, 11-12 grader, 16.1 mm nedbør.",
+                  "text": "Onsdag 12.08: pent vær, 6-12 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "regn, 11-12 grader, 16.1 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "pent vær, 6-12 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "hppiljohka-weather-6",
-                  "text": "Mandag 22.06: regn, 10-12 grader, 4.5 mm nedbør.",
+                  "text": "Torsdag 13.08: delvis skyet, 8-14 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "regn, 10-12 grader, 4.5 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "delvis skyet, 8-14 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "hppiljohka-weather-7",
-                  "text": "Tirsdag 23.06: skyet, 9-11 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 14.08: skyet, 11-14 grader, 4.6 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "skyet, 9-11 grader, 0.0 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "skyet, 11-14 grader, 4.6 mm nedbør."
                 }
               ]
             }
@@ -2208,57 +1849,57 @@
               "headline": "Heimdal",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Regn, 13 grader, vind 2 m/s",
+              "ingress": "Lett regn, 14 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "heimdal-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.8 mm.",
+                  "text": "Nedbør neste 6 timer: 1.4 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.8 mm."
+                  "detail": "1.4 mm."
                 },
                 {
                   "id": "heimdal-weather-1",
-                  "text": "Neste døgn: 14 til 16 grader, omtrent 0.5 mm nedbør.",
+                  "text": "Neste døgn: 11 til 14 grader, omtrent 1.5 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "14 til 16 grader, omtrent 0.5 mm nedbør."
+                  "detail": "11 til 14 grader, omtrent 1.5 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-3",
-                  "text": "Fredag 19.06: skyet, 11-20 grader, 3.3 mm nedbør.",
+                  "text": "Mandag 10.08: skyet, 9-14 grader, 36.8 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "skyet, 11-20 grader, 3.3 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "skyet, 9-14 grader, 36.8 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-4",
-                  "text": "Lørdag 20.06: skyet, 15-19 grader, 30.9 mm nedbør.",
+                  "text": "Tirsdag 11.08: kraftig regn, 10-12 grader, 7.7 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "skyet, 15-19 grader, 30.9 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "kraftig regn, 10-12 grader, 7.7 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-5",
-                  "text": "Søndag 21.06: pent vær, 11-16 grader, 3.5 mm nedbør.",
+                  "text": "Onsdag 12.08: skyet, 9-15 grader, 2.4 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "pent vær, 11-16 grader, 3.5 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "skyet, 9-15 grader, 2.4 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-6",
-                  "text": "Mandag 22.06: rainshowers, 11-15 grader, 2.0 mm nedbør.",
+                  "text": "Torsdag 13.08: regn, 13-18 grader, 7.2 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "rainshowers, 11-15 grader, 2.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "regn, 13-18 grader, 7.2 mm nedbør."
                 },
                 {
                   "id": "heimdal-weather-7",
-                  "text": "Tirsdag 23.06: skyet, 11-18 grader, 4.7 mm nedbør.",
+                  "text": "Fredag 14.08: regn, 14-17 grader, 7.5 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "skyet, 11-18 grader, 4.7 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "regn, 14-17 grader, 7.5 mm nedbør."
                 }
               ]
             }
@@ -2274,57 +1915,57 @@
               "headline": "Bø",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 22 grader, vind 3 m/s",
+              "ingress": "Skyet, 21 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "b-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "text": "Nedbør neste 6 timer: 3.3 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.0 mm."
+                  "detail": "3.3 mm."
                 },
                 {
                   "id": "b-weather-1",
-                  "text": "Neste døgn: 22 til 24 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 14 til 20 grader, omtrent 14.2 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "22 til 24 grader, omtrent 0.0 mm nedbør."
+                  "detail": "14 til 20 grader, omtrent 14.2 mm nedbør."
                 },
                 {
                   "id": "b-weather-3",
-                  "text": "Fredag 19.06: skyet, 14-23 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: skyet, 10-20 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "skyet, 14-23 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "skyet, 10-20 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-weather-4",
-                  "text": "Lørdag 20.06: skyet, 16-26 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 8-22 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "skyet, 16-26 grader, 0.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 8-22 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-weather-5",
-                  "text": "Søndag 21.06: klart, 13-24 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 10-22 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "klart, 13-24 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 10-22 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-weather-6",
-                  "text": "Mandag 22.06: klart, 11-23 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: delvis skyet, 14-26 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 11-23 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "delvis skyet, 14-26 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "b-weather-7",
-                  "text": "Tirsdag 23.06: delvis skyet, 14-20 grader, 5.1 mm nedbør.",
+                  "text": "Fredag 14.08: delvis skyet, 16-25 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "delvis skyet, 14-20 grader, 5.1 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "delvis skyet, 16-25 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2340,57 +1981,57 @@
               "headline": "Kristiansand",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 19 grader, vind 4 m/s",
+              "ingress": "Skyet, 20 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "kristiansand-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "text": "Nedbør neste 6 timer: 1.1 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.0 mm."
+                  "detail": "1.1 mm."
                 },
                 {
                   "id": "kristiansand-weather-1",
-                  "text": "Neste døgn: 20 til 22 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 15 til 19 grader, omtrent 17.3 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "20 til 22 grader, omtrent 0.0 mm nedbør."
+                  "detail": "15 til 19 grader, omtrent 17.3 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-3",
-                  "text": "Fredag 19.06: skyet, 15-20 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: skyet, 12-20 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "skyet, 15-20 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "skyet, 12-20 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-4",
-                  "text": "Lørdag 20.06: delvis skyet, 16-22 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 12-24 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "delvis skyet, 16-22 grader, 0.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 12-24 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-5",
-                  "text": "Søndag 21.06: klart, 14-21 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 13-21 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "klart, 14-21 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 13-21 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-6",
-                  "text": "Mandag 22.06: klart, 14-20 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: delvis skyet, 15-20 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 14-20 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "delvis skyet, 15-20 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "kristiansand-weather-7",
-                  "text": "Tirsdag 23.06: delvis skyet, 15-18 grader, 6.4 mm nedbør.",
+                  "text": "Fredag 14.08: delvis skyet, 16-22 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "delvis skyet, 15-18 grader, 6.4 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "delvis skyet, 16-22 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2406,57 +2047,57 @@
               "headline": "Oslo",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Pent vær, 19 grader, vind 3 m/s",
+              "ingress": "Skyet, 20 grader, vind 7 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "oslo-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "text": "Nedbør neste 6 timer: 1.9 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.0 mm."
+                  "detail": "1.9 mm."
                 },
                 {
                   "id": "oslo-weather-1",
-                  "text": "Neste døgn: 21 til 26 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 16 til 19 grader, omtrent 23.4 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "21 til 26 grader, omtrent 0.0 mm nedbør."
+                  "detail": "16 til 19 grader, omtrent 23.4 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-3",
-                  "text": "Fredag 19.06: delvis skyet, 16-23 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: kraftig regn, 14-22 grader, 1.7 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "delvis skyet, 16-23 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "kraftig regn, 14-22 grader, 1.7 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-4",
-                  "text": "Lørdag 20.06: skyet, 18-24 grader, 3.9 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 12-22 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "skyet, 18-24 grader, 3.9 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 12-22 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-5",
-                  "text": "Søndag 21.06: klart, 17-24 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: pent vær, 14-22 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "klart, 17-24 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "pent vær, 14-22 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-6",
-                  "text": "Mandag 22.06: klart, 16-23 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: delvis skyet, 17-24 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 16-23 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "delvis skyet, 17-24 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "oslo-weather-7",
-                  "text": "Tirsdag 23.06: delvis skyet, 17-21 grader, 4.5 mm nedbør.",
+                  "text": "Fredag 14.08: skyet, 18-24 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "delvis skyet, 17-21 grader, 4.5 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "skyet, 18-24 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2472,57 +2113,57 @@
               "headline": "Svalbard",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Snø, 0 grader, vind 7 m/s",
+              "ingress": "Skyet, 6 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "svalbard-weather-0",
-                  "text": "Nedbør neste 6 timer: 1.4 mm.",
+                  "text": "Nedbør neste 6 timer: 1.5 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "1.4 mm."
+                  "detail": "1.5 mm."
                 },
                 {
                   "id": "svalbard-weather-1",
-                  "text": "Neste døgn: 0 til 0 grader, omtrent 7.9 mm nedbør.",
+                  "text": "Neste døgn: 2 til 6 grader, omtrent 5.5 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "0 til 0 grader, omtrent 7.9 mm nedbør."
+                  "detail": "2 til 6 grader, omtrent 5.5 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-3",
-                  "text": "Fredag 19.06: snø, 0-3 grader, 22.0 mm nedbør.",
+                  "text": "Mandag 10.08: delvis skyet, 0-3 grader, 2.5 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "snø, 0-3 grader, 22.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "delvis skyet, 0-3 grader, 2.5 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-4",
-                  "text": "Lørdag 20.06: skyet, 3-6 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: delvis skyet, 0-4 grader, 7.2 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "skyet, 3-6 grader, 0.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "delvis skyet, 0-4 grader, 7.2 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-5",
-                  "text": "Søndag 21.06: pent vær, 5-6 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: delvis skyet, 1-4 grader, 1.1 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "pent vær, 5-6 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "delvis skyet, 1-4 grader, 1.1 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-6",
-                  "text": "Mandag 22.06: skyet, 5-6 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: sludd, 2-3 grader, 4.9 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "skyet, 5-6 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "sludd, 2-3 grader, 4.9 mm nedbør."
                 },
                 {
                   "id": "svalbard-weather-7",
-                  "text": "Tirsdag 23.06: skyet, 4-5 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 14.08: regn, 2-3 grader, 2.3 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "skyet, 4-5 grader, 0.0 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "regn, 2-3 grader, 2.3 mm nedbør."
                 }
               ]
             }
@@ -2538,57 +2179,57 @@
               "headline": "Os",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 16 grader, vind 2 m/s",
+              "ingress": "Lett regn, 14 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "os-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "text": "Nedbør neste 6 timer: 1.0 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.0 mm."
+                  "detail": "1.0 mm."
                 },
                 {
                   "id": "os-weather-1",
-                  "text": "Neste døgn: 17 til 19 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 13 til 13 grader, omtrent 12.3 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "17 til 19 grader, omtrent 0.0 mm nedbør."
+                  "detail": "13 til 13 grader, omtrent 12.3 mm nedbør."
                 },
                 {
                   "id": "os-weather-3",
-                  "text": "Fredag 19.06: regn, 14-20 grader, 66.0 mm nedbør.",
+                  "text": "Mandag 10.08: regn, 11-14 grader, 30.8 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "regn, 14-20 grader, 66.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "regn, 11-14 grader, 30.8 mm nedbør."
                 },
                 {
                   "id": "os-weather-4",
-                  "text": "Lørdag 20.06: kraftig regn, 15-17 grader, 9.7 mm nedbør.",
+                  "text": "Tirsdag 11.08: delvis skyet, 8-15 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "kraftig regn, 15-17 grader, 9.7 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "delvis skyet, 8-15 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "os-weather-5",
-                  "text": "Søndag 21.06: pent vær, 12-17 grader, 2.8 mm nedbør.",
+                  "text": "Onsdag 12.08: delvis skyet, 8-16 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "pent vær, 12-17 grader, 2.8 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "delvis skyet, 8-16 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "os-weather-6",
-                  "text": "Mandag 22.06: delvis skyet, 11-18 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: skyet, 16-20 grader, 5.2 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "delvis skyet, 11-18 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "skyet, 16-20 grader, 5.2 mm nedbør."
                 },
                 {
                   "id": "os-weather-7",
-                  "text": "Tirsdag 23.06: skyet, 13-17 grader, 12.5 mm nedbør.",
+                  "text": "Fredag 14.08: kraftig regn, 15-18 grader, 10.7 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "skyet, 13-17 grader, 12.5 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "kraftig regn, 15-18 grader, 10.7 mm nedbør."
                 }
               ]
             }
@@ -2604,57 +2245,57 @@
               "headline": "Finnsnes",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Delvis skyet, 12 grader, vind 4 m/s",
+              "ingress": "Lett regn, 14 grader, vind 7 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "finnsnes-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.0 mm.",
+                  "text": "Nedbør neste 6 timer: 2.5 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.0 mm."
+                  "detail": "2.5 mm."
                 },
                 {
                   "id": "finnsnes-weather-1",
-                  "text": "Neste døgn: 11 til 12 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 10 til 14 grader, omtrent 11.5 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "11 til 12 grader, omtrent 0.0 mm nedbør."
+                  "detail": "10 til 14 grader, omtrent 11.5 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-3",
-                  "text": "Fredag 19.06: delvis skyet, 10-14 grader, 2.1 mm nedbør.",
+                  "text": "Mandag 10.08: skyet, 8-12 grader, 4.5 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "delvis skyet, 10-14 grader, 2.1 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "skyet, 8-12 grader, 4.5 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-4",
-                  "text": "Lørdag 20.06: delvis skyet, 11-14 grader, 33.6 mm nedbør.",
+                  "text": "Tirsdag 11.08: rainshowers, 8-10 grader, 30.6 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "delvis skyet, 11-14 grader, 33.6 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "rainshowers, 8-10 grader, 30.6 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-5",
-                  "text": "Søndag 21.06: regn, 12-15 grader, 9.4 mm nedbør.",
+                  "text": "Onsdag 12.08: rainshowers, 8-11 grader, 3.4 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "regn, 12-15 grader, 9.4 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "rainshowers, 8-11 grader, 3.4 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-6",
-                  "text": "Mandag 22.06: regn, 10-11 grader, 11.2 mm nedbør.",
+                  "text": "Torsdag 13.08: skyet, 10-13 grader, 6.2 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "regn, 10-11 grader, 11.2 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "skyet, 10-13 grader, 6.2 mm nedbør."
                 },
                 {
                   "id": "finnsnes-weather-7",
-                  "text": "Tirsdag 23.06: regn, 9-12 grader, 2.7 mm nedbør.",
+                  "text": "Fredag 14.08: regn, 12-15 grader, 5.3 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "regn, 9-12 grader, 2.7 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "regn, 12-15 grader, 5.3 mm nedbør."
                 }
               ]
             }
@@ -2670,7 +2311,7 @@
               "headline": "Torrevieja",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 26 grader, vind 8 m/s",
+              "ingress": "Delvis skyet, 30 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2682,45 +2323,45 @@
                 },
                 {
                   "id": "torrevieja-weather-1",
-                  "text": "Neste døgn: 25 til 26 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 27 til 29 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "25 til 26 grader, omtrent 0.0 mm nedbør."
+                  "detail": "27 til 29 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "torrevieja-weather-3",
-                  "text": "Fredag 19.06: klart, 22-28 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: klart, 26-31 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "klart, 22-28 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "klart, 26-31 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "torrevieja-weather-4",
-                  "text": "Lørdag 20.06: klart, 24-28 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: pent vær, 26-31 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "klart, 24-28 grader, 0.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "pent vær, 26-31 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "torrevieja-weather-5",
-                  "text": "Søndag 21.06: klart, 24-28 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 27-31 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "klart, 24-28 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 27-31 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "torrevieja-weather-6",
-                  "text": "Mandag 22.06: klart, 25-29 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: delvis skyet, 27-30 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 25-29 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "delvis skyet, 27-30 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "torrevieja-weather-7",
-                  "text": "Tirsdag 23.06: delvis skyet, 24-28 grader, 0.0 mm nedbør.",
+                  "text": "Fredag 14.08: klart, 26-30 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "delvis skyet, 24-28 grader, 0.0 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "klart, 26-30 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2736,7 +2377,7 @@
               "headline": "London",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Skyet, 23 grader, vind 4 m/s",
+              "ingress": "Pent vær, 31 grader, vind 5 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2748,45 +2389,45 @@
                 },
                 {
                   "id": "london-weather-1",
-                  "text": "Neste døgn: 23 til 26 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 22 til 30 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "23 til 26 grader, omtrent 0.0 mm nedbør."
+                  "detail": "22 til 30 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-3",
-                  "text": "Fredag 19.06: klart, 18-29 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: pent vær, 18-27 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "klart, 18-29 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "pent vær, 18-27 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-4",
-                  "text": "Lørdag 20.06: delvis skyet, 18-29 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 16-26 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "delvis skyet, 18-29 grader, 0.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 16-26 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-5",
-                  "text": "Søndag 21.06: pent vær, 20-30 grader, 0.6 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 17-28 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "pent vær, 20-30 grader, 0.6 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 17-28 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-6",
-                  "text": "Mandag 22.06: klart, 22-35 grader, 0.4 mm nedbør.",
+                  "text": "Torsdag 13.08: klart, 19-33 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 22-35 grader, 0.4 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "klart, 19-33 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "london-weather-7",
-                  "text": "Tirsdag 23.06: lett regn, 19-24 grader, 0.9 mm nedbør.",
+                  "text": "Fredag 14.08: klart, 23-34 grader, 0.1 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "lett regn, 19-24 grader, 0.9 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "klart, 23-34 grader, 0.1 mm nedbør."
                 }
               ]
             }
@@ -2802,57 +2443,57 @@
               "headline": "Paris",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 32 grader, vind 2 m/s",
+              "ingress": "Pent vær, 33 grader, vind 2 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "paris-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.2 mm.",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.2 mm."
+                  "detail": "0.0 mm."
                 },
                 {
                   "id": "paris-weather-1",
-                  "text": "Neste døgn: 32 til 36 grader, omtrent 0.7 mm nedbør.",
+                  "text": "Neste døgn: 23 til 33 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "32 til 36 grader, omtrent 0.7 mm nedbør."
+                  "detail": "23 til 33 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-3",
-                  "text": "Fredag 19.06: klart, 24-36 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: klart, 19-31 grader, 0.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "klart, 24-36 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "klart, 19-31 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-4",
-                  "text": "Lørdag 20.06: pent vær, 21-34 grader, 3.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 18-31 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "pent vær, 21-34 grader, 3.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 18-31 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-5",
-                  "text": "Søndag 21.06: pent vær, 25-36 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 19-32 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "pent vær, 25-36 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 19-32 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-6",
-                  "text": "Mandag 22.06: klart, 27-39 grader, 0.1 mm nedbør.",
+                  "text": "Torsdag 13.08: klart, 22-35 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 27-39 grader, 0.1 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "klart, 22-35 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "paris-weather-7",
-                  "text": "Tirsdag 23.06: regn, 21-26 grader, 3.4 mm nedbør.",
+                  "text": "Fredag 14.08: klart, 25-37 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "regn, 21-26 grader, 3.4 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "klart, 25-37 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2868,57 +2509,57 @@
               "headline": "Berlin",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Lett regn, 26 grader, vind 4 m/s",
+              "ingress": "Delvis skyet, 31 grader, vind 3 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
                   "id": "berlin-weather-0",
-                  "text": "Nedbør neste 6 timer: 0.8 mm.",
+                  "text": "Nedbør neste 6 timer: 0.0 mm.",
                   "colorName": "white",
                   "label": "Nedbør neste 6 timer:",
-                  "detail": "0.8 mm."
+                  "detail": "0.0 mm."
                 },
                 {
                   "id": "berlin-weather-1",
-                  "text": "Neste døgn: 27 til 29 grader, omtrent 1.2 mm nedbør.",
+                  "text": "Neste døgn: 23 til 30 grader, omtrent 2.3 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "27 til 29 grader, omtrent 1.2 mm nedbør."
+                  "detail": "23 til 30 grader, omtrent 2.3 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-3",
-                  "text": "Fredag 19.06: delvis skyet, 20-34 grader, 1.3 mm nedbør.",
+                  "text": "Mandag 10.08: lett regn, 17-30 grader, 9.0 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "delvis skyet, 20-34 grader, 1.3 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "lett regn, 17-30 grader, 9.0 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-4",
-                  "text": "Lørdag 20.06: klart, 22-33 grader, 15.4 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 13-22 grader, 0.0 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "klart, 22-33 grader, 15.4 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 13-22 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-5",
-                  "text": "Søndag 21.06: pent vær, 22-28 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 12-23 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "pent vær, 22-28 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 12-23 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-6",
-                  "text": "Mandag 22.06: klart, 18-27 grader, 0.0 mm nedbør.",
+                  "text": "Torsdag 13.08: pent vær, 16-26 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 18-27 grader, 0.0 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "pent vær, 16-26 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "berlin-weather-7",
-                  "text": "Tirsdag 23.06: klart, 20-33 grader, 0.3 mm nedbør.",
+                  "text": "Fredag 14.08: klart, 19-30 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "klart, 20-33 grader, 0.3 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "klart, 19-30 grader, 0.0 mm nedbør."
                 }
               ]
             }
@@ -2934,7 +2575,7 @@
               "headline": "Roma",
               "colorName": "yellow",
               "isImportant": false,
-              "ingress": "Klart, 33 grader, vind 2 m/s",
+              "ingress": "Klart, 34 grader, vind 4 m/s",
               "source": "MET/Yr",
               "bodyRows": [
                 {
@@ -2946,45 +2587,45 @@
                 },
                 {
                   "id": "roma-weather-1",
-                  "text": "Neste døgn: 30 til 35 grader, omtrent 0.0 mm nedbør.",
+                  "text": "Neste døgn: 27 til 33 grader, omtrent 0.0 mm nedbør.",
                   "colorName": "white",
                   "label": "Neste døgn:",
-                  "detail": "30 til 35 grader, omtrent 0.0 mm nedbør."
+                  "detail": "27 til 33 grader, omtrent 0.0 mm nedbør."
                 },
                 {
                   "id": "roma-weather-3",
-                  "text": "Fredag 19.06: klart, 23-36 grader, 0.0 mm nedbør.",
+                  "text": "Mandag 10.08: klart, 26-38 grader, 1.2 mm nedbør.",
                   "colorName": "cyan",
-                  "label": "Fredag 19.06:",
-                  "detail": "klart, 23-36 grader, 0.0 mm nedbør."
+                  "label": "Mandag 10.08:",
+                  "detail": "klart, 26-38 grader, 1.2 mm nedbør."
                 },
                 {
                   "id": "roma-weather-4",
-                  "text": "Lørdag 20.06: klart, 24-36 grader, 0.0 mm nedbør.",
+                  "text": "Tirsdag 11.08: klart, 26-38 grader, 1.8 mm nedbør.",
                   "colorName": "yellow",
-                  "label": "Lørdag 20.06:",
-                  "detail": "klart, 24-36 grader, 0.0 mm nedbør."
+                  "label": "Tirsdag 11.08:",
+                  "detail": "klart, 26-38 grader, 1.8 mm nedbør."
                 },
                 {
                   "id": "roma-weather-5",
-                  "text": "Søndag 21.06: klart, 25-37 grader, 0.0 mm nedbør.",
+                  "text": "Onsdag 12.08: klart, 26-39 grader, 0.0 mm nedbør.",
                   "colorName": "teal",
-                  "label": "Søndag 21.06:",
-                  "detail": "klart, 25-37 grader, 0.0 mm nedbør."
+                  "label": "Onsdag 12.08:",
+                  "detail": "klart, 26-39 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "roma-weather-6",
-                  "text": "Mandag 22.06: klart, 27-33 grader, 0.8 mm nedbør.",
+                  "text": "Torsdag 13.08: klart, 27-38 grader, 0.0 mm nedbør.",
                   "colorName": "orange",
-                  "label": "Mandag 22.06:",
-                  "detail": "klart, 27-33 grader, 0.8 mm nedbør."
+                  "label": "Torsdag 13.08:",
+                  "detail": "klart, 27-38 grader, 0.0 mm nedbør."
                 },
                 {
                   "id": "roma-weather-7",
-                  "text": "Tirsdag 23.06: klart, 26-33 grader, 0.3 mm nedbør.",
+                  "text": "Fredag 14.08: klart, 26-37 grader, 0.0 mm nedbør.",
                   "colorName": "magenta",
-                  "label": "Tirsdag 23.06:",
-                  "detail": "klart, 26-33 grader, 0.3 mm nedbør."
+                  "label": "Fredag 14.08:",
+                  "detail": "klart, 26-37 grader, 0.0 mm nedbør."
                 }
               ]
             }

@@ -117,6 +117,12 @@ def generate_feed(args: argparse.Namespace) -> None:
     print(f"Wrote {output_path} with {count_pages(feed)} pages")
 
 
+def current_european_football_season(today: datetime | None = None) -> str:
+    current_date = today or datetime.now(ZoneInfo("Europe/Oslo"))
+    start_year = current_date.year if current_date.month >= 7 else current_date.year - 1
+    return f"{start_year}-{start_year + 1}"
+
+
 @dataclass
 class LeagueTable:
     title: str
@@ -312,6 +318,7 @@ def looks_like_world_news(item: SourceItem) -> bool:
 
 
 def fetch_sports_data() -> SportsData:
+    european_season = current_european_football_season()
     premier_league_leaders = fetch_espn_leaders("eng.1", "Premier League")
     eliteserien_leaders = fetch_espn_leaders("nor.1", "Eliteserien")
     champions_league_leaders = fetch_espn_leaders("uefa.champions", "Champions League")
@@ -356,7 +363,7 @@ def fetch_sports_data() -> SportsData:
         liverpool_all_leaders=liverpool_all_leaders,
         premier_league_events=fetch_sportsdb_events(
             league_id="4328",
-            season="2025-2026",
+            season=european_season,
             title="Premier League",
         ),
         eliteserien_events=fetch_sportsdb_events(
@@ -366,22 +373,22 @@ def fetch_sports_data() -> SportsData:
         ),
         champions_league_events=fetch_sportsdb_events(
             league_id="4480",
-            season="2025-2026",
+            season=european_season,
             title="Champions League",
         ),
         europa_league_events=fetch_sportsdb_events(
             league_id="4481",
-            season="2025-2026",
+            season=european_season,
             title="Europa League",
         ),
         fa_cup_events=fetch_sportsdb_events(
             league_id="4482",
-            season="2025-2026",
+            season=european_season,
             title="FA-cupen",
         ),
         league_cup_events=fetch_sportsdb_events(
             league_id="4570",
-            season="2025-2026",
+            season=european_season,
             title="Ligacupen",
         ),
         premier_league_results=fetch_espn_results(

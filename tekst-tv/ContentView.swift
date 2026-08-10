@@ -18,11 +18,11 @@ struct ContentView: View {
     }
 
     private var currentSection: TeletextSection {
-        sections[safe: currentSectionIndex] ?? store.feed.sections[0]
+        sections[safe: currentSectionIndex] ?? TeletextFeed.fallback.sections[0]
     }
 
     private var currentPage: TeletextPage {
-        currentSection.pages[safe: currentPageIndex] ?? currentSection.pages[0]
+        currentSection.pages[safe: currentPageIndex] ?? TeletextFeed.fallback.sections[0].pages[0]
     }
 
     var body: some View {
@@ -127,11 +127,18 @@ struct ContentView: View {
     private var sectionMenu: some View {
         VStack(alignment: .leading, spacing: 9) {
             ForEach(Array(sections.enumerated()), id: \.element.id) { index, section in
+                let isChildSection = isSportChildSection(section)
                 Button {
                     currentSectionIndex = index
                     currentPageIndex = 0
                 } label: {
                     HStack(spacing: 10) {
+                        if isChildSection {
+                            Rectangle()
+                                .fill(Color.red.opacity(0.85))
+                                .frame(width: 4, height: 24)
+                        }
+
                         Text(section.startPage)
                             .font(.system(size: 25, weight: .black))
                             .foregroundStyle(section.color)
@@ -141,6 +148,7 @@ struct ContentView: View {
                             .foregroundStyle(index == currentSectionIndex ? .black : .white)
                     }
                     .frame(maxWidth: .infinity, alignment: .leading)
+                    .padding(.leading, isChildSection ? 18 : 0)
                     .padding(.horizontal, 12)
                     .padding(.vertical, 8)
                     .background(index == currentSectionIndex ? section.color : Color.white.opacity(0.08))
@@ -165,6 +173,10 @@ struct ContentView: View {
         }
         .frame(width: 292)
         .padding(.top, 16)
+    }
+
+    private func isSportChildSection(_ section: TeletextSection) -> Bool {
+        ["matches", "results", "tables", "stats"].contains(section.id)
     }
 
     private var remoteControlButtons: some View {
@@ -214,19 +226,37 @@ struct ContentView: View {
     }
 
     private func nextPage() {
+        guard !currentSection.pages.isEmpty else {
+            currentPageIndex = 0
+            return
+        }
         currentPageIndex = (currentPageIndex + 1) % currentSection.pages.count
     }
 
     private func previousPage() {
+        guard !currentSection.pages.isEmpty else {
+            currentPageIndex = 0
+            return
+        }
         currentPageIndex = (currentPageIndex - 1 + currentSection.pages.count) % currentSection.pages.count
     }
 
     private func nextSection() {
+        guard !sections.isEmpty else {
+            currentSectionIndex = 0
+            currentPageIndex = 0
+            return
+        }
         currentSectionIndex = (currentSectionIndex + 1) % sections.count
         currentPageIndex = 0
     }
 
     private func previousSection() {
+        guard !sections.isEmpty else {
+            currentSectionIndex = 0
+            currentPageIndex = 0
+            return
+        }
         currentSectionIndex = (currentSectionIndex - 1 + sections.count) % sections.count
         currentPageIndex = 0
     }
